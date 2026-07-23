@@ -1,0 +1,4024 @@
+{
+  "method": "NFKC/case/punctuation plus optional-parenthetical, slash-template, argument-placeholder and separable-phrasal normalization",
+  "rawRows": 736,
+  "uniqueHeadwords": 701,
+  "removedRows": 283,
+  "fceOnlyCards": 418,
+  "unitCounts": [
+    24,
+    25,
+    9,
+    15,
+    13,
+    20,
+    17,
+    12,
+    11,
+    16,
+    23,
+    27,
+    10,
+    20,
+    13,
+    15,
+    15,
+    15,
+    25,
+    19,
+    13,
+    16,
+    25,
+    20
+  ],
+  "remainingOverlapAliases": [],
+  "removed": [
+    {
+      "headword": "bargain",
+      "unit": 1,
+      "matchedAliases": [
+        "bargain"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "bargain",
+          "alias": "bargain"
+        }
+      ]
+    },
+    {
+      "headword": "bracelet",
+      "unit": 1,
+      "matchedAliases": [
+        "bracelet"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "bracelet",
+          "alias": "bracelet"
+        }
+      ]
+    },
+    {
+      "headword": "casual",
+      "unit": 1,
+      "matchedAliases": [
+        "casual"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "casual",
+          "alias": "casual"
+        }
+      ]
+    },
+    {
+      "headword": "go for sth",
+      "unit": 1,
+      "matchedAliases": [
+        "go for"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "go for",
+          "alias": "go for"
+        }
+      ]
+    },
+    {
+      "headword": "go on",
+      "unit": 1,
+      "matchedAliases": [
+        "go on"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "go on",
+          "alias": "go on"
+        }
+      ]
+    },
+    {
+      "headword": "go out",
+      "unit": 1,
+      "matchedAliases": [
+        "go out"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "go out",
+          "alias": "go out"
+        }
+      ]
+    },
+    {
+      "headword": "helmet",
+      "unit": 1,
+      "matchedAliases": [
+        "helmet"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "helmet",
+          "alias": "helmet"
+        }
+      ]
+    },
+    {
+      "headword": "keep up (with sb/sth)",
+      "unit": 1,
+      "matchedAliases": [
+        "keep up"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "keep up",
+          "alias": "keep up"
+        }
+      ]
+    },
+    {
+      "headword": "label",
+      "unit": 1,
+      "matchedAliases": [
+        "label"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "label",
+          "alias": "label"
+        }
+      ]
+    },
+    {
+      "headword": "matter",
+      "unit": 1,
+      "matchedAliases": [
+        "matter"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "matter",
+          "alias": "matter"
+        }
+      ]
+    },
+    {
+      "headword": "slightly",
+      "unit": 1,
+      "matchedAliases": [
+        "slightly"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "slightly",
+          "alias": "slightly"
+        }
+      ]
+    },
+    {
+      "headword": "smart",
+      "unit": 1,
+      "matchedAliases": [
+        "smart"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "smart (stylish)",
+          "alias": "smart"
+        },
+        {
+          "level": "KET",
+          "headword": "smart (clever)",
+          "alias": "smart"
+        }
+      ]
+    },
+    {
+      "headword": "stall",
+      "unit": 1,
+      "matchedAliases": [
+        "stall"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "stall",
+          "alias": "stall"
+        }
+      ]
+    },
+    {
+      "headword": "stuff",
+      "unit": 1,
+      "matchedAliases": [
+        "stuff"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "stuff",
+          "alias": "stuff"
+        }
+      ]
+    },
+    {
+      "headword": "stylish",
+      "unit": 1,
+      "matchedAliases": [
+        "stylish"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "stylish",
+          "alias": "stylish"
+        }
+      ]
+    },
+    {
+      "headword": "sweatshirt",
+      "unit": 1,
+      "matchedAliases": [
+        "sweatshirt"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "sweatshirt",
+          "alias": "sweatshirt"
+        }
+      ]
+    },
+    {
+      "headword": "take off sth or take sth off",
+      "unit": 1,
+      "matchedAliases": [
+        "take off"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "take off",
+          "alias": "take off"
+        }
+      ]
+    },
+    {
+      "headword": "action",
+      "unit": 2,
+      "matchedAliases": [
+        "action"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "action",
+          "alias": "action"
+        }
+      ]
+    },
+    {
+      "headword": "application/app",
+      "unit": 2,
+      "matchedAliases": [
+        "app",
+        "application"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "app",
+          "alias": "app"
+        },
+        {
+          "level": "PET",
+          "headword": "application",
+          "alias": "application"
+        }
+      ]
+    },
+    {
+      "headword": "control",
+      "unit": 2,
+      "matchedAliases": [
+        "control"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "control",
+          "alias": "control"
+        }
+      ]
+    },
+    {
+      "headword": "disappointed",
+      "unit": 2,
+      "matchedAliases": [
+        "disappointed"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "disappointed",
+          "alias": "disappointed"
+        }
+      ]
+    },
+    {
+      "headword": "find out (sth) or find (sth) out",
+      "unit": 2,
+      "matchedAliases": [
+        "find out"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "find out",
+          "alias": "find out"
+        }
+      ]
+    },
+    {
+      "headword": "goal",
+      "unit": 2,
+      "matchedAliases": [
+        "goal"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "goal",
+          "alias": "goal"
+        }
+      ]
+    },
+    {
+      "headword": "graphics",
+      "unit": 2,
+      "matchedAliases": [
+        "graphics"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "graphics",
+          "alias": "graphics"
+        }
+      ]
+    },
+    {
+      "headword": "hopeless",
+      "unit": 2,
+      "matchedAliases": [
+        "hopeless"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "hopeless",
+          "alias": "hopeless"
+        }
+      ]
+    },
+    {
+      "headword": "messy",
+      "unit": 2,
+      "matchedAliases": [
+        "messy"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "messy",
+          "alias": "messy"
+        }
+      ]
+    },
+    {
+      "headword": "review",
+      "unit": 2,
+      "matchedAliases": [
+        "review"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "review",
+          "alias": "review"
+        }
+      ]
+    },
+    {
+      "headword": "solve",
+      "unit": 2,
+      "matchedAliases": [
+        "solve"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "solve",
+          "alias": "solve"
+        }
+      ]
+    },
+    {
+      "headword": "soundtrack",
+      "unit": 2,
+      "matchedAliases": [
+        "soundtrack"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "soundtrack",
+          "alias": "soundtrack"
+        }
+      ]
+    },
+    {
+      "headword": "turn on sth or turn sth on",
+      "unit": 2,
+      "matchedAliases": [
+        "turn on"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "turn on",
+          "alias": "turn on"
+        }
+      ]
+    },
+    {
+      "headword": "turn up sth or turn sth up",
+      "unit": 2,
+      "matchedAliases": [
+        "turn up"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "turn up",
+          "alias": "turn up"
+        }
+      ]
+    },
+    {
+      "headword": "version",
+      "unit": 2,
+      "matchedAliases": [
+        "version"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "version",
+          "alias": "version"
+        }
+      ]
+    },
+    {
+      "headword": "airline",
+      "unit": 3,
+      "matchedAliases": [
+        "airline"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "airline",
+          "alias": "airline"
+        }
+      ]
+    },
+    {
+      "headword": "approach",
+      "unit": 3,
+      "matchedAliases": [
+        "approach"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "approach",
+          "alias": "approach"
+        }
+      ]
+    },
+    {
+      "headword": "backpacker",
+      "unit": 3,
+      "matchedAliases": [
+        "backpacker"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "backpacker",
+          "alias": "backpacker"
+        }
+      ]
+    },
+    {
+      "headword": "cabin",
+      "unit": 3,
+      "matchedAliases": [
+        "cabin"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "cabin",
+          "alias": "cabin"
+        }
+      ]
+    },
+    {
+      "headword": "campsite",
+      "unit": 3,
+      "matchedAliases": [
+        "campsite"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "campsite",
+          "alias": "campsite"
+        }
+      ]
+    },
+    {
+      "headword": "check in",
+      "unit": 3,
+      "matchedAliases": [
+        "check in"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "check in",
+          "alias": "check in"
+        },
+        {
+          "level": "PET",
+          "headword": "check-in",
+          "alias": "check in"
+        }
+      ]
+    },
+    {
+      "headword": "check out",
+      "unit": 3,
+      "matchedAliases": [
+        "check out"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "check out",
+          "alias": "check out"
+        }
+      ]
+    },
+    {
+      "headword": "cliff",
+      "unit": 3,
+      "matchedAliases": [
+        "cliff"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "cliff",
+          "alias": "cliff"
+        }
+      ]
+    },
+    {
+      "headword": "coast",
+      "unit": 3,
+      "matchedAliases": [
+        "coast"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "coast",
+          "alias": "coast"
+        }
+      ]
+    },
+    {
+      "headword": "crew",
+      "unit": 3,
+      "matchedAliases": [
+        "crew"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "crew",
+          "alias": "crew"
+        }
+      ]
+    },
+    {
+      "headword": "destination",
+      "unit": 3,
+      "matchedAliases": [
+        "destination"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "destination",
+          "alias": "destination"
+        }
+      ]
+    },
+    {
+      "headword": "disturb",
+      "unit": 3,
+      "matchedAliases": [
+        "disturb"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "disturb",
+          "alias": "disturb"
+        }
+      ]
+    },
+    {
+      "headword": "expedition",
+      "unit": 3,
+      "matchedAliases": [
+        "expedition"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "expedition",
+          "alias": "expedition"
+        }
+      ]
+    },
+    {
+      "headword": "ferry",
+      "unit": 3,
+      "matchedAliases": [
+        "ferry"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "ferry",
+          "alias": "ferry"
+        }
+      ]
+    },
+    {
+      "headword": "fill in sth or fill sth in",
+      "unit": 3,
+      "matchedAliases": [
+        "fill in"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "fill in",
+          "alias": "fill in"
+        }
+      ]
+    },
+    {
+      "headword": "friendship",
+      "unit": 3,
+      "matchedAliases": [
+        "friendship"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "friendship",
+          "alias": "friendship"
+        }
+      ]
+    },
+    {
+      "headword": "get in",
+      "unit": 3,
+      "matchedAliases": [
+        "get in"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "get in",
+          "alias": "get in"
+        }
+      ]
+    },
+    {
+      "headword": "get rid of sth",
+      "unit": 3,
+      "matchedAliases": [
+        "get rid of"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "get rid of",
+          "alias": "get rid of"
+        }
+      ]
+    },
+    {
+      "headword": "ground",
+      "unit": 3,
+      "matchedAliases": [
+        "ground"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "ground",
+          "alias": "ground"
+        }
+      ]
+    },
+    {
+      "headword": "harbour",
+      "unit": 3,
+      "matchedAliases": [
+        "harbour"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "harbour",
+          "alias": "harbour"
+        }
+      ]
+    },
+    {
+      "headword": "land",
+      "unit": 3,
+      "matchedAliases": [
+        "land"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "land",
+          "alias": "land"
+        }
+      ]
+    },
+    {
+      "headword": "set off",
+      "unit": 3,
+      "matchedAliases": [
+        "set off"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "set off",
+          "alias": "set off"
+        }
+      ]
+    },
+    {
+      "headword": "take off",
+      "unit": 3,
+      "matchedAliases": [
+        "take off"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "take off",
+          "alias": "take off"
+        }
+      ]
+    },
+    {
+      "headword": "travel agent",
+      "unit": 3,
+      "matchedAliases": [
+        "travel agent"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "travel agent",
+          "alias": "travel agent"
+        }
+      ]
+    },
+    {
+      "headword": "visa",
+      "unit": 3,
+      "matchedAliases": [
+        "visa"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "visa",
+          "alias": "visa"
+        }
+      ]
+    },
+    {
+      "headword": "wildlife",
+      "unit": 3,
+      "matchedAliases": [
+        "wildlife"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "wildlife",
+          "alias": "wildlife"
+        }
+      ]
+    },
+    {
+      "headword": "breeze",
+      "unit": 4,
+      "matchedAliases": [
+        "breeze"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "breeze",
+          "alias": "breeze"
+        }
+      ]
+    },
+    {
+      "headword": "fur",
+      "unit": 4,
+      "matchedAliases": [
+        "fur"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "fur",
+          "alias": "fur"
+        }
+      ]
+    },
+    {
+      "headword": "global warming",
+      "unit": 4,
+      "matchedAliases": [
+        "global warming"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "global warming",
+          "alias": "global warming"
+        }
+      ]
+    },
+    {
+      "headword": "in time",
+      "unit": 4,
+      "matchedAliases": [
+        "in time"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "in time",
+          "alias": "in time"
+        }
+      ]
+    },
+    {
+      "headword": "look forward to sth/doing sth",
+      "unit": 4,
+      "matchedAliases": [
+        "look forward to"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "look forward to",
+          "alias": "look forward to"
+        }
+      ]
+    },
+    {
+      "headword": "parrot",
+      "unit": 4,
+      "matchedAliases": [
+        "parrot"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "parrot",
+          "alias": "parrot"
+        }
+      ]
+    },
+    {
+      "headword": "polar bear",
+      "unit": 4,
+      "matchedAliases": [
+        "polar bear"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "polar bear",
+          "alias": "polar bear"
+        }
+      ]
+    },
+    {
+      "headword": "souvenir",
+      "unit": 4,
+      "matchedAliases": [
+        "souvenir"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "souvenir",
+          "alias": "souvenir"
+        }
+      ]
+    },
+    {
+      "headword": "species",
+      "unit": 4,
+      "matchedAliases": [
+        "species"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "species",
+          "alias": "species"
+        }
+      ]
+    },
+    {
+      "headword": "suffer",
+      "unit": 4,
+      "matchedAliases": [
+        "suffer"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "suffer",
+          "alias": "suffer"
+        }
+      ]
+    },
+    {
+      "headword": "support",
+      "unit": 4,
+      "matchedAliases": [
+        "support"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "support",
+          "alias": "support"
+        }
+      ]
+    },
+    {
+      "headword": "tail",
+      "unit": 4,
+      "matchedAliases": [
+        "tail"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "tail",
+          "alias": "tail"
+        }
+      ]
+    },
+    {
+      "headword": "wild",
+      "unit": 4,
+      "matchedAliases": [
+        "wild"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "wild",
+          "alias": "wild"
+        }
+      ]
+    },
+    {
+      "headword": "wing",
+      "unit": 4,
+      "matchedAliases": [
+        "wing"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "wing",
+          "alias": "wing"
+        }
+      ]
+    },
+    {
+      "headword": "absolutely",
+      "unit": 5,
+      "matchedAliases": [
+        "absolutely"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "absolutely",
+          "alias": "absolutely"
+        }
+      ]
+    },
+    {
+      "headword": "anxious",
+      "unit": 5,
+      "matchedAliases": [
+        "anxious"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "anxious",
+          "alias": "anxious"
+        }
+      ]
+    },
+    {
+      "headword": "blow",
+      "unit": 5,
+      "matchedAliases": [
+        "blow"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "blow",
+          "alias": "blow"
+        }
+      ]
+    },
+    {
+      "headword": "delighted",
+      "unit": 5,
+      "matchedAliases": [
+        "delighted"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "delighted",
+          "alias": "delighted"
+        }
+      ]
+    },
+    {
+      "headword": "end up",
+      "unit": 5,
+      "matchedAliases": [
+        "end up"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "end up",
+          "alias": "end up"
+        }
+      ]
+    },
+    {
+      "headword": "extremely",
+      "unit": 5,
+      "matchedAliases": [
+        "extremely"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "extremely",
+          "alias": "extremely"
+        }
+      ]
+    },
+    {
+      "headword": "frightened",
+      "unit": 5,
+      "matchedAliases": [
+        "frightened"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "frightened",
+          "alias": "frightened"
+        }
+      ]
+    },
+    {
+      "headword": "grab",
+      "unit": 5,
+      "matchedAliases": [
+        "grab"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "grab",
+          "alias": "grab"
+        }
+      ]
+    },
+    {
+      "headword": "pour",
+      "unit": 5,
+      "matchedAliases": [
+        "pour"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "pour",
+          "alias": "pour"
+        }
+      ]
+    },
+    {
+      "headword": "relieved",
+      "unit": 5,
+      "matchedAliases": [
+        "relieved"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "relieved",
+          "alias": "relieved"
+        }
+      ]
+    },
+    {
+      "headword": "satisfied",
+      "unit": 5,
+      "matchedAliases": [
+        "satisfied"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "satisfied",
+          "alias": "satisfied"
+        }
+      ]
+    },
+    {
+      "headword": "shake",
+      "unit": 5,
+      "matchedAliases": [
+        "shake"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "shake",
+          "alias": "shake"
+        }
+      ]
+    },
+    {
+      "headword": "shoot",
+      "unit": 5,
+      "matchedAliases": [
+        "shoot"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "shoot",
+          "alias": "shoot"
+        }
+      ]
+    },
+    {
+      "headword": "tense",
+      "unit": 5,
+      "matchedAliases": [
+        "tense"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "tense",
+          "alias": "tense"
+        }
+      ]
+    },
+    {
+      "headword": "terrified",
+      "unit": 5,
+      "matchedAliases": [
+        "terrified"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "terrified",
+          "alias": "terrified"
+        }
+      ]
+    },
+    {
+      "headword": "totally",
+      "unit": 5,
+      "matchedAliases": [
+        "totally"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "totally",
+          "alias": "totally"
+        }
+      ]
+    },
+    {
+      "headword": "appearance",
+      "unit": 6,
+      "matchedAliases": [
+        "appearance"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "appearance",
+          "alias": "appearance"
+        }
+      ]
+    },
+    {
+      "headword": "argument",
+      "unit": 6,
+      "matchedAliases": [
+        "argument"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "argument",
+          "alias": "argument"
+        }
+      ]
+    },
+    {
+      "headword": "case",
+      "unit": 6,
+      "matchedAliases": [
+        "case"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "case",
+          "alias": "case"
+        }
+      ]
+    },
+    {
+      "headword": "celebrity",
+      "unit": 6,
+      "matchedAliases": [
+        "celebrity"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "celebrity",
+          "alias": "celebrity"
+        }
+      ]
+    },
+    {
+      "headword": "contest",
+      "unit": 6,
+      "matchedAliases": [
+        "contest"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "contest",
+          "alias": "contest"
+        }
+      ]
+    },
+    {
+      "headword": "headline",
+      "unit": 6,
+      "matchedAliases": [
+        "headline"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "headline",
+          "alias": "headline"
+        }
+      ]
+    },
+    {
+      "headword": "keep sb in",
+      "unit": 6,
+      "matchedAliases": [
+        "keep in"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "keep in",
+          "alias": "keep in"
+        }
+      ]
+    },
+    {
+      "headword": "keep on (doing sth)",
+      "unit": 6,
+      "matchedAliases": [
+        "keep on"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "keep on",
+          "alias": "keep on"
+        }
+      ]
+    },
+    {
+      "headword": "lottery",
+      "unit": 6,
+      "matchedAliases": [
+        "lottery"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "lottery",
+          "alias": "lottery"
+        }
+      ]
+    },
+    {
+      "headword": "talent",
+      "unit": 6,
+      "matchedAliases": [
+        "talent"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "talent",
+          "alias": "talent"
+        }
+      ]
+    },
+    {
+      "headword": "course",
+      "unit": 7,
+      "matchedAliases": [
+        "course"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "course",
+          "alias": "course"
+        }
+      ]
+    },
+    {
+      "headword": "court",
+      "unit": 7,
+      "matchedAliases": [
+        "court"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "court",
+          "alias": "court"
+        }
+      ]
+    },
+    {
+      "headword": "extreme sport",
+      "unit": 7,
+      "matchedAliases": [
+        "extreme sport"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "extreme sport",
+          "alias": "extreme sport"
+        }
+      ]
+    },
+    {
+      "headword": "field",
+      "unit": 7,
+      "matchedAliases": [
+        "field"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "field",
+          "alias": "field"
+        }
+      ]
+    },
+    {
+      "headword": "fitness",
+      "unit": 7,
+      "matchedAliases": [
+        "fitness"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "fitness",
+          "alias": "fitness"
+        }
+      ]
+    },
+    {
+      "headword": "gym",
+      "unit": 7,
+      "matchedAliases": [
+        "gym"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "gym",
+          "alias": "gym"
+        }
+      ]
+    },
+    {
+      "headword": "gymnastics",
+      "unit": 7,
+      "matchedAliases": [
+        "gymnastics"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "gymnastics",
+          "alias": "gymnastics"
+        }
+      ]
+    },
+    {
+      "headword": "net",
+      "unit": 7,
+      "matchedAliases": [
+        "net"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "net",
+          "alias": "net"
+        }
+      ]
+    },
+    {
+      "headword": "pitch",
+      "unit": 7,
+      "matchedAliases": [
+        "pitch"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "pitch",
+          "alias": "pitch"
+        }
+      ]
+    },
+    {
+      "headword": "row",
+      "unit": 7,
+      "matchedAliases": [
+        "row"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "row",
+          "alias": "row"
+        }
+      ]
+    },
+    {
+      "headword": "scary",
+      "unit": 7,
+      "matchedAliases": [
+        "scary"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "scary",
+          "alias": "scary"
+        }
+      ]
+    },
+    {
+      "headword": "ski",
+      "unit": 7,
+      "matchedAliases": [
+        "ski"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "ski",
+          "alias": "ski"
+        }
+      ]
+    },
+    {
+      "headword": "team",
+      "unit": 7,
+      "matchedAliases": [
+        "team"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "team",
+          "alias": "team"
+        }
+      ]
+    },
+    {
+      "headword": "track",
+      "unit": 7,
+      "matchedAliases": [
+        "track"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "track",
+          "alias": "track"
+        }
+      ]
+    },
+    {
+      "headword": "affect",
+      "unit": 8,
+      "matchedAliases": [
+        "affect"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "affect",
+          "alias": "affect"
+        }
+      ]
+    },
+    {
+      "headword": "confident",
+      "unit": 8,
+      "matchedAliases": [
+        "confident"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "confident",
+          "alias": "confident"
+        }
+      ]
+    },
+    {
+      "headword": "get on (with sb)",
+      "unit": 8,
+      "matchedAliases": [
+        "get on"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "get on",
+          "alias": "get on"
+        }
+      ]
+    },
+    {
+      "headword": "housework",
+      "unit": 8,
+      "matchedAliases": [
+        "housework"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "housework",
+          "alias": "housework"
+        }
+      ]
+    },
+    {
+      "headword": "kid",
+      "unit": 8,
+      "matchedAliases": [
+        "kid"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "kid(s)",
+          "alias": "kid"
+        }
+      ]
+    },
+    {
+      "headword": "mood",
+      "unit": 8,
+      "matchedAliases": [
+        "mood"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "mood",
+          "alias": "mood"
+        }
+      ]
+    },
+    {
+      "headword": "neighbourhood",
+      "unit": 8,
+      "matchedAliases": [
+        "neighbourhood"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "neighbourhood",
+          "alias": "neighbourhood"
+        }
+      ]
+    },
+    {
+      "headword": "proud",
+      "unit": 8,
+      "matchedAliases": [
+        "proud"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "proud",
+          "alias": "proud"
+        }
+      ]
+    },
+    {
+      "headword": "selfish",
+      "unit": 8,
+      "matchedAliases": [
+        "selfish"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "selfish",
+          "alias": "selfish"
+        }
+      ]
+    },
+    {
+      "headword": "sensible",
+      "unit": 8,
+      "matchedAliases": [
+        "sensible"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "sensible",
+          "alias": "sensible"
+        }
+      ]
+    },
+    {
+      "headword": "share",
+      "unit": 8,
+      "matchedAliases": [
+        "share"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "share",
+          "alias": "share"
+        },
+        {
+          "level": "KET",
+          "headword": "share (digitally)",
+          "alias": "share"
+        }
+      ]
+    },
+    {
+      "headword": "admit",
+      "unit": 9,
+      "matchedAliases": [
+        "admit"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "admit",
+          "alias": "admit"
+        }
+      ]
+    },
+    {
+      "headword": "advertise",
+      "unit": 9,
+      "matchedAliases": [
+        "advertise"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "advertise",
+          "alias": "advertise"
+        }
+      ]
+    },
+    {
+      "headword": "character",
+      "unit": 9,
+      "matchedAliases": [
+        "character"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "character",
+          "alias": "character"
+        }
+      ]
+    },
+    {
+      "headword": "doubt",
+      "unit": 9,
+      "matchedAliases": [
+        "doubt"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "doubt",
+          "alias": "doubt"
+        }
+      ]
+    },
+    {
+      "headword": "ending",
+      "unit": 9,
+      "matchedAliases": [
+        "ending"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "ending",
+          "alias": "ending"
+        }
+      ]
+    },
+    {
+      "headword": "huge",
+      "unit": 9,
+      "matchedAliases": [
+        "huge"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "huge",
+          "alias": "huge"
+        }
+      ]
+    },
+    {
+      "headword": "location",
+      "unit": 9,
+      "matchedAliases": [
+        "location"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "location",
+          "alias": "location"
+        }
+      ]
+    },
+    {
+      "headword": "message",
+      "unit": 9,
+      "matchedAliases": [
+        "message"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "message",
+          "alias": "message"
+        }
+      ]
+    },
+    {
+      "headword": "narrow",
+      "unit": 9,
+      "matchedAliases": [
+        "narrow"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "narrow",
+          "alias": "narrow"
+        }
+      ]
+    },
+    {
+      "headword": "powerful",
+      "unit": 9,
+      "matchedAliases": [
+        "powerful"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "powerful",
+          "alias": "powerful"
+        }
+      ]
+    },
+    {
+      "headword": "production",
+      "unit": 9,
+      "matchedAliases": [
+        "production"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "production",
+          "alias": "production"
+        }
+      ]
+    },
+    {
+      "headword": "stress",
+      "unit": 9,
+      "matchedAliases": [
+        "stress"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "stress",
+          "alias": "stress"
+        }
+      ]
+    },
+    {
+      "headword": "view",
+      "unit": 9,
+      "matchedAliases": [
+        "view"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "view",
+          "alias": "view"
+        }
+      ]
+    },
+    {
+      "headword": "access",
+      "unit": 10,
+      "matchedAliases": [
+        "access"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "access",
+          "alias": "access"
+        }
+      ]
+    },
+    {
+      "headword": "achievement",
+      "unit": 10,
+      "matchedAliases": [
+        "achievement"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "achievement",
+          "alias": "achievement"
+        }
+      ]
+    },
+    {
+      "headword": "at first",
+      "unit": 10,
+      "matchedAliases": [
+        "at first"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "at first",
+          "alias": "at first"
+        }
+      ]
+    },
+    {
+      "headword": "at last",
+      "unit": 10,
+      "matchedAliases": [
+        "at last"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "at last",
+          "alias": "at last"
+        }
+      ]
+    },
+    {
+      "headword": "at least",
+      "unit": 10,
+      "matchedAliases": [
+        "at least"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "at least",
+          "alias": "at least"
+        }
+      ]
+    },
+    {
+      "headword": "at once",
+      "unit": 10,
+      "matchedAliases": [
+        "at once"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "at once",
+          "alias": "at once"
+        }
+      ]
+    },
+    {
+      "headword": "at present",
+      "unit": 10,
+      "matchedAliases": [
+        "at present"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "at present",
+          "alias": "at present"
+        }
+      ]
+    },
+    {
+      "headword": "at the same time",
+      "unit": 10,
+      "matchedAliases": [
+        "at the same time"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "at the same time",
+          "alias": "at the same time"
+        }
+      ]
+    },
+    {
+      "headword": "need",
+      "unit": 10,
+      "matchedAliases": [
+        "need"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "need",
+          "alias": "need"
+        }
+      ]
+    },
+    {
+      "headword": "prove",
+      "unit": 10,
+      "matchedAliases": [
+        "prove"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "prove",
+          "alias": "prove"
+        }
+      ]
+    },
+    {
+      "headword": "rocket",
+      "unit": 10,
+      "matchedAliases": [
+        "rocket"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "rocket",
+          "alias": "rocket"
+        }
+      ]
+    },
+    {
+      "headword": "scientific",
+      "unit": 10,
+      "matchedAliases": [
+        "scientific"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "scientific",
+          "alias": "scientific"
+        }
+      ]
+    },
+    {
+      "headword": "solution",
+      "unit": 10,
+      "matchedAliases": [
+        "solution"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "solution",
+          "alias": "solution"
+        }
+      ]
+    },
+    {
+      "headword": "space",
+      "unit": 10,
+      "matchedAliases": [
+        "space"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "space",
+          "alias": "space"
+        }
+      ]
+    },
+    {
+      "headword": "supporter",
+      "unit": 10,
+      "matchedAliases": [
+        "supporter"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "supporter",
+          "alias": "supporter"
+        }
+      ]
+    },
+    {
+      "headword": "technology",
+      "unit": 10,
+      "matchedAliases": [
+        "technology"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "technology",
+          "alias": "technology"
+        }
+      ]
+    },
+    {
+      "headword": "bossy",
+      "unit": 11,
+      "matchedAliases": [
+        "bossy"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "bossy",
+          "alias": "bossy"
+        }
+      ]
+    },
+    {
+      "headword": "cheerful",
+      "unit": 11,
+      "matchedAliases": [
+        "cheerful"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "cheerful",
+          "alias": "cheerful"
+        }
+      ]
+    },
+    {
+      "headword": "jealous",
+      "unit": 11,
+      "matchedAliases": [
+        "jealous"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "jealous",
+          "alias": "jealous"
+        }
+      ]
+    },
+    {
+      "headword": "lazy",
+      "unit": 11,
+      "matchedAliases": [
+        "lazy"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "lazy",
+          "alias": "lazy"
+        }
+      ]
+    },
+    {
+      "headword": "twin",
+      "unit": 11,
+      "matchedAliases": [
+        "twin"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "twin",
+          "alias": "twin"
+        }
+      ]
+    },
+    {
+      "headword": "complaint",
+      "unit": 12,
+      "matchedAliases": [
+        "complaint"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "complaint",
+          "alias": "complaint"
+        }
+      ]
+    },
+    {
+      "headword": "inventor",
+      "unit": 12,
+      "matchedAliases": [
+        "inventor"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "inventor",
+          "alias": "inventor"
+        }
+      ]
+    },
+    {
+      "headword": "research",
+      "unit": 12,
+      "matchedAliases": [
+        "research"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "research",
+          "alias": "research"
+        }
+      ]
+    },
+    {
+      "headword": "stick",
+      "unit": 12,
+      "matchedAliases": [
+        "stick"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "stick",
+          "alias": "stick"
+        }
+      ]
+    },
+    {
+      "headword": "ambition",
+      "unit": 13,
+      "matchedAliases": [
+        "ambition"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "ambition",
+          "alias": "ambition"
+        }
+      ]
+    },
+    {
+      "headword": "apologise (UK) / apologize",
+      "unit": 13,
+      "matchedAliases": [
+        "apologise"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "apologise",
+          "alias": "apologise"
+        }
+      ]
+    },
+    {
+      "headword": "feel",
+      "unit": 13,
+      "matchedAliases": [
+        "feel"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "feel",
+          "alias": "feel"
+        }
+      ]
+    },
+    {
+      "headword": "insist",
+      "unit": 13,
+      "matchedAliases": [
+        "insist"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "insist",
+          "alias": "insist"
+        }
+      ]
+    },
+    {
+      "headword": "mention",
+      "unit": 13,
+      "matchedAliases": [
+        "mention"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "mention",
+          "alias": "mention"
+        }
+      ]
+    },
+    {
+      "headword": "opportunity",
+      "unit": 13,
+      "matchedAliases": [
+        "opportunity"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "opportunity",
+          "alias": "opportunity"
+        }
+      ]
+    },
+    {
+      "headword": "performance",
+      "unit": 13,
+      "matchedAliases": [
+        "performance"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "performance (ENTERTAINMENT)",
+          "alias": "performance"
+        }
+      ]
+    },
+    {
+      "headword": "position",
+      "unit": 13,
+      "matchedAliases": [
+        "position"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "position",
+          "alias": "position"
+        }
+      ]
+    },
+    {
+      "headword": "progress",
+      "unit": 13,
+      "matchedAliases": [
+        "progress"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "progress",
+          "alias": "progress"
+        }
+      ]
+    },
+    {
+      "headword": "promise",
+      "unit": 13,
+      "matchedAliases": [
+        "promise"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "promise",
+          "alias": "promise"
+        }
+      ]
+    },
+    {
+      "headword": "qualification",
+      "unit": 13,
+      "matchedAliases": [
+        "qualification"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "qualification",
+          "alias": "qualification"
+        }
+      ]
+    },
+    {
+      "headword": "refuse",
+      "unit": 13,
+      "matchedAliases": [
+        "refuse"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "refuse",
+          "alias": "refuse"
+        }
+      ]
+    },
+    {
+      "headword": "warn",
+      "unit": 13,
+      "matchedAliases": [
+        "warn"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "warn",
+          "alias": "warn"
+        }
+      ]
+    },
+    {
+      "headword": "wish",
+      "unit": 13,
+      "matchedAliases": [
+        "wish"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "wish",
+          "alias": "wish"
+        }
+      ]
+    },
+    {
+      "headword": "at all",
+      "unit": 14,
+      "matchedAliases": [
+        "at all"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "at all",
+          "alias": "at all"
+        }
+      ]
+    },
+    {
+      "headword": "background",
+      "unit": 14,
+      "matchedAliases": [
+        "background"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "background",
+          "alias": "background"
+        },
+        {
+          "level": "PET",
+          "headword": "background (experience)",
+          "alias": "background"
+        }
+      ]
+    },
+    {
+      "headword": "career",
+      "unit": 14,
+      "matchedAliases": [
+        "career"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "career",
+          "alias": "career"
+        }
+      ]
+    },
+    {
+      "headword": "employer",
+      "unit": 14,
+      "matchedAliases": [
+        "employer"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "employer",
+          "alias": "employer"
+        }
+      ]
+    },
+    {
+      "headword": "responsible",
+      "unit": 14,
+      "matchedAliases": [
+        "responsible"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "responsible",
+          "alias": "responsible"
+        }
+      ]
+    },
+    {
+      "headword": "routine",
+      "unit": 14,
+      "matchedAliases": [
+        "routine"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "routine",
+          "alias": "routine"
+        }
+      ]
+    },
+    {
+      "headword": "bar",
+      "unit": 15,
+      "matchedAliases": [
+        "bar"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "bar",
+          "alias": "bar"
+        }
+      ]
+    },
+    {
+      "headword": "canal",
+      "unit": 15,
+      "matchedAliases": [
+        "canal"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "canal",
+          "alias": "canal"
+        }
+      ]
+    },
+    {
+      "headword": "clap",
+      "unit": 15,
+      "matchedAliases": [
+        "clap"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "clap",
+          "alias": "clap"
+        }
+      ]
+    },
+    {
+      "headword": "environment",
+      "unit": 15,
+      "matchedAliases": [
+        "environment"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "environment",
+          "alias": "environment"
+        }
+      ]
+    },
+    {
+      "headword": "flood",
+      "unit": 15,
+      "matchedAliases": [
+        "flood"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "flood",
+          "alias": "flood"
+        }
+      ]
+    },
+    {
+      "headword": "lake",
+      "unit": 15,
+      "matchedAliases": [
+        "lake"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "lake",
+          "alias": "lake"
+        }
+      ]
+    },
+    {
+      "headword": "lightning",
+      "unit": 15,
+      "matchedAliases": [
+        "lightning"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "lightning",
+          "alias": "lightning"
+        }
+      ]
+    },
+    {
+      "headword": "litter",
+      "unit": 15,
+      "matchedAliases": [
+        "litter"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "litter",
+          "alias": "litter"
+        }
+      ]
+    },
+    {
+      "headword": "recycle",
+      "unit": 15,
+      "matchedAliases": [
+        "recycle"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "recycle",
+          "alias": "recycle"
+        }
+      ]
+    },
+    {
+      "headword": "river",
+      "unit": 15,
+      "matchedAliases": [
+        "river"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "river",
+          "alias": "river"
+        }
+      ]
+    },
+    {
+      "headword": "route",
+      "unit": 15,
+      "matchedAliases": [
+        "route"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "route",
+          "alias": "route"
+        }
+      ]
+    },
+    {
+      "headword": "rubbish",
+      "unit": 15,
+      "matchedAliases": [
+        "rubbish"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "rubbish",
+          "alias": "rubbish"
+        }
+      ]
+    },
+    {
+      "headword": "second-hand",
+      "unit": 15,
+      "matchedAliases": [
+        "second hand"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "second-hand",
+          "alias": "second hand"
+        }
+      ]
+    },
+    {
+      "headword": "slice",
+      "unit": 15,
+      "matchedAliases": [
+        "slice"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "slice",
+          "alias": "slice"
+        }
+      ]
+    },
+    {
+      "headword": "storm",
+      "unit": 15,
+      "matchedAliases": [
+        "storm"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "storm",
+          "alias": "storm"
+        }
+      ]
+    },
+    {
+      "headword": "stream",
+      "unit": 15,
+      "matchedAliases": [
+        "stream"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "stream",
+          "alias": "stream"
+        }
+      ]
+    },
+    {
+      "headword": "traffic",
+      "unit": 15,
+      "matchedAliases": [
+        "traffic"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "traffic",
+          "alias": "traffic"
+        }
+      ]
+    },
+    {
+      "headword": "waterfall",
+      "unit": 15,
+      "matchedAliases": [
+        "waterfall"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "waterfall",
+          "alias": "waterfall"
+        }
+      ]
+    },
+    {
+      "headword": "bitter",
+      "unit": 16,
+      "matchedAliases": [
+        "bitter"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "bitter",
+          "alias": "bitter"
+        }
+      ]
+    },
+    {
+      "headword": "flat",
+      "unit": 16,
+      "matchedAliases": [
+        "flat"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "flat",
+          "alias": "flat"
+        }
+      ]
+    },
+    {
+      "headword": "flavour",
+      "unit": 16,
+      "matchedAliases": [
+        "flavour"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "flavour",
+          "alias": "flavour"
+        }
+      ]
+    },
+    {
+      "headword": "grill",
+      "unit": 16,
+      "matchedAliases": [
+        "grill"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "grill",
+          "alias": "grill"
+        }
+      ]
+    },
+    {
+      "headword": "influence",
+      "unit": 16,
+      "matchedAliases": [
+        "influence"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "influence",
+          "alias": "influence"
+        }
+      ]
+    },
+    {
+      "headword": "mild",
+      "unit": 16,
+      "matchedAliases": [
+        "mild"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "mild",
+          "alias": "mild"
+        }
+      ]
+    },
+    {
+      "headword": "rich",
+      "unit": 16,
+      "matchedAliases": [
+        "rich"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "rich",
+          "alias": "rich"
+        }
+      ]
+    },
+    {
+      "headword": "sense",
+      "unit": 16,
+      "matchedAliases": [
+        "sense"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "sense",
+          "alias": "sense"
+        }
+      ]
+    },
+    {
+      "headword": "amount",
+      "unit": 17,
+      "matchedAliases": [
+        "amount"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "amount",
+          "alias": "amount"
+        }
+      ]
+    },
+    {
+      "headword": "challenge",
+      "unit": 17,
+      "matchedAliases": [
+        "challenge"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "challenge",
+          "alias": "challenge"
+        }
+      ]
+    },
+    {
+      "headword": "collection",
+      "unit": 17,
+      "matchedAliases": [
+        "collection"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "collection",
+          "alias": "collection"
+        }
+      ]
+    },
+    {
+      "headword": "condition",
+      "unit": 17,
+      "matchedAliases": [
+        "condition"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "condition",
+          "alias": "condition"
+        }
+      ]
+    },
+    {
+      "headword": "look after sb/sth",
+      "unit": 17,
+      "matchedAliases": [
+        "look after"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "look after",
+          "alias": "look after"
+        }
+      ]
+    },
+    {
+      "headword": "look at sth",
+      "unit": 17,
+      "matchedAliases": [
+        "look at"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "look at",
+          "alias": "look at"
+        }
+      ]
+    },
+    {
+      "headword": "look for sth/sb",
+      "unit": 17,
+      "matchedAliases": [
+        "look for"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "look for",
+          "alias": "look for"
+        }
+      ]
+    },
+    {
+      "headword": "Look out!",
+      "unit": 17,
+      "matchedAliases": [
+        "look out"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "look out",
+          "alias": "look out"
+        }
+      ]
+    },
+    {
+      "headword": "memory",
+      "unit": 17,
+      "matchedAliases": [
+        "memory"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "memory",
+          "alias": "memory"
+        }
+      ]
+    },
+    {
+      "headword": "technique",
+      "unit": 17,
+      "matchedAliases": [
+        "technique"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "technique",
+          "alias": "technique"
+        }
+      ]
+    },
+    {
+      "headword": "biography",
+      "unit": 18,
+      "matchedAliases": [
+        "biography"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "biography",
+          "alias": "biography"
+        }
+      ]
+    },
+    {
+      "headword": "documentary",
+      "unit": 18,
+      "matchedAliases": [
+        "documentary"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "documentary",
+          "alias": "documentary"
+        }
+      ]
+    },
+    {
+      "headword": "form",
+      "unit": 18,
+      "matchedAliases": [
+        "form"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "form",
+          "alias": "form"
+        }
+      ]
+    },
+    {
+      "headword": "go off sb/sth",
+      "unit": 18,
+      "matchedAliases": [
+        "go off"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "go off",
+          "alias": "go off"
+        }
+      ]
+    },
+    {
+      "headword": "science fiction",
+      "unit": 18,
+      "matchedAliases": [
+        "science fiction"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "science fiction",
+          "alias": "science fiction"
+        }
+      ]
+    },
+    {
+      "headword": "sight",
+      "unit": 18,
+      "matchedAliases": [
+        "sight"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "sight",
+          "alias": "sight"
+        }
+      ]
+    },
+    {
+      "headword": "thriller",
+      "unit": 18,
+      "matchedAliases": [
+        "thriller"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "thriller",
+          "alias": "thriller"
+        }
+      ]
+    },
+    {
+      "headword": "ankle",
+      "unit": 19,
+      "matchedAliases": [
+        "ankle"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "ankle",
+          "alias": "ankle"
+        }
+      ]
+    },
+    {
+      "headword": "bandage",
+      "unit": 19,
+      "matchedAliases": [
+        "bandage"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "bandage",
+          "alias": "bandage"
+        }
+      ]
+    },
+    {
+      "headword": "break",
+      "unit": 19,
+      "matchedAliases": [
+        "break"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "break",
+          "alias": "break"
+        }
+      ]
+    },
+    {
+      "headword": "break down",
+      "unit": 19,
+      "matchedAliases": [
+        "break down"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "break down",
+          "alias": "break down"
+        }
+      ]
+    },
+    {
+      "headword": "bug",
+      "unit": 19,
+      "matchedAliases": [
+        "bug"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "bug",
+          "alias": "bug"
+        }
+      ]
+    },
+    {
+      "headword": "burn",
+      "unit": 19,
+      "matchedAliases": [
+        "burn"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "burn",
+          "alias": "burn"
+        }
+      ]
+    },
+    {
+      "headword": "elbow",
+      "unit": 19,
+      "matchedAliases": [
+        "elbow"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "elbow",
+          "alias": "elbow"
+        }
+      ]
+    },
+    {
+      "headword": "exercise",
+      "unit": 19,
+      "matchedAliases": [
+        "exercise"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "exercise",
+          "alias": "exercise"
+        }
+      ]
+    },
+    {
+      "headword": "hurt",
+      "unit": 19,
+      "matchedAliases": [
+        "hurt"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "hurt",
+          "alias": "hurt"
+        }
+      ]
+    },
+    {
+      "headword": "knee",
+      "unit": 19,
+      "matchedAliases": [
+        "knee"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "knee",
+          "alias": "knee"
+        }
+      ]
+    },
+    {
+      "headword": "on purpose",
+      "unit": 19,
+      "matchedAliases": [
+        "on purpose"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "on purpose",
+          "alias": "on purpose"
+        }
+      ]
+    },
+    {
+      "headword": "spot",
+      "unit": 19,
+      "matchedAliases": [
+        "spot"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "spot",
+          "alias": "spot"
+        }
+      ]
+    },
+    {
+      "headword": "arrest",
+      "unit": 20,
+      "matchedAliases": [
+        "arrest"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "arrest",
+          "alias": "arrest"
+        }
+      ]
+    },
+    {
+      "headword": "charge",
+      "unit": 20,
+      "matchedAliases": [
+        "charge"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "charge",
+          "alias": "charge"
+        }
+      ]
+    },
+    {
+      "headword": "criminal",
+      "unit": 20,
+      "matchedAliases": [
+        "criminal"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "criminal",
+          "alias": "criminal"
+        }
+      ]
+    },
+    {
+      "headword": "detective",
+      "unit": 20,
+      "matchedAliases": [
+        "detective"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "detective",
+          "alias": "detective"
+        }
+      ]
+    },
+    {
+      "headword": "fine",
+      "unit": 20,
+      "matchedAliases": [
+        "fine"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "fine",
+          "alias": "fine"
+        }
+      ]
+    },
+    {
+      "headword": "guilty",
+      "unit": 20,
+      "matchedAliases": [
+        "guilty"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "guilty",
+          "alias": "guilty"
+        }
+      ]
+    },
+    {
+      "headword": "sentence",
+      "unit": 20,
+      "matchedAliases": [
+        "sentence"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "sentence",
+          "alias": "sentence"
+        }
+      ]
+    },
+    {
+      "headword": "steal",
+      "unit": 20,
+      "matchedAliases": [
+        "steal"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "steal",
+          "alias": "steal"
+        }
+      ]
+    },
+    {
+      "headword": "thief",
+      "unit": 20,
+      "matchedAliases": [
+        "thief"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "thief",
+          "alias": "thief"
+        }
+      ]
+    },
+    {
+      "headword": "architecture",
+      "unit": 21,
+      "matchedAliases": [
+        "architecture"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "architecture",
+          "alias": "architecture"
+        }
+      ]
+    },
+    {
+      "headword": "cut",
+      "unit": 21,
+      "matchedAliases": [
+        "cut"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "cut",
+          "alias": "cut"
+        }
+      ]
+    },
+    {
+      "headword": "environmental",
+      "unit": 21,
+      "matchedAliases": [
+        "environmental"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "environmental",
+          "alias": "environmental"
+        }
+      ]
+    },
+    {
+      "headword": "lack",
+      "unit": 21,
+      "matchedAliases": [
+        "lack"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "lack",
+          "alias": "lack"
+        }
+      ]
+    },
+    {
+      "headword": "level",
+      "unit": 21,
+      "matchedAliases": [
+        "level"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "level",
+          "alias": "level"
+        }
+      ]
+    },
+    {
+      "headword": "mall",
+      "unit": 21,
+      "matchedAliases": [
+        "mall"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "mall",
+          "alias": "mall"
+        }
+      ]
+    },
+    {
+      "headword": "pollution",
+      "unit": 21,
+      "matchedAliases": [
+        "pollution"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "pollution",
+          "alias": "pollution"
+        }
+      ]
+    },
+    {
+      "headword": "property",
+      "unit": 21,
+      "matchedAliases": [
+        "property"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "property",
+          "alias": "property"
+        }
+      ]
+    },
+    {
+      "headword": "system",
+      "unit": 21,
+      "matchedAliases": [
+        "system"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "system",
+          "alias": "system"
+        }
+      ]
+    },
+    {
+      "headword": "traffic jam",
+      "unit": 21,
+      "matchedAliases": [
+        "traffic jam"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "traffic jam",
+          "alias": "traffic jam"
+        }
+      ]
+    },
+    {
+      "headword": "audience",
+      "unit": 22,
+      "matchedAliases": [
+        "audience"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "audience",
+          "alias": "audience"
+        }
+      ]
+    },
+    {
+      "headword": "composition",
+      "unit": 22,
+      "matchedAliases": [
+        "composition"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "composition",
+          "alias": "composition"
+        }
+      ]
+    },
+    {
+      "headword": "festival",
+      "unit": 22,
+      "matchedAliases": [
+        "festival"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "festival",
+          "alias": "festival"
+        }
+      ]
+    },
+    {
+      "headword": "musician",
+      "unit": 22,
+      "matchedAliases": [
+        "musician"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "musician",
+          "alias": "musician"
+        }
+      ]
+    },
+    {
+      "headword": "orchestra",
+      "unit": 22,
+      "matchedAliases": [
+        "orchestra"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "orchestra",
+          "alias": "orchestra"
+        }
+      ]
+    },
+    {
+      "headword": "perform",
+      "unit": 22,
+      "matchedAliases": [
+        "perform"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "perform (ENTERTAIN)",
+          "alias": "perform"
+        }
+      ]
+    },
+    {
+      "headword": "performer",
+      "unit": 22,
+      "matchedAliases": [
+        "performer"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "performer",
+          "alias": "performer"
+        }
+      ]
+    },
+    {
+      "headword": "damage",
+      "unit": 23,
+      "matchedAliases": [
+        "damage"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "damage",
+          "alias": "damage"
+        }
+      ]
+    },
+    {
+      "headword": "gas",
+      "unit": 23,
+      "matchedAliases": [
+        "gas"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "gas",
+          "alias": "gas"
+        }
+      ]
+    },
+    {
+      "headword": "humid",
+      "unit": 23,
+      "matchedAliases": [
+        "humid"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "humid",
+          "alias": "humid"
+        }
+      ]
+    },
+    {
+      "headword": "injure",
+      "unit": 23,
+      "matchedAliases": [
+        "injure"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "injure",
+          "alias": "injure"
+        }
+      ]
+    },
+    {
+      "headword": "peak",
+      "unit": 23,
+      "matchedAliases": [
+        "peak"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "peak",
+          "alias": "peak"
+        }
+      ]
+    },
+    {
+      "headword": "planet",
+      "unit": 23,
+      "matchedAliases": [
+        "planet"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "planet",
+          "alias": "planet"
+        }
+      ]
+    },
+    {
+      "headword": "thunder",
+      "unit": 23,
+      "matchedAliases": [
+        "thunder"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "thunder",
+          "alias": "thunder"
+        }
+      ]
+    },
+    {
+      "headword": "weather forecast",
+      "unit": 23,
+      "matchedAliases": [
+        "weather forecast"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "weather forecast",
+          "alias": "weather forecast"
+        }
+      ]
+    },
+    {
+      "headword": "apology",
+      "unit": 24,
+      "matchedAliases": [
+        "apology"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "apology",
+          "alias": "apology"
+        }
+      ]
+    },
+    {
+      "headword": "cashpoint",
+      "unit": 24,
+      "matchedAliases": [
+        "cashpoint"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "cashpoint",
+          "alias": "cashpoint"
+        }
+      ]
+    },
+    {
+      "headword": "comedy",
+      "unit": 24,
+      "matchedAliases": [
+        "comedy"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "comedy",
+          "alias": "comedy"
+        }
+      ]
+    },
+    {
+      "headword": "humour",
+      "unit": 24,
+      "matchedAliases": [
+        "humour"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "humour/humor",
+          "alias": "humour"
+        }
+      ]
+    },
+    {
+      "headword": "ignore",
+      "unit": 24,
+      "matchedAliases": [
+        "ignore"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "ignore",
+          "alias": "ignore"
+        }
+      ]
+    },
+    {
+      "headword": "keep up sth or keep sth up",
+      "unit": 24,
+      "matchedAliases": [
+        "keep up"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "keep up",
+          "alias": "keep up"
+        }
+      ]
+    },
+    {
+      "headword": "look up sth or look sth up",
+      "unit": 24,
+      "matchedAliases": [
+        "look up"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "look up",
+          "alias": "look up"
+        }
+      ]
+    },
+    {
+      "headword": "pick up sth or pick sth up",
+      "unit": 24,
+      "matchedAliases": [
+        "pick up"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "pick up",
+          "alias": "pick up"
+        }
+      ]
+    },
+    {
+      "headword": "put off sb or put sb off",
+      "unit": 24,
+      "matchedAliases": [
+        "put off"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "put off",
+          "alias": "put off"
+        }
+      ]
+    },
+    {
+      "headword": "put out sth or put sth out",
+      "unit": 24,
+      "matchedAliases": [
+        "put out"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "put out",
+          "alias": "put out"
+        }
+      ]
+    },
+    {
+      "headword": "rule",
+      "unit": 24,
+      "matchedAliases": [
+        "rule"
+      ],
+      "matches": [
+        {
+          "level": "PET",
+          "headword": "rule",
+          "alias": "rule"
+        }
+      ]
+    },
+    {
+      "headword": "star",
+      "unit": 24,
+      "matchedAliases": [
+        "star"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "star",
+          "alias": "star"
+        }
+      ]
+    },
+    {
+      "headword": "work out sth or work sth out",
+      "unit": 24,
+      "matchedAliases": [
+        "work out"
+      ],
+      "matches": [
+        {
+          "level": "KET",
+          "headword": "work out",
+          "alias": "work out"
+        }
+      ]
+    }
+  ]
+}

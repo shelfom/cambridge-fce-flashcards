@@ -1,0 +1,28 @@
+{
+  "name": "cambridge-fce-flashcards",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite build && vite preview",
+    "build": "vite build",
+    "preview": "vite preview",
+    "audio:generate": "node scripts/generate-audio.mjs",
+    "images:generate": "node scripts/generate-storybook-clues.mjs",
+    "data:extract": "python3 scripts/extract-fce.py",
+    "data:build": "python3 scripts/build-fce-course.py",
+    "data:audit": "python3 scripts/audit-fce-content.py",
+    "data:verify": "node scripts/verify-data.mjs",
+    "test": "node scripts/verify-data.mjs && node scripts/verify-ui.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/plus-jakarta-sans": "^5.2.8",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "sharp": "^0.35.3",
+    "vite": "^7.0.5"
+  }
+}

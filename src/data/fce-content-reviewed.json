@@ -1,0 +1,6173 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "unit": 1,
+      "slug": "add-to",
+      "headword": "add to sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "增加",
+        "添上"
+      ],
+      "definition": "To put something with another thing.",
+      "example": "Please add more water to the pot.",
+      "spokenForm": "add to something",
+      "imageAlt": "A friendly purple monster carefully placing a shiny red apple into a wooden basket filled with green leaves."
+    },
+    {
+      "id": 2,
+      "unit": 1,
+      "slug": "comparison",
+      "headword": "comparison",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "比较",
+        "对照"
+      ],
+      "definition": "Looking at two things to see differences.",
+      "example": "A quick comparison shows the big dog is taller.",
+      "spokenForm": "comparison",
+      "imageAlt": "Two cute yellow bears standing side by side while a tiny blue mouse measures their height with a ruler."
+    },
+    {
+      "id": 3,
+      "unit": 1,
+      "slug": "cut-down-or-cut-down",
+      "headword": "cut down sth or cut sth down",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "减少",
+        "少吃"
+      ],
+      "definition": "To eat or use less of something.",
+      "example": "I need to cut down on sweet candy.",
+      "spokenForm": "cut down something",
+      "imageAlt": "A cheerful fluffy rabbit holding a small cookie and deciding to put half of it back on the plate."
+    },
+    {
+      "id": 4,
+      "unit": 1,
+      "slug": "distinguish",
+      "headword": "distinguish",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "区分",
+        "辨别"
+      ],
+      "definition": "To make one thing seem different from another.",
+      "example": "It is hard to distinguish the two twin puppies.",
+      "spokenForm": "distinguish",
+      "imageAlt": "A clever green frog wearing glasses looking closely at two identical red flowers to find a tiny dot."
+    },
+    {
+      "id": 5,
+      "unit": 1,
+      "slug": "dominate",
+      "headword": "dominate",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "占主导",
+        "最显眼"
+      ],
+      "definition": "To be the biggest and most noticeable part.",
+      "example": "The tall castle will dominate the little town.",
+      "spokenForm": "dominate",
+      "imageAlt": "A giant friendly stone tower standing right in the middle of a village of tiny smiling toadstool houses."
+    },
+    {
+      "id": 6,
+      "unit": 1,
+      "slug": "dress-up",
+      "headword": "dress up",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "盛装",
+        "穿正装"
+      ],
+      "definition": "To put on fancy clothes for a party.",
+      "example": "We dress up for the royal winter ball.",
+      "spokenForm": "dress up",
+      "imageAlt": "A happy little fox wearing a shiny bow tie and a neat jacket standing proudly in front of a mirror."
+    },
+    {
+      "id": 7,
+      "unit": 1,
+      "slug": "fit-in-with",
+      "headword": "fit in with",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "相配",
+        "适合"
+      ],
+      "definition": "To look nice together or match each other.",
+      "example": "The blue chair fits in with the blue wall.",
+      "spokenForm": "fit in with",
+      "imageAlt": "A cozy yellow pillow resting happily on a matching yellow sofa inside a bright sunny room."
+    },
+    {
+      "id": 8,
+      "unit": 1,
+      "slug": "genuine",
+      "headword": "genuine",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "真实的",
+        "真的"
+      ],
+      "definition": "Real and truly what it seems to be.",
+      "example": "This shiny old coin is a genuine treasure.",
+      "spokenForm": "genuine",
+      "imageAlt": "A joyful little squirrel holding a sparkling gold coin that beams with a soft magical glow."
+    },
+    {
+      "id": 9,
+      "unit": 1,
+      "slug": "go-ahead",
+      "headword": "go ahead",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "请吧",
+        "去做吧"
+      ],
+      "definition": "words that tell someone they may do it",
+      "example": "You can go ahead and open your present.",
+      "spokenForm": "go ahead",
+      "imageAlt": "A smiling panda waving its paw happily to tell a baby bear it is okay to touch a colorful box."
+    },
+    {
+      "id": 10,
+      "unit": 1,
+      "slug": "go-back",
+      "headword": "go back",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "回去",
+        "返回"
+      ],
+      "definition": "To return to a place you were before.",
+      "example": "It is time to go back home now.",
+      "spokenForm": "go back",
+      "imageAlt": "A happy little kitten walking along a garden path and turning its head toward its cozy warm basket."
+    },
+    {
+      "id": 11,
+      "unit": 1,
+      "slug": "go-over",
+      "headword": "go over sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "复习",
+        "检查"
+      ],
+      "definition": "To talk about something to check it.",
+      "example": "Let us go over the drawing one more time.",
+      "spokenForm": "go over something",
+      "imageAlt": "Two friendly cartoon owlets sitting together on a branch pointing at a colourful picture with a pencil."
+    },
+    {
+      "id": 12,
+      "unit": 1,
+      "slug": "go-up",
+      "headword": "go up",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "上升",
+        "升高"
+      ],
+      "definition": "To become higher in level or amount.",
+      "example": "Prices go up when toys are very popular.",
+      "spokenForm": "go up",
+      "imageAlt": "A cheerful red balloon floating high up into the bright blue sky above a green grassy hill."
+    },
+    {
+      "id": 13,
+      "unit": 1,
+      "slug": "hood",
+      "headword": "hood",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "帽子",
+        "风帽"
+      ],
+      "definition": "The part of a coat covering your head.",
+      "example": "Put on your warm hood in the snow.",
+      "spokenForm": "hood",
+      "imageAlt": "A cute little penguin wearing a warm winter coat with a soft furry hood pulled over its head."
+    },
+    {
+      "id": 14,
+      "unit": 1,
+      "slug": "image",
+      "headword": "image",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "脑中画面"
+      ],
+      "definition": "A picture in your mind of something.",
+      "example": "I have a happy image of the sunny beach.",
+      "spokenForm": "image",
+      "imageAlt": "A sleepy little bear resting its head on a pillow with a magical glowing cloud dreaming of flowers."
+    },
+    {
+      "id": 15,
+      "unit": 1,
+      "slug": "outfit",
+      "headword": "outfit",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "全套服装",
+        "衣服"
+      ],
+      "definition": "A set of clothes for a special event.",
+      "example": "She wore a lovely blue outfit to the party.",
+      "spokenForm": "outfit",
+      "imageAlt": "A neat little rabbit looking at a matching blue shirt and shorts neatly laid out on a chair."
+    },
+    {
+      "id": 16,
+      "unit": 1,
+      "slug": "outrageous",
+      "headword": "outrageous",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "惊人的",
+        "夸张的"
+      ],
+      "definition": "Very shocking or extremely silly.",
+      "example": "Wearing boots on your hands is outrageous.",
+      "spokenForm": "outrageous",
+      "imageAlt": "A funny little monkey wearing yellow winter boots on its hands and laughing in a leafy jungle."
+    },
+    {
+      "id": 17,
+      "unit": 1,
+      "slug": "pull-on-or-pull-on",
+      "headword": "pull on sth or pull sth on",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "套上",
+        "穿上"
+      ],
+      "definition": "To put on clothes quickly.",
+      "example": "Pull on your warm coat before going out.",
+      "spokenForm": "pull on something",
+      "imageAlt": "A cheerful puppy hurriedly pulling a warm red sweater over its head with both paws."
+    },
+    {
+      "id": 18,
+      "unit": 1,
+      "slug": "put-together-or-put-together",
+      "headword": "put together sth or put sth together",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "拼装",
+        "组合"
+      ],
+      "definition": "To create something by joining parts.",
+      "example": "Let us put together this wooden puzzle.",
+      "spokenForm": "put together something",
+      "imageAlt": "Two happy little robots carefully connecting colorful blocks to build a tall toy tower together."
+    },
+    {
+      "id": 19,
+      "unit": 1,
+      "slug": "represent",
+      "headword": "represent",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "代表",
+        "表现"
+      ],
+      "definition": "To show or describe something clearly.",
+      "example": "This drawing can represent a brave lion.",
+      "spokenForm": "represent",
+      "imageAlt": "A clever little badger pointing a wooden stick at a large drawing of a mountain on an easel."
+    },
+    {
+      "id": 20,
+      "unit": 1,
+      "slug": "save-up-or-save-up",
+      "headword": "save up (sth) or save (sth) up",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "攒钱",
+        "储蓄"
+      ],
+      "definition": "To keep money to buy something later.",
+      "example": "I save up coins for a new bicycle.",
+      "spokenForm": "save up something",
+      "imageAlt": "A cute pink pig dropping a shiny silver coin into a smiling ceramic piggy bank on a desk."
+    },
+    {
+      "id": 21,
+      "unit": 1,
+      "slug": "slip-on-or-slip-on",
+      "headword": "slip on sth or slip sth on",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "滑上",
+        "快速穿"
+      ],
+      "definition": "To quickly put on a piece of clothing.",
+      "example": "Slip on your shoes and let us run.",
+      "spokenForm": "slip on something",
+      "imageAlt": "A fast little hedgehog sliding its small feet into soft fuzzy slippers by the front door."
+    },
+    {
+      "id": 22,
+      "unit": 1,
+      "slug": "stand-out",
+      "headword": "stand out",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "显眼",
+        "突出"
+      ],
+      "definition": "To be very easy to see or notice.",
+      "example": "The bright yellow hat makes you stand out.",
+      "spokenForm": "stand out",
+      "imageAlt": "A group of grey mice standing together while one tiny mouse wears a glowing neon yellow hat."
+    },
+    {
+      "id": 23,
+      "unit": 1,
+      "slug": "stunning",
+      "headword": "stunning",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "极美的",
+        "动人的"
+      ],
+      "definition": "Very beautiful to look at.",
+      "example": "The valley has a stunning mountain view.",
+      "spokenForm": "stunning",
+      "imageAlt": "A lovely green valley with colorful wildflowers blooming under a gorgeous golden sunset sky."
+    },
+    {
+      "id": 24,
+      "unit": 1,
+      "slug": "take-back-or-take-back",
+      "headword": "take back sth or take sth back",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "退回",
+        "带回"
+      ],
+      "definition": "To return something you bought or borrowed.",
+      "example": "I will take back the book to the library.",
+      "spokenForm": "take back something",
+      "imageAlt": "A polite bear carries a red ball back to the smiling friend who lent it."
+    },
+    {
+      "id": 25,
+      "unit": 2,
+      "slug": "accessible",
+      "headword": "accessible",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "容易懂"
+      ],
+      "definition": "very easy to understand",
+      "example": "This simple book is accessible to all children.",
+      "spokenForm": "accessible",
+      "imageAlt": "A fluffy blue alien happily pointing at a glowing picture book that shows bright yellow stars."
+    },
+    {
+      "id": 26,
+      "unit": 2,
+      "slug": "appliance",
+      "headword": "appliance",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "家电",
+        "机器"
+      ],
+      "definition": "a helpful machine used in the house",
+      "example": "The small kitchen appliance makes fresh juice.",
+      "spokenForm": "appliance",
+      "imageAlt": "A friendly green robot wearing an apron while washing colorful toy blocks in a tiny sink."
+    },
+    {
+      "id": 27,
+      "unit": 2,
+      "slug": "complex",
+      "headword": "complex",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "复杂"
+      ],
+      "definition": "hard to understand because of many parts",
+      "example": "The puzzle has a complex shape.",
+      "spokenForm": "complex",
+      "imageAlt": "A cute purple monster scratching its head while looking at a big tangled ball of yarn."
+    },
+    {
+      "id": 28,
+      "unit": 2,
+      "slug": "demanding",
+      "headword": "demanding",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "费力",
+        "要求高"
+      ],
+      "definition": "needing a lot of time and effort",
+      "example": "Climbing the tall hill is very demanding.",
+      "spokenForm": "demanding",
+      "imageAlt": "A little yellow bear carrying a heavy basket filled with shiny red apples up a grassy hill."
+    },
+    {
+      "id": 29,
+      "unit": 2,
+      "slug": "facility",
+      "headword": "facility",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "功能",
+        "设备"
+      ],
+      "definition": "a useful part of a machine",
+      "example": "This oven has a timer facility.",
+      "spokenForm": "facility",
+      "imageAlt": "A small creature presses one button on a simple oven, and warm bread slides out."
+    },
+    {
+      "id": 30,
+      "unit": 2,
+      "slug": "favourable",
+      "headword": "favourable",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "赞许",
+        "喜爱"
+      ],
+      "definition": "showing that you think something is good",
+      "example": "The teacher gave a favourable reply.",
+      "spokenForm": "favourable",
+      "imageAlt": "A happy fox smiling warmly and giving a friendly thumbs up to a bouncing round creature."
+    },
+    {
+      "id": 31,
+      "unit": 2,
+      "slug": "feature",
+      "headword": "feature",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "特点"
+      ],
+      "definition": "an important part or quality of something",
+      "example": "A big furry tail is a feature of foxes.",
+      "spokenForm": "feature",
+      "imageAlt": "A cute orange cat proudly showing off its very long and fluffy tail."
+    },
+    {
+      "id": 32,
+      "unit": 2,
+      "slug": "fortune",
+      "headword": "fortune",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "大笔钱",
+        "财富"
+      ],
+      "definition": "a very large amount of money",
+      "example": "The golden crown cost a fortune.",
+      "spokenForm": "fortune",
+      "imageAlt": "A tiny dragon sitting on a big pile of shiny gold coins inside a magical cave."
+    },
+    {
+      "id": 33,
+      "unit": 2,
+      "slug": "get-through",
+      "headword": "get through sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "用完",
+        "做完"
+      ],
+      "definition": "to use up or finish something completely",
+      "example": "We will get through all these cookies today.",
+      "spokenForm": "get through something",
+      "imageAlt": "Two happy brown bears eating the very last sweet blueberry from a wooden bowl."
+    },
+    {
+      "id": 34,
+      "unit": 2,
+      "slug": "googletm",
+      "headword": "Google™",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "搜索"
+      ],
+      "definition": "to search for information on the internet",
+      "example": "I will Google that star's name.",
+      "spokenForm": "Google",
+      "imageAlt": "A friendly frog looking at a glowing magical picture frame to find a missing red ball."
+    },
+    {
+      "id": 35,
+      "unit": 2,
+      "slug": "impressive",
+      "headword": "impressive",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "让人惊叹"
+      ],
+      "definition": "making you think something is very good",
+      "example": "That tall tower of blocks is impressive.",
+      "spokenForm": "impressive",
+      "imageAlt": "A tiny mouse cheering loudly for a towering castle made of colorful wooden blocks."
+    },
+    {
+      "id": 36,
+      "unit": 2,
+      "slug": "intelligence",
+      "headword": "intelligence",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "智慧",
+        "聪明"
+      ],
+      "definition": "the ability to learn and think well",
+      "example": "The clever dolphin showed great intelligence.",
+      "spokenForm": "intelligence",
+      "imageAlt": "A smart blue whale wearing paper glasses while reading a large picture book."
+    },
+    {
+      "id": 37,
+      "unit": 2,
+      "slug": "meaningful",
+      "headword": "meaningful",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "有意义"
+      ],
+      "definition": "useful, serious, or very important",
+      "example": "They had a meaningful talk about sharing.",
+      "spokenForm": "meaningful",
+      "imageAlt": "Two kind panda bears sitting together under a tree and holding paws gently."
+    },
+    {
+      "id": 38,
+      "unit": 2,
+      "slug": "muddy",
+      "headword": "muddy",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "泥泞"
+      ],
+      "definition": "covered in wet dirt and soil",
+      "example": "The little pig has muddy paws now.",
+      "spokenForm": "muddy",
+      "imageAlt": "A cheerful pink piglet jumping happily into a soft puddle of wet brown soil."
+    },
+    {
+      "id": 39,
+      "unit": 2,
+      "slug": "opponent",
+      "headword": "opponent",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "对手"
+      ],
+      "definition": "someone who plays against you in a game",
+      "example": "He helped his opponent up from the grass.",
+      "spokenForm": "opponent",
+      "imageAlt": "Two happy little lions playing a friendly game of ball on a sunny green field."
+    },
+    {
+      "id": 40,
+      "unit": 2,
+      "slug": "pace",
+      "headword": "pace",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "速度"
+      ],
+      "definition": "the speed at which something moves along",
+      "example": "The turtle walked at a slow pace.",
+      "spokenForm": "pace",
+      "imageAlt": "A tiny green turtle crawling very slowly along a neat path of smooth grey stones."
+    },
+    {
+      "id": 41,
+      "unit": 2,
+      "slug": "popularity",
+      "headword": "popularity",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "受欢迎"
+      ],
+      "definition": "the quality of being liked by many",
+      "example": "The funny song grew in popularity quickly.",
+      "spokenForm": "popularity",
+      "imageAlt": "A smiling yellow star surrounded by many cheering little cloud creatures in the sky."
+    },
+    {
+      "id": 42,
+      "unit": 2,
+      "slug": "reach-a-conclusion",
+      "headword": "reach a conclusion",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "得出结论"
+      ],
+      "definition": "to make a decision about something",
+      "example": "The friends will reach a conclusion together.",
+      "spokenForm": "reach a conclusion",
+      "imageAlt": "Three cheerful animal friends nodding together after talking about sharing toys."
+    },
+    {
+      "id": 43,
+      "unit": 2,
+      "slug": "sophisticated",
+      "headword": "sophisticated",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "高级",
+        "巧妙"
+      ],
+      "definition": "cleverly made and able to do a lot",
+      "example": "The new music box has a sophisticated design.",
+      "spokenForm": "sophisticated",
+      "imageAlt": "A clever little robot sorting colorful gears inside a shiny glowing box."
+    },
+    {
+      "id": 44,
+      "unit": 2,
+      "slug": "submit",
+      "headword": "submit",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "提交"
+      ],
+      "definition": "to send a paper or plan to someone",
+      "example": "Please submit your drawing to the teacher.",
+      "spokenForm": "submit",
+      "imageAlt": "A polite little bear handing a bright painting to a smiling owl teacher."
+    },
+    {
+      "id": 45,
+      "unit": 2,
+      "slug": "tricky",
+      "headword": "tricky",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "棘手",
+        "困难"
+      ],
+      "definition": "difficult to deal with or solve",
+      "example": "This math homework is a bit tricky.",
+      "spokenForm": "tricky",
+      "imageAlt": "A cute green frog looking puzzled at a maze drawn on a large piece of paper."
+    },
+    {
+      "id": 46,
+      "unit": 2,
+      "slug": "unhelpful",
+      "headword": "unhelpful",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "帮倒忙"
+      ],
+      "definition": "not helping to make a situation better",
+      "example": "Hiding the crayons was an unhelpful choice.",
+      "spokenForm": "unhelpful",
+      "imageAlt": "A naughty little monkey hiding colored pencils behind its back while looking away."
+    },
+    {
+      "id": 47,
+      "unit": 2,
+      "slug": "violent",
+      "headword": "violent",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "猛烈",
+        "强烈"
+      ],
+      "definition": "moving with very strong and sudden force",
+      "example": "A violent wind blew the hats away.",
+      "spokenForm": "violent",
+      "imageAlt": "A strong gust of wind blowing colourful autumn leaves high up into the cloudy sky."
+    },
+    {
+      "id": 48,
+      "unit": 2,
+      "slug": "virtual",
+      "headword": "virtual",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "虚拟"
+      ],
+      "definition": "made by computers to look very real",
+      "example": "We saw virtual fish swim past us.",
+      "spokenForm": "virtual",
+      "imageAlt": "A happy bunny wearing shiny glowing goggles and smiling at bright floating bubbles."
+    },
+    {
+      "id": 49,
+      "unit": 2,
+      "slug": "yawn",
+      "headword": "yawn",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "打哈欠"
+      ],
+      "definition": "to breathe with mouth wide open when tired",
+      "example": "The sleepy kitten started to yawn gently.",
+      "spokenForm": "yawn",
+      "imageAlt": "A sleepy little kitten sitting on a soft pillow with its mouth wide open."
+    },
+    {
+      "id": 50,
+      "unit": 3,
+      "slug": "book-into",
+      "headword": "book (sb) into",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "登记入住"
+      ],
+      "definition": "to arrange a room at a hotel",
+      "example": "We book the guests into the hotel.",
+      "spokenForm": "book somebody into",
+      "imageAlt": "A friendly blue bear hands a room key to a happy red fox at a cozy hotel front desk."
+    },
+    {
+      "id": 51,
+      "unit": 3,
+      "slug": "domestic",
+      "headword": "domestic",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "国内的"
+      ],
+      "definition": "inside your own home country",
+      "example": "They take a short domestic flight.",
+      "spokenForm": "domestic",
+      "imageAlt": "A small plane flies between two cheerful towns in the same wide green land."
+    },
+    {
+      "id": 52,
+      "unit": 3,
+      "slug": "evidence",
+      "headword": "evidence",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "证据",
+        "证明"
+      ],
+      "definition": "facts that show something is true",
+      "example": "We find clear evidence on the table.",
+      "spokenForm": "evidence",
+      "imageAlt": "A curious little puppy wearing magnifying glasses looks at a tiny paw print on the floor."
+    },
+    {
+      "id": 53,
+      "unit": 3,
+      "slug": "forbid",
+      "headword": "forbid",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "禁止",
+        "不准"
+      ],
+      "definition": "to tell someone they must not do something",
+      "example": "The rules forbid running in the hall.",
+      "spokenForm": "forbid",
+      "imageAlt": "A friendly panda raises one open paw and gently stops a tiny rabbit from running indoors."
+    },
+    {
+      "id": 54,
+      "unit": 3,
+      "slug": "get-away",
+      "headword": "get away",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "去度假",
+        "离开"
+      ],
+      "definition": "to go somewhere else to rest",
+      "example": "We get away for a nice holiday.",
+      "spokenForm": "get away",
+      "imageAlt": "Two happy cartoon penguins pack small round bags for a sunny beach trip."
+    },
+    {
+      "id": 55,
+      "unit": 3,
+      "slug": "landing",
+      "headword": "landing",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "着陆",
+        "降落"
+      ],
+      "definition": "when a plane touches the ground",
+      "example": "The plane makes a smooth landing.",
+      "spokenForm": "landing",
+      "imageAlt": "A cute toy airplane gently touches down on a soft green grassy field."
+    },
+    {
+      "id": 56,
+      "unit": 3,
+      "slug": "stop-over",
+      "headword": "stop over",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "中途停留"
+      ],
+      "definition": "to stay somewhere briefly during a trip",
+      "example": "They stop over in a nice town.",
+      "spokenForm": "stop over",
+      "imageAlt": "A little sleepy koala sleeps in a cozy wooden cabin during a long journey."
+    },
+    {
+      "id": 57,
+      "unit": 3,
+      "slug": "terminal",
+      "headword": "terminal",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "航站楼",
+        "终点站"
+      ],
+      "definition": "a big building for travelers at an airport",
+      "example": "We walk inside the large airport terminal.",
+      "spokenForm": "terminal",
+      "imageAlt": "A big bright building with large glass windows where cheerful travelers pull little round bags."
+    },
+    {
+      "id": 58,
+      "unit": 3,
+      "slug": "yacht",
+      "headword": "yacht",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "快艇",
+        "帆船"
+      ],
+      "definition": "a large boat with sails for fun",
+      "example": "A white yacht sails on the sea.",
+      "spokenForm": "yacht",
+      "imageAlt": "A shiny white boat with large bright sails glides smoothly across blue ocean water."
+    },
+    {
+      "id": 59,
+      "unit": 4,
+      "slug": "absence",
+      "headword": "absence",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "不在",
+        "缺席"
+      ],
+      "definition": "Not being in a place.",
+      "example": "His absence made the teacher worried.",
+      "spokenForm": "absence",
+      "imageAlt": "A friendly purple creature looking at an empty chair in a cozy colorful classroom."
+    },
+    {
+      "id": 60,
+      "unit": 4,
+      "slug": "bad-tempered",
+      "headword": "bad-tempered",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "脾气坏",
+        "易怒"
+      ],
+      "definition": "Getting angry and annoyed very easily.",
+      "example": "The bad-tempered bear growled at the butterfly.",
+      "spokenForm": "bad-tempered",
+      "imageAlt": "A grumpy green monster with a frown crossing its arms under a shady tree."
+    },
+    {
+      "id": 61,
+      "unit": 4,
+      "slug": "breed",
+      "headword": "breed",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "饲养",
+        "繁殖"
+      ],
+      "definition": "Keeping animals to have baby animals.",
+      "example": "Farmers breed sheep on the green hill.",
+      "spokenForm": "breed",
+      "imageAlt": "A smiling yellow creature feeding fluffy baby rabbits inside a wooden pen."
+    },
+    {
+      "id": 62,
+      "unit": 4,
+      "slug": "conservation",
+      "headword": "conservation",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "保护",
+        "维持"
+      ],
+      "definition": "Protecting nature and wild places.",
+      "example": "Forest conservation helps save cute pandas.",
+      "spokenForm": "conservation",
+      "imageAlt": "Two happy little bears planting tiny green saplings in a sunny forest."
+    },
+    {
+      "id": 63,
+      "unit": 4,
+      "slug": "conserve",
+      "headword": "conserve",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "保护",
+        "节约"
+      ],
+      "definition": "To stop harm coming to nature.",
+      "example": "We must conserve water every single day.",
+      "spokenForm": "conserve",
+      "imageAlt": "A cheerful blue creature turning off a leaky water tap near flowers."
+    },
+    {
+      "id": 64,
+      "unit": 4,
+      "slug": "destruction",
+      "headword": "destruction",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "破坏",
+        "毁灭"
+      ],
+      "definition": "When something is completely broken down.",
+      "example": "The storm caused great destruction of trees.",
+      "spokenForm": "destruction",
+      "imageAlt": "A sad orange creature looking at broken wooden blocks on the grass."
+    },
+    {
+      "id": 65,
+      "unit": 4,
+      "slug": "endangered",
+      "headword": "endangered",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "濒危的"
+      ],
+      "definition": "Plants or animals that might soon die out.",
+      "example": "Pandas are an endangered animal today.",
+      "spokenForm": "endangered",
+      "imageAlt": "A lonely giant panda munching bamboo leaves safely behind a wooden fence."
+    },
+    {
+      "id": 66,
+      "unit": 4,
+      "slug": "feather",
+      "headword": "feather",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "羽毛"
+      ],
+      "definition": "A soft light thing covering a bird.",
+      "example": "A soft white feather fell from above.",
+      "spokenForm": "feather",
+      "imageAlt": "A tiny pink bird holding a soft blue feather in its beak."
+    },
+    {
+      "id": 67,
+      "unit": 4,
+      "slug": "from-time-to-time",
+      "headword": "from time to time",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "有时",
+        "偶尔"
+      ],
+      "definition": "Sometimes, but not very often.",
+      "example": "He visits his grandma from time to time.",
+      "spokenForm": "from time to time",
+      "imageAlt": "A cute brown creature looking out a window at a passing butterfly."
+    },
+    {
+      "id": 68,
+      "unit": 4,
+      "slug": "live-up-to",
+      "headword": "live up to",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "符合",
+        "不辜负"
+      ],
+      "definition": "To be as good as people hope.",
+      "example": "The party lived up to our hopes.",
+      "spokenForm": "live up to",
+      "imageAlt": "A happy dragon blowing colorful birthday candles on a huge cake."
+    },
+    {
+      "id": 69,
+      "unit": 4,
+      "slug": "one-at-a-time",
+      "headword": "one at a time",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "一次一个"
+      ],
+      "definition": "Doing things separately, not together.",
+      "example": "Please walk through the door one at a time.",
+      "spokenForm": "one at a time",
+      "imageAlt": "Three cheerful little monsters stepping through a bright yellow door in turn."
+    },
+    {
+      "id": 70,
+      "unit": 4,
+      "slug": "pass-the-time",
+      "headword": "pass the time",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "打发时间",
+        "消遣"
+      ],
+      "definition": "To spend time doing something fun.",
+      "example": "They read books to pass the time.",
+      "spokenForm": "pass the time",
+      "imageAlt": "Two friendly creatures sitting on a grassy hill reading colorful storybooks."
+    },
+    {
+      "id": 71,
+      "unit": 4,
+      "slug": "paw",
+      "headword": "paw",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "爪子"
+      ],
+      "definition": "The foot of animals like cats.",
+      "example": "The cute puppy gave me its paw.",
+      "spokenForm": "paw",
+      "imageAlt": "A fluffy yellow puppy raising its soft furry paw on a warm rug."
+    },
+    {
+      "id": 72,
+      "unit": 4,
+      "slug": "pollute",
+      "headword": "pollute",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "污染"
+      ],
+      "definition": "To make water or air dirty.",
+      "example": "Bad smoke can pollute the blue sky.",
+      "spokenForm": "pollute",
+      "imageAlt": "A sad grey creature coughing while dark smoke puffs from a toy factory."
+    },
+    {
+      "id": 73,
+      "unit": 4,
+      "slug": "times",
+      "headword": "times",
+      "partOfSpeech": "preposition",
+      "chineseGlosses": [
+        "乘"
+      ],
+      "definition": "Multiplied by in math.",
+      "example": "Two times three equals six.",
+      "spokenForm": "times",
+      "imageAlt": "A green creature counts two baskets holding three red apples each, making six altogether."
+    },
+    {
+      "id": 74,
+      "unit": 5,
+      "slug": "astonished",
+      "headword": "astonished",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "十分惊讶",
+        "很吃惊"
+      ],
+      "definition": "feeling very surprised by something",
+      "example": "She was astonished by the huge cake.",
+      "spokenForm": "astonished",
+      "imageAlt": "A fluffy blue monster with wide eyes and open mouth looks at a glowing floating star in a cozy room."
+    },
+    {
+      "id": 75,
+      "unit": 5,
+      "slug": "calm-down",
+      "headword": "calm down",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "冷静下来",
+        "不生气"
+      ],
+      "definition": "to stop being angry or upset",
+      "example": "Take a deep breath and calm down.",
+      "spokenForm": "calm down",
+      "imageAlt": "A gentle green bear takes a slow breath to stop crying inside a sunny treehouse."
+    },
+    {
+      "id": 76,
+      "unit": 5,
+      "slug": "come-down",
+      "headword": "come down",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "落下来",
+        "掉下来"
+      ],
+      "definition": "to drop down to the ground",
+      "example": "The soft white snow will come down.",
+      "spokenForm": "come down",
+      "imageAlt": "A round yellow creature watches a soft white feather float gently down onto green grass."
+    },
+    {
+      "id": 77,
+      "unit": 5,
+      "slug": "content",
+      "headword": "content",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "满足",
+        "高兴"
+      ],
+      "definition": "happy and satisfied with things",
+      "example": "He felt content reading a warm book.",
+      "spokenForm": "content",
+      "imageAlt": "A smiling purple bunny sits on a soft pillow eating honey with a happy face."
+    },
+    {
+      "id": 78,
+      "unit": 5,
+      "slug": "draw-up",
+      "headword": "draw up",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "驶近停下",
+        "开到"
+      ],
+      "definition": "for a car to arrive and stop",
+      "example": "The little red bus will draw up here.",
+      "spokenForm": "draw up",
+      "imageAlt": "A cute toy car drives slowly forward and stops neatly next to a green park bench."
+    },
+    {
+      "id": 79,
+      "unit": 5,
+      "slug": "furious",
+      "headword": "furious",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "大怒",
+        "非常生气"
+      ],
+      "definition": "feeling extremely angry about something",
+      "example": "He was furious when his toy broke.",
+      "spokenForm": "furious",
+      "imageAlt": "A red fuzzy creature frowns with crossed arms because its tower of blocks fell over."
+    },
+    {
+      "id": 80,
+      "unit": 5,
+      "slug": "irritated",
+      "headword": "irritated",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "烦恼",
+        "生气"
+      ],
+      "definition": "feeling a bit annoyed or bothered",
+      "example": "She felt irritated by the loud buzzing.",
+      "spokenForm": "irritated",
+      "imageAlt": "A little orange fox covers one ear with its paw because a tiny bug is buzzing near its head."
+    },
+    {
+      "id": 81,
+      "unit": 5,
+      "slug": "petrified",
+      "headword": "petrified",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "吓呆",
+        "极度害怕"
+      ],
+      "definition": "feeling extremely frightened and unable to move",
+      "example": "He was petrified of the dark room.",
+      "spokenForm": "petrified",
+      "imageAlt": "A timid mouse hides under a blanket with big wide eyes while a shadow moves on the wall."
+    },
+    {
+      "id": 82,
+      "unit": 5,
+      "slug": "pull-away",
+      "headword": "pull away",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "开走",
+        "驶离"
+      ],
+      "definition": "for a vehicle to start moving",
+      "example": "The train will pull away very soon.",
+      "spokenForm": "pull away",
+      "imageAlt": "A cheerful blue train starts rolling forward away from a tiny wooden station platform."
+    },
+    {
+      "id": 83,
+      "unit": 5,
+      "slug": "pull-up",
+      "headword": "pull up",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "停下",
+        "驶停"
+      ],
+      "definition": "to stop a vehicle for a moment",
+      "example": "Let us pull up near the shop.",
+      "spokenForm": "pull up",
+      "imageAlt": "A friendly green truck slows down and stops right outside a tiny bakery with flowers."
+    },
+    {
+      "id": 84,
+      "unit": 5,
+      "slug": "scared-worried-stiff",
+      "headword": "scared/worried stiff",
+      "partOfSpeech": "adverb",
+      "chineseGlosses": [
+        "吓呆",
+        "非常担心"
+      ],
+      "definition": "feeling extremely frightened or very worried",
+      "example": "She was scared stiff during the storm.",
+      "spokenForm": "scared stiff",
+      "imageAlt": "A little yellow duck sits still inside a cozy nest while heavy rain falls outside the window."
+    },
+    {
+      "id": 85,
+      "unit": 5,
+      "slug": "steady",
+      "headword": "steady",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "平稳",
+        "不晃"
+      ],
+      "definition": "holding still and not shaking at all",
+      "example": "Hold the long stick nice and steady.",
+      "spokenForm": "steady",
+      "imageAlt": "A small brown puppy balances a tiny wooden block on its nose without dropping it."
+    },
+    {
+      "id": 86,
+      "unit": 5,
+      "slug": "uneasy",
+      "headword": "uneasy",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "心神不定",
+        "不安"
+      ],
+      "definition": "feeling worried that something bad might happen",
+      "example": "He felt uneasy about the loud noise.",
+      "spokenForm": "uneasy",
+      "imageAlt": "A little white cat looks around a dark garden with a worried and cautious face."
+    },
+    {
+      "id": 87,
+      "unit": 6,
+      "slug": "breakdown",
+      "headword": "breakdown",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "抛锚",
+        "故障"
+      ],
+      "definition": "When a car stops working suddenly.",
+      "example": "Our red car had a breakdown.",
+      "spokenForm": "breakdown",
+      "imageAlt": "A cute green turtle mechanic looks sadly at a small toy car with smoke coming out of its engine hood."
+    },
+    {
+      "id": 88,
+      "unit": 6,
+      "slug": "broadcast",
+      "headword": "broadcast",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "广播",
+        "播放"
+      ],
+      "definition": "To send out shows on TV or radio.",
+      "example": "They broadcast the cartoon on TV.",
+      "spokenForm": "broadcast",
+      "imageAlt": "A cheerful blue bear speaks into a vintage microphone inside a cozy wooden radio studio."
+    },
+    {
+      "id": 89,
+      "unit": 6,
+      "slug": "delicate",
+      "headword": "delicate",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "脆弱",
+        "易碎"
+      ],
+      "definition": "Easy to break or damage.",
+      "example": "This glass cup is very delicate.",
+      "spokenForm": "delicate",
+      "imageAlt": "A fluffy white bunny gently holds a sparkling glass flower with both paws, trying not to squeeze it."
+    },
+    {
+      "id": 90,
+      "unit": 6,
+      "slug": "fame",
+      "headword": "fame",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "名气",
+        "名声"
+      ],
+      "definition": "Being known by many people.",
+      "example": "The singer achieved sudden fame.",
+      "spokenForm": "fame",
+      "imageAlt": "A happy yellow duck smiles while waving at a huge crowd of cheerful animal fans holding bright flowers."
+    },
+    {
+      "id": 91,
+      "unit": 6,
+      "slug": "fluent",
+      "headword": "fluent",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "流利",
+        "顺畅"
+      ],
+      "definition": "Able to speak a language smoothly.",
+      "example": "She is fluent in French.",
+      "spokenForm": "fluent",
+      "imageAlt": "A clever little fox chats happily and smoothly with a smiling owl in a green forest clearing."
+    },
+    {
+      "id": 92,
+      "unit": 6,
+      "slug": "gossip",
+      "headword": "gossip",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "八卦",
+        "闲话"
+      ],
+      "definition": "Talk about private lives of others.",
+      "example": "Do not listen to silly gossip.",
+      "spokenForm": "gossip",
+      "imageAlt": "Two playful raccoons whisper secrets to each other behind a big green leaf in a sunny garden."
+    },
+    {
+      "id": 93,
+      "unit": 6,
+      "slug": "impressed",
+      "headword": "impressed",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "钦佩",
+        "印象深"
+      ],
+      "definition": "feeling that someone did very well",
+      "example": "I was impressed by her painting.",
+      "spokenForm": "impressed",
+      "imageAlt": "A wide-eyed orange cat looks with great admiration at a tiny mouse building a tall block tower."
+    },
+    {
+      "id": 94,
+      "unit": 6,
+      "slug": "inspiration",
+      "headword": "inspiration",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "灵感",
+        "鼓舞"
+      ],
+      "definition": "someone who makes you want to do well",
+      "example": "His brave action was an inspiration.",
+      "spokenForm": "inspiration",
+      "imageAlt": "A little brown puppy looks up at a glowing star in the night sky with a hopeful smile."
+    },
+    {
+      "id": 95,
+      "unit": 6,
+      "slug": "keep-away",
+      "headword": "keep (sb/sth) away",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "避开",
+        "走远"
+      ],
+      "definition": "To stay away from somewhere.",
+      "example": "Please keep away from the fire.",
+      "spokenForm": "keep away",
+      "imageAlt": "A cautious little pig steps backward with its hands raised, staying far away from a bubbling pot."
+    },
+    {
+      "id": 96,
+      "unit": 6,
+      "slug": "keep-down-or-keep-down",
+      "headword": "keep down sth or keep sth down",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "抑制",
+        "控制"
+      ],
+      "definition": "To stop something from increasing.",
+      "example": "We must keep down the costs.",
+      "spokenForm": "keep down something",
+      "imageAlt": "A cute squirrel holds a lid firmly down on a big box so bouncy red nuts do not jump out."
+    },
+    {
+      "id": 97,
+      "unit": 6,
+      "slug": "keep-to",
+      "headword": "keep to sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "遵守",
+        "坚持"
+      ],
+      "definition": "To do what you planned.",
+      "example": "You should keep to your promise.",
+      "spokenForm": "keep to something",
+      "imageAlt": "A neat little badger follows a painted white path through a lovely flower garden without stepping off."
+    },
+    {
+      "id": 98,
+      "unit": 6,
+      "slug": "living",
+      "headword": "living",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "生计",
+        "谋生"
+      ],
+      "definition": "The money earned from working.",
+      "example": "He makes a living by baking.",
+      "spokenForm": "living",
+      "imageAlt": "A happy baker bear collects shiny gold coins from a wooden box inside a warm bakery shop."
+    },
+    {
+      "id": 99,
+      "unit": 6,
+      "slug": "look-up-to",
+      "headword": "look up to sb",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "敬仰",
+        "尊敬"
+      ],
+      "definition": "To respect and admire someone.",
+      "example": "I look up to my older sister.",
+      "spokenForm": "look up to somebody",
+      "imageAlt": "A tiny yellow chick tilts its head way up with shining eyes to smile at a tall friendly giraffe."
+    },
+    {
+      "id": 100,
+      "unit": 6,
+      "slug": "the-press",
+      "headword": "the press",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "新闻界",
+        "媒体"
+      ],
+      "definition": "Newspapers and magazine writers.",
+      "example": "The press asked many questions.",
+      "spokenForm": "the press",
+      "imageAlt": "Several busy cartoon moles raise old cameras and ask questions around a surprised singer."
+    },
+    {
+      "id": 101,
+      "unit": 6,
+      "slug": "privacy",
+      "headword": "privacy",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "隐私",
+        "独处"
+      ],
+      "definition": "Being alone where nobody watches.",
+      "example": "She wanted some quiet privacy.",
+      "spokenForm": "privacy",
+      "imageAlt": "A cozy panda reads a colorful book inside a quiet blue tent tucked under big green trees."
+    },
+    {
+      "id": 102,
+      "unit": 6,
+      "slug": "the-pros-and-cons",
+      "headword": "the pros and cons",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "利弊",
+        "优缺点"
+      ],
+      "definition": "the good points and bad points",
+      "example": "Think about the pros and cons.",
+      "spokenForm": "the pros and cons",
+      "imageAlt": "A thoughtful little monkey looks at a scale with a smiley face on one side and a sad face on the other."
+    },
+    {
+      "id": 103,
+      "unit": 6,
+      "slug": "regional",
+      "headword": "regional",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "地区性",
+        "地方的"
+      ],
+      "definition": "from one part of a country",
+      "example": "We heard regional folk music.",
+      "spokenForm": "regional",
+      "imageAlt": "Friendly creatures from one green valley play the same local drums together among small houses."
+    },
+    {
+      "id": 104,
+      "unit": 6,
+      "slug": "scandal",
+      "headword": "scandal",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "丑闻",
+        "风波"
+      ],
+      "definition": "Something shocking that is wrong.",
+      "example": "The silly theft caused a scandal.",
+      "spokenForm": "scandal",
+      "imageAlt": "Several surprised sheep gasp with round eyes while staring at a spilled basket of sweet red apples."
+    },
+    {
+      "id": 105,
+      "unit": 6,
+      "slug": "sensation",
+      "headword": "sensation",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "轰动",
+        "轰动事件"
+      ],
+      "definition": "A lot of public excitement.",
+      "example": "Her new song was a sensation.",
+      "spokenForm": "sensation",
+      "imageAlt": "A little brown puppy wearing a shiny crown dances happily while glowing golden stars pop all around."
+    },
+    {
+      "id": 106,
+      "unit": 6,
+      "slug": "understandable",
+      "headword": "understandable",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "可以理解",
+        "合情合理"
+      ],
+      "definition": "normal or easy to understand",
+      "example": "His tiredness was quite understandable.",
+      "spokenForm": "understandable",
+      "imageAlt": "A sleepy baby koala yawns widely and cuddles a soft tree branch on a sunny afternoon."
+    },
+    {
+      "id": 107,
+      "unit": 7,
+      "slug": "cant-stand",
+      "headword": "can’t stand sb/ sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "讨厌",
+        "受不了"
+      ],
+      "definition": "to really dislike someone or something",
+      "example": "I can’t stand loud noises.",
+      "spokenForm": "can’t stand something",
+      "imageAlt": "A fluffy blue creature covers both fuzzy ears with its paws while frowning at a noisy orange toy."
+    },
+    {
+      "id": 108,
+      "unit": 7,
+      "slug": "cheer",
+      "headword": "cheer",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "欢呼",
+        "加油"
+      ],
+      "definition": "to shout loudly to show happiness",
+      "example": "The children cheer for their team.",
+      "spokenForm": "cheer",
+      "imageAlt": "A happy green creature jumps up and down with paws in the air, smiling brightly in a sunny park."
+    },
+    {
+      "id": 109,
+      "unit": 7,
+      "slug": "do-business-with",
+      "headword": "do business (with sb)",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "做生意",
+        "交易"
+      ],
+      "definition": "to buy and sell things with others",
+      "example": "They do business with local shops.",
+      "spokenForm": "do business with somebody",
+      "imageAlt": "Two cheerful animal friends hand each other a shiny red apple and a bag of golden coins at a market stand."
+    },
+    {
+      "id": 110,
+      "unit": 7,
+      "slug": "do-damage",
+      "headword": "do damage",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "造成破坏",
+        "损坏"
+      ],
+      "definition": "to cause harm to something",
+      "example": "Storms can do damage to trees.",
+      "spokenForm": "do damage",
+      "imageAlt": "A small purple creature looks sad as a strong wind blows a wooden fence over in the garden."
+    },
+    {
+      "id": 111,
+      "unit": 7,
+      "slug": "do-a-favour",
+      "headword": "do sb a favour",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "帮个忙"
+      ],
+      "definition": "to do something nice to help",
+      "example": "Can you do me a favour?",
+      "spokenForm": "do somebody a favour",
+      "imageAlt": "A friendly yellow creature holds a heavy box of books to help a tired little bear walk."
+    },
+    {
+      "id": 112,
+      "unit": 7,
+      "slug": "do-for-a-living",
+      "headword": "do sth for a living",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "谋生",
+        "工作"
+      ],
+      "definition": "to work to earn money",
+      "example": "What do you do for a living?",
+      "spokenForm": "do something for a living",
+      "imageAlt": "A happy brown creature wears a baker hat and takes warm round bread out of a brick oven."
+    },
+    {
+      "id": 113,
+      "unit": 7,
+      "slug": "do-without",
+      "headword": "do without (sb/ sth)",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "没有也行",
+        "凑合"
+      ],
+      "definition": "to manage without having something",
+      "example": "We have to do without milk today.",
+      "spokenForm": "do without something",
+      "imageAlt": "A cute pink creature smiles and eats plain toast because there is no jam left in the jar."
+    },
+    {
+      "id": 114,
+      "unit": 7,
+      "slug": "fall-apart",
+      "headword": "fall apart",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "散架",
+        "崩溃"
+      ],
+      "definition": "to break into pieces or fail",
+      "example": "The old toy began to fall apart.",
+      "spokenForm": "fall apart",
+      "imageAlt": "A wooden toy car breaks into small wooden blocks as a little fluffy creature watches with wide eyes."
+    },
+    {
+      "id": 115,
+      "unit": 7,
+      "slug": "fall-for",
+      "headword": "fall for sb",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "倾心",
+        "迷恋"
+      ],
+      "definition": "to start liking someone very much",
+      "example": "The shy prince fell for the kind baker.",
+      "spokenForm": "fall for somebody",
+      "imageAlt": "Two shy adult creatures share warm bread and smile softly at each other across a table."
+    },
+    {
+      "id": 116,
+      "unit": 7,
+      "slug": "fall-out-with",
+      "headword": "fall out (with sb)",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "吵架",
+        "闹翻"
+      ],
+      "definition": "to argue and stop being friends",
+      "example": "They fall out over a game.",
+      "spokenForm": "fall out with somebody",
+      "imageAlt": "Two furry creatures turn their backs to each other with crossed arms after a silly argument over toys."
+    },
+    {
+      "id": 117,
+      "unit": 7,
+      "slug": "fall-through",
+      "headword": "fall through",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "落空",
+        "失败"
+      ],
+      "definition": "to fail to happen as planned",
+      "example": "Our trip to the park might fall through.",
+      "spokenForm": "fall through",
+      "imageAlt": "Dark rain clouds cover the sky as a tiny sad creature looks at a picnic basket on the grass."
+    },
+    {
+      "id": 118,
+      "unit": 7,
+      "slug": "ice-skate",
+      "headword": "ice skate",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "滑冰"
+      ],
+      "definition": "to glide across ice on skates",
+      "example": "We love to ice skate in winter.",
+      "spokenForm": "ice skate",
+      "imageAlt": "A cheerful blue creature glides smoothly on frozen pond ice wearing tiny silver boots."
+    },
+    {
+      "id": 119,
+      "unit": 7,
+      "slug": "lap",
+      "headword": "lap",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "圈"
+      ],
+      "definition": "one trip around a race track",
+      "example": "She ran one more lap to win.",
+      "spokenForm": "lap",
+      "imageAlt": "A fast orange creature runs around a circular red running track past a white starting line."
+    },
+    {
+      "id": 120,
+      "unit": 7,
+      "slug": "penalty",
+      "headword": "penalty",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "罚球",
+        "惩罚"
+      ],
+      "definition": "a free chance after another team breaks rules",
+      "example": "The team got a penalty kick.",
+      "spokenForm": "penalty",
+      "imageAlt": "A furry referee blows a silver whistle on a green grassy sports field under a blue sky."
+    },
+    {
+      "id": 121,
+      "unit": 7,
+      "slug": "referee",
+      "headword": "referee",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "裁判"
+      ],
+      "definition": "someone who checks rules in a game",
+      "example": "The referee blew his loud whistle.",
+      "spokenForm": "referee",
+      "imageAlt": "A tall striped creature wears a black and white shirt while holding a yellow card on a field."
+    },
+    {
+      "id": 122,
+      "unit": 7,
+      "slug": "take-a-risk",
+      "headword": "take a risk",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "冒险"
+      ],
+      "definition": "to do something when bad things might happen",
+      "example": "It is fun to take a risk.",
+      "spokenForm": "take a risk",
+      "imageAlt": "A brave little purple creature walks across a narrow wooden log over a gentle running brook."
+    },
+    {
+      "id": 123,
+      "unit": 7,
+      "slug": "spectator",
+      "headword": "spectator",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "观众",
+        "旁观者"
+      ],
+      "definition": "someone who watches a sports event",
+      "example": "Every spectator clapped for the players.",
+      "spokenForm": "spectator",
+      "imageAlt": "Many friendly creatures sit on stadium benches, clap their paws and watch a lively ball game."
+    },
+    {
+      "id": 124,
+      "unit": 8,
+      "slug": "be-accustomed-to-doing",
+      "headword": "be accustomed to sth/doing sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "习惯"
+      ],
+      "definition": "used to something so it feels normal",
+      "example": "He is accustomed to waking up early.",
+      "spokenForm": "be accustomed to something",
+      "imageAlt": "A fluffy purple creature happily drinking warm milk every morning in a cozy sunlit kitchen."
+    },
+    {
+      "id": 125,
+      "unit": 8,
+      "slug": "be-friends-with",
+      "headword": "be friends with",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "是朋友"
+      ],
+      "definition": "to know and like someone well",
+      "example": "They are best friends with each other.",
+      "spokenForm": "be friends with",
+      "imageAlt": "Two happy little blue bears sharing a basket of sweet red apples under a green tree."
+    },
+    {
+      "id": 126,
+      "unit": 8,
+      "slug": "critical",
+      "headword": "critical",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "批评的",
+        "挑剔"
+      ],
+      "definition": "saying that something is bad or wrong",
+      "example": "She was critical of his messy room.",
+      "spokenForm": "critical",
+      "imageAlt": "A small yellow creature frowning at a crooked tower made of wooden blocks."
+    },
+    {
+      "id": 127,
+      "unit": 8,
+      "slug": "disapprove",
+      "headword": "disapprove",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "不同意",
+        "不赞成"
+      ],
+      "definition": "to think that something is bad",
+      "example": "Parents disapprove of running in the house.",
+      "spokenForm": "disapprove",
+      "imageAlt": "An orange cat creature shaking its head gently while watching another puppy run indoors."
+    },
+    {
+      "id": 128,
+      "unit": 8,
+      "slug": "keep-break-a-promise",
+      "headword": "keep/break a promise",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "守信用"
+      ],
+      "definition": "to do what you said you would",
+      "example": "Always keep a promise to your friends.",
+      "spokenForm": "keep a promise",
+      "imageAlt": "Two friendly bunnies shaking hands to show they will share their carrot cake."
+    },
+    {
+      "id": 129,
+      "unit": 8,
+      "slug": "keep-a-secret",
+      "headword": "keep a secret",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "保密"
+      ],
+      "definition": "to not tell anyone a secret",
+      "example": "Can you keep a secret about the party?",
+      "spokenForm": "keep a secret",
+      "imageAlt": "A little green frog whispering happily into the ear of a smiling pink mouse."
+    },
+    {
+      "id": 130,
+      "unit": 8,
+      "slug": "keep-awake",
+      "headword": "keep sb awake",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "使清醒",
+        "不睡"
+      ],
+      "definition": "to stop someone from falling asleep",
+      "example": "Loud music can keep somebody awake.",
+      "spokenForm": "keep somebody awake",
+      "imageAlt": "A bright yellow owl blinking wide eyes while looking at the starry night sky."
+    },
+    {
+      "id": 131,
+      "unit": 8,
+      "slug": "make-a-fortune",
+      "headword": "make a fortune",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "发财",
+        "赚大钱"
+      ],
+      "definition": "to make a lot of money",
+      "example": "The clever inventor hoped to make a fortune.",
+      "spokenForm": "make a fortune",
+      "imageAlt": "A happy bear opening a chest filled with shiny golden star coins in a magical cave."
+    },
+    {
+      "id": 132,
+      "unit": 8,
+      "slug": "make-friends-with",
+      "headword": "make friends (with sb)",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "交朋友"
+      ],
+      "definition": "to start knowing and liking someone",
+      "example": "It is fun to make friends at school.",
+      "spokenForm": "make friends with somebody",
+      "imageAlt": "Two smiling puppy creatures playing together with a red ball on soft green grass."
+    },
+    {
+      "id": 133,
+      "unit": 8,
+      "slug": "storey",
+      "headword": "storey",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "楼层"
+      ],
+      "definition": "one level or floor of a building",
+      "example": "Their cat lives on the second storey.",
+      "spokenForm": "storey",
+      "imageAlt": "A tall colorful treehouse with three different wooden levels built high up in a tree."
+    },
+    {
+      "id": 134,
+      "unit": 8,
+      "slug": "struggle",
+      "headword": "struggle",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "努力",
+        "奋斗"
+      ],
+      "definition": "to try very hard at something hard",
+      "example": "He had to struggle to lift the box.",
+      "spokenForm": "struggle",
+      "imageAlt": "A small brown bear pushing a very big round pumpkin up a gentle grassy hill."
+    },
+    {
+      "id": 135,
+      "unit": 8,
+      "slug": "taste-good-bad-sweet-etc",
+      "headword": "taste good/bad/ sweet etc.",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "尝起来"
+      ],
+      "definition": "to have a certain flavor in food",
+      "example": "Fresh strawberries taste very sweet today.",
+      "spokenForm": "taste good",
+      "imageAlt": "A cheerful white rabbit eating a delicious red strawberry with a very happy smile."
+    },
+    {
+      "id": 136,
+      "unit": 9,
+      "slug": "brand",
+      "headword": "brand",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "牌子",
+        "商标"
+      ],
+      "definition": "a company name on things you buy",
+      "example": "Mia loves this shoe brand.",
+      "spokenForm": "brand",
+      "imageAlt": "A blue bunny compares several green boxes that share the same dotted pattern and shape."
+    },
+    {
+      "id": 137,
+      "unit": 9,
+      "slug": "budget",
+      "headword": "budget",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "预算",
+        "钱数"
+      ],
+      "definition": "the money you have ready to spend",
+      "example": "We have a small money budget.",
+      "spokenForm": "budget",
+      "imageAlt": "A friendly yellow bear counting shiny gold coins and putting them into a small jar."
+    },
+    {
+      "id": 138,
+      "unit": 9,
+      "slug": "commercial",
+      "headword": "commercial",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "广告",
+        "电视广告"
+      ],
+      "definition": "a short TV or radio advertisement",
+      "example": "A toy commercial played on the radio.",
+      "spokenForm": "commercial",
+      "imageAlt": "A red fox presents a shiny toy to curious creatures gathered around a little stage."
+    },
+    {
+      "id": 139,
+      "unit": 9,
+      "slug": "deadline",
+      "headword": "deadline",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "最后期限",
+        "限期"
+      ],
+      "definition": "the time when work must be finished",
+      "example": "The homework deadline is tomorrow morning.",
+      "spokenForm": "deadline",
+      "imageAlt": "A green frog hurries to finish a drawing as the evening sun sinks outside."
+    },
+    {
+      "id": 140,
+      "unit": 9,
+      "slug": "dramatic",
+      "headword": "dramatic",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "激动人心的",
+        "戏剧性的"
+      ],
+      "definition": "full of exciting action and fun",
+      "example": "The magic show was very dramatic.",
+      "spokenForm": "dramatic",
+      "imageAlt": "A playful purple cat jumping high in the air with colorful sparks around it."
+    },
+    {
+      "id": 141,
+      "unit": 9,
+      "slug": "element",
+      "headword": "element",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "部分",
+        "要素"
+      ],
+      "definition": "one part of a bigger thing",
+      "example": "Water is a key life element.",
+      "spokenForm": "element",
+      "imageAlt": "A cute orange turtle pointing at one piece of a big colorful puzzle."
+    },
+    {
+      "id": 142,
+      "unit": 9,
+      "slug": "personality",
+      "headword": "personality",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "名人",
+        "大明星"
+      ],
+      "definition": "a very famous real person",
+      "example": "A TV personality waved hello.",
+      "spokenForm": "personality",
+      "imageAlt": "A friendly pink mouse waving to a cheering crowd under bright stage lights."
+    },
+    {
+      "id": 143,
+      "unit": 9,
+      "slug": "reckon",
+      "headword": "reckon",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "认为",
+        "猜想"
+      ],
+      "definition": "to think something is probably true",
+      "example": "I reckon it will rain soon.",
+      "spokenForm": "reckon",
+      "imageAlt": "A happy brown bear looking up at the sky with a thoughtful face."
+    },
+    {
+      "id": 144,
+      "unit": 9,
+      "slug": "setting",
+      "headword": "setting",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "背景",
+        "场景"
+      ],
+      "definition": "the place where a story happens",
+      "example": "The story setting is a forest.",
+      "spokenForm": "setting",
+      "imageAlt": "A cute little squirrel sitting under a giant green tree in a magical wood."
+    },
+    {
+      "id": 145,
+      "unit": 9,
+      "slug": "shallow",
+      "headword": "shallow",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "浅的"
+      ],
+      "definition": "not deep at all",
+      "example": "The water in the pool is shallow.",
+      "spokenForm": "shallow",
+      "imageAlt": "A happy yellow duck standing safely in very low clear blue water."
+    },
+    {
+      "id": 146,
+      "unit": 9,
+      "slug": "whats-more",
+      "headword": "what’s more",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "而且",
+        "况且"
+      ],
+      "definition": "used to add something interesting",
+      "example": "It is fun, and what is more, free.",
+      "spokenForm": "what's more",
+      "imageAlt": "A joyful blue creature holding a big present and smiling widely at a friend."
+    },
+    {
+      "id": 147,
+      "unit": 10,
+      "slug": "at-peace",
+      "headword": "at peace",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "和平",
+        "没有打仗"
+      ],
+      "definition": "Not fighting or at war.",
+      "example": "The two countries are at peace now.",
+      "spokenForm": "at peace",
+      "imageAlt": "A friendly green turtle and a fluffy pink rabbit sitting together quietly on green grass."
+    },
+    {
+      "id": 148,
+      "unit": 10,
+      "slug": "at-rest",
+      "headword": "at rest",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "休息",
+        "静止不动"
+      ],
+      "definition": "Not moving or doing anything active.",
+      "example": "The tired little puppy is at rest.",
+      "spokenForm": "at rest",
+      "imageAlt": "A sleepy blue bear lying down on a soft yellow rug inside a cozy room."
+    },
+    {
+      "id": 149,
+      "unit": 10,
+      "slug": "at-war",
+      "headword": "at war",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "交战",
+        "打仗"
+      ],
+      "definition": "Fighting between countries or groups.",
+      "example": "The two kingdoms were at war.",
+      "spokenForm": "at war",
+      "imageAlt": "Two groups of toy robots glare from opposite hills, divided by a wide empty valley."
+    },
+    {
+      "id": 150,
+      "unit": 10,
+      "slug": "concept",
+      "headword": "concept",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "概念",
+        "想法"
+      ],
+      "definition": "An idea or a principle.",
+      "example": "She learned a new math concept.",
+      "spokenForm": "concept",
+      "imageAlt": "A cheerful orange creature pointing at a glowing light bulb floating in the air."
+    },
+    {
+      "id": 151,
+      "unit": 10,
+      "slug": "decade",
+      "headword": "decade",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "十年"
+      ],
+      "definition": "A period of ten years.",
+      "example": "A decade passed by very fast.",
+      "spokenForm": "decade",
+      "imageAlt": "A tall round cake decorated with ten bright yellow candles burning softly."
+    },
+    {
+      "id": 152,
+      "unit": 10,
+      "slug": "illegal",
+      "headword": "illegal",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "违法",
+        "不合法"
+      ],
+      "definition": "Not allowed by the law.",
+      "example": "Stealing candy from the shop is illegal.",
+      "spokenForm": "illegal",
+      "imageAlt": "A shopkeeper gently stops a sneaky paw from taking a toy without paying."
+    },
+    {
+      "id": 153,
+      "unit": 10,
+      "slug": "immoral",
+      "headword": "immoral",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "不道德",
+        "坏的"
+      ],
+      "definition": "Wrong and not good.",
+      "example": "Cheating in games is immoral.",
+      "spokenForm": "immoral",
+      "imageAlt": "A sad purple monster looking down because it took another creature's toy."
+    },
+    {
+      "id": 154,
+      "unit": 10,
+      "slug": "impatient",
+      "headword": "impatient",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "没耐心",
+        "急躁"
+      ],
+      "definition": "Annoyed because you have to wait.",
+      "example": "The boy was impatient for lunch.",
+      "spokenForm": "impatient",
+      "imageAlt": "A little yellow duck tapping its foot while looking at an empty plate."
+    },
+    {
+      "id": 155,
+      "unit": 10,
+      "slug": "inappropriate",
+      "headword": "inappropriate",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "不合适",
+        "不恰当"
+      ],
+      "definition": "Not suitable for the situation.",
+      "example": "Wearing boots to bed is inappropriate.",
+      "spokenForm": "inappropriate",
+      "imageAlt": "A cute brown dog wearing heavy winter boots inside a warm sunny kitchen."
+    },
+    {
+      "id": 156,
+      "unit": 10,
+      "slug": "inexperienced",
+      "headword": "inexperienced",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "没经验",
+        "生疏"
+      ],
+      "definition": "Without much experience or knowledge.",
+      "example": "The inexperienced cook dropped an egg.",
+      "spokenForm": "inexperienced",
+      "imageAlt": "A small green frog wearing a giant chef hat looking confused at a bowl."
+    },
+    {
+      "id": 157,
+      "unit": 10,
+      "slug": "irregular",
+      "headword": "irregular",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "不规则",
+        "无规律"
+      ],
+      "definition": "happening at different times without a pattern",
+      "example": "The bus arrival times are irregular.",
+      "spokenForm": "irregular",
+      "imageAlt": "Colorful building blocks stacked in a tall wobbly tower of different shapes."
+    },
+    {
+      "id": 158,
+      "unit": 10,
+      "slug": "irresponsible",
+      "headword": "irresponsible",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "不负责",
+        "任性"
+      ],
+      "definition": "Not thinking about bad results.",
+      "example": "Leaving the gate open is irresponsible.",
+      "spokenForm": "irresponsible",
+      "imageAlt": "A happy monkey leaving a wooden garden gate wide open while running away."
+    },
+    {
+      "id": 159,
+      "unit": 10,
+      "slug": "proposal",
+      "headword": "proposal",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "提议",
+        "计划"
+      ],
+      "definition": "A suggestion for a plan.",
+      "example": "Her proposal for the party was great.",
+      "spokenForm": "proposal",
+      "imageAlt": "A smiling white cat showing a paper drawing of a fun playground."
+    },
+    {
+      "id": 160,
+      "unit": 10,
+      "slug": "significant",
+      "headword": "significant",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "重要",
+        "显著"
+      ],
+      "definition": "Important or easy to notice.",
+      "example": "Today is a significant day.",
+      "spokenForm": "significant",
+      "imageAlt": "A big golden star glowing brightly on top of a green tree."
+    },
+    {
+      "id": 161,
+      "unit": 10,
+      "slug": "sponsor",
+      "headword": "sponsor",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "赞助",
+        "资助"
+      ],
+      "definition": "To give money to support an event.",
+      "example": "The bakery will sponsor the race.",
+      "spokenForm": "sponsor",
+      "imageAlt": "A friendly baker handing a bag of gold coins to a running team."
+    },
+    {
+      "id": 162,
+      "unit": 10,
+      "slug": "willingness",
+      "headword": "willingness",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "乐意",
+        "情愿"
+      ],
+      "definition": "Being happy to do something.",
+      "example": "She showed a willingness to help.",
+      "spokenForm": "willingness",
+      "imageAlt": "A cheerful yellow creature raises both paws eagerly to help friends clean their playroom."
+    },
+    {
+      "id": 163,
+      "unit": 11,
+      "slug": "aggressive",
+      "headword": "aggressive",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "好斗的",
+        "粗暴的"
+      ],
+      "definition": "acting angry and ready to fight",
+      "example": "The big bear gave an aggressive growl.",
+      "spokenForm": "aggressive",
+      "imageAlt": "A grumpy purple creature leans forward and growls while its friends step back calmly."
+    },
+    {
+      "id": 164,
+      "unit": 11,
+      "slug": "blush",
+      "headword": "blush",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "脸红"
+      ],
+      "definition": "your face turns red from shyness",
+      "example": "Her cheeks began to blush when everyone clapped.",
+      "spokenForm": "blush",
+      "imageAlt": "A shy pink bunny with bright red cheeks hiding its face behind two fluffy paws in a sunny meadow."
+    },
+    {
+      "id": 165,
+      "unit": 11,
+      "slug": "characteristic",
+      "headword": "characteristic",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "特征",
+        "特点"
+      ],
+      "definition": "a special thing that makes someone different",
+      "example": "A loud cheerful laugh is his main characteristic.",
+      "spokenForm": "characteristic",
+      "imageAlt": "A cheerful little yellow creature wearing a big polka-dot hat while skipping happily along a forest path."
+    },
+    {
+      "id": 166,
+      "unit": 11,
+      "slug": "competitive",
+      "headword": "competitive",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "好胜的"
+      ],
+      "definition": "wanting very much to win games",
+      "example": "He is very competitive during board game night.",
+      "spokenForm": "competitive",
+      "imageAlt": "An eager blue fox holding a golden star trophy high above its head with a big proud smile."
+    },
+    {
+      "id": 167,
+      "unit": 11,
+      "slug": "discourage",
+      "headword": "discourage",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "打击",
+        "泄气"
+      ],
+      "definition": "to make someone feel they cannot succeed",
+      "example": "Do not let one mistake discourage your painting.",
+      "spokenForm": "discourage",
+      "imageAlt": "A sad little bear sitting on the grass looking down at a spilled box of colorful paints."
+    },
+    {
+      "id": 168,
+      "unit": 11,
+      "slug": "identical",
+      "headword": "identical",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "完全相同"
+      ],
+      "definition": "being exactly the same in every way",
+      "example": "The two kittens wore identical yellow ribbons.",
+      "spokenForm": "identical",
+      "imageAlt": "Two fluffy white kittens wearing the exact same blue bows sitting side by side on a soft rug."
+    },
+    {
+      "id": 169,
+      "unit": 11,
+      "slug": "identity",
+      "headword": "identity",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "身份"
+      ],
+      "definition": "who a person truly is",
+      "example": "She kept her secret superhero identity hidden well.",
+      "spokenForm": "identity",
+      "imageAlt": "A smiling owl wearing a small detective hat looking closely at a shiny silver badge."
+    },
+    {
+      "id": 170,
+      "unit": 11,
+      "slug": "loyal",
+      "headword": "loyal",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "忠诚的"
+      ],
+      "definition": "always staying kind and true to friends",
+      "example": "His loyal dog waited by the door all day.",
+      "spokenForm": "loyal",
+      "imageAlt": "A faithful brown puppy sitting patiently outside a wooden cottage waiting for its friend."
+    },
+    {
+      "id": 171,
+      "unit": 11,
+      "slug": "only-child",
+      "headword": "only child",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "独生子女"
+      ],
+      "definition": "a child who has no brothers or sisters",
+      "example": "Leo is an only child with no sisters.",
+      "spokenForm": "only child",
+      "imageAlt": "One happy panda cub plays between two parent pandas in a cosy family room."
+    },
+    {
+      "id": 172,
+      "unit": 11,
+      "slug": "optimistic",
+      "headword": "optimistic",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "乐观的"
+      ],
+      "definition": "believing good things will happen soon",
+      "example": "She stayed optimistic even when it started raining.",
+      "spokenForm": "optimistic",
+      "imageAlt": "A cheerful frog holding a yellow leaf umbrella while smiling up at a patch of blue sky."
+    },
+    {
+      "id": 173,
+      "unit": 11,
+      "slug": "resemble",
+      "headword": "resemble",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "相似",
+        "像"
+      ],
+      "definition": "to look like or be similar to someone",
+      "example": "The baby koala seems to resemble her mother.",
+      "spokenForm": "resemble",
+      "imageAlt": "A mother koala and her tiny baby sitting in a eucalyptus tree with matching round ears."
+    },
+    {
+      "id": 174,
+      "unit": 11,
+      "slug": "similarity",
+      "headword": "similarity",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "相似处"
+      ],
+      "definition": "the way in which two things are alike",
+      "example": "A strong similarity exists in their sweet smiles.",
+      "spokenForm": "similarity",
+      "imageAlt": "Two smiling pandas eating bamboo shoots together in a peaceful green bamboo forest."
+    },
+    {
+      "id": 175,
+      "unit": 11,
+      "slug": "stubborn",
+      "headword": "stubborn",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "顽固的",
+        "倔强"
+      ],
+      "definition": "refusing to change your mind or plans",
+      "example": "The stubborn donkey refused to cross the bridge.",
+      "spokenForm": "stubborn",
+      "imageAlt": "A little gray donkey standing firmly with its four feet planted on a path refusing to move."
+    },
+    {
+      "id": 176,
+      "unit": 11,
+      "slug": "take-account-of",
+      "headword": "take account of",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "考虑到",
+        "顾及"
+      ],
+      "definition": "to think about important facts before deciding",
+      "example": "Please take account of the cold weather outside.",
+      "spokenForm": "take account of",
+      "imageAlt": "A wise turtle notices rain outside and adds a coat before planning the walk."
+    },
+    {
+      "id": 177,
+      "unit": 11,
+      "slug": "take-after",
+      "headword": "take after sb",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "像长辈"
+      ],
+      "definition": "to look or act like older family member",
+      "example": "The little puppy takes after his father.",
+      "spokenForm": "take after somebody",
+      "imageAlt": "A large brown dog and a small puppy running together with the exact same bouncy stride."
+    },
+    {
+      "id": 178,
+      "unit": 11,
+      "slug": "take-charge",
+      "headword": "take charge",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "负责",
+        "掌管"
+      ],
+      "definition": "to take control and be the leader",
+      "example": "She decided to take charge of the cleanup team.",
+      "spokenForm": "take charge",
+      "imageAlt": "A confident bunny wearing a little red firefighter hat pointing a paw forward to guide friends."
+    },
+    {
+      "id": 179,
+      "unit": 11,
+      "slug": "take-for-granted",
+      "headword": "take for granted",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "视为理所当然"
+      ],
+      "definition": "to forget how lucky you are to have",
+      "example": "Never take your good friends for granted.",
+      "spokenForm": "take for granted",
+      "imageAlt": "One squirrel accepts acorns without noticing the tired friend who gathers them every day."
+    },
+    {
+      "id": 180,
+      "unit": 11,
+      "slug": "take-out-or-take-out",
+      "headword": "take out sth or take sth out",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "拿出",
+        "取出"
+      ],
+      "definition": "to remove something from inside a container",
+      "example": "Please take out your red crayon for art class.",
+      "spokenForm": "take out something",
+      "imageAlt": "A smiling yellow duck reaching a wing into a colorful basket to pull out a bright red paintbrush."
+    },
+    {
+      "id": 181,
+      "unit": 11,
+      "slug": "take-seriously",
+      "headword": "take sb/sth seriously",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "重视"
+      ],
+      "definition": "to believe someone or something is very important",
+      "example": "You must take safety rules seriously every day.",
+      "spokenForm": "take something seriously",
+      "imageAlt": "An attentive brown bear listening closely to a tiny bird giving instructions on a park bench."
+    },
+    {
+      "id": 182,
+      "unit": 11,
+      "slug": "take-turns",
+      "headword": "take turns",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "轮流"
+      ],
+      "definition": "to do something one person after another",
+      "example": "The children take turns on the playground swing.",
+      "spokenForm": "take turns",
+      "imageAlt": "Two friendly red pandas waiting patiently while one pushes the other on a wooden playground swing."
+    },
+    {
+      "id": 183,
+      "unit": 11,
+      "slug": "unpopular",
+      "headword": "unpopular",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "不受欢迎"
+      ],
+      "definition": "not liked by most people around you",
+      "example": "The new game was unpopular with the class.",
+      "spokenForm": "unpopular",
+      "imageAlt": "One toy game sits unused while the class chooses other games from a shelf."
+    },
+    {
+      "id": 184,
+      "unit": 11,
+      "slug": "unreliable",
+      "headword": "unreliable",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "不可靠的"
+      ],
+      "definition": "not able to be trusted or counted on",
+      "example": "The old toy car was unreliable.",
+      "spokenForm": "unreliable",
+      "imageAlt": "An old toy car stops again while newer toy cars roll smoothly past it."
+    },
+    {
+      "id": 185,
+      "unit": 11,
+      "slug": "witty",
+      "headword": "witty",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "机智的",
+        "风趣的"
+      ],
+      "definition": "using clever words to make people laugh",
+      "example": "He told a witty joke that made everyone smile.",
+      "spokenForm": "witty",
+      "imageAlt": "A clever orange fox whispering a funny story into the ear of a giggling brown bear."
+    },
+    {
+      "id": 186,
+      "unit": 12,
+      "slug": "attic",
+      "headword": "attic",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "阁楼",
+        "屋顶房间"
+      ],
+      "definition": "a small room right under the roof",
+      "example": "The fuzzy monster hid inside the attic.",
+      "spokenForm": "attic",
+      "imageAlt": "A friendly purple creature climbs wooden stairs up into a dusty room right under the slanted roof."
+    },
+    {
+      "id": 187,
+      "unit": 12,
+      "slug": "cart",
+      "headword": "cart",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "手推车",
+        "购物车"
+      ],
+      "definition": "a metal basket on wheels for shopping",
+      "example": "He pushed the metal cart down the aisle.",
+      "spokenForm": "cart",
+      "imageAlt": "A happy green dinosaur pushes a shiny metal cart with wheels across a smooth grocery floor."
+    },
+    {
+      "id": 188,
+      "unit": 12,
+      "slug": "come-to-a-conclusion",
+      "headword": "come to a conclusion",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "得出结论",
+        "做出判断"
+      ],
+      "definition": "to decide something after thinking about it",
+      "example": "They finally came to a conclusion together.",
+      "spokenForm": "come to a conclusion",
+      "imageAlt": "Two cute little bears sit together looking thoughtfully at a puzzle before smiling at each other."
+    },
+    {
+      "id": 189,
+      "unit": 12,
+      "slug": "come-to-a-decision",
+      "headword": "come to a decision",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "做出决定",
+        "做选择"
+      ],
+      "definition": "to choose one option after thinking",
+      "example": "She came to a decision about her toy.",
+      "spokenForm": "come to a decision",
+      "imageAlt": "A fluffy yellow creature looks at two different colorful boxes and points its paw at one."
+    },
+    {
+      "id": 190,
+      "unit": 12,
+      "slug": "crockery",
+      "headword": "crockery",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "陶器",
+        "餐具"
+      ],
+      "definition": "plates and cups made from clay",
+      "example": "The clean crockery sat on the wooden table.",
+      "spokenForm": "crockery",
+      "imageAlt": "A neat stack of white clay plates and cups sits safely on a kitchen table."
+    },
+    {
+      "id": 191,
+      "unit": 12,
+      "slug": "crunchy",
+      "headword": "crunchy",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "脆的",
+        "发嘎吱声的"
+      ],
+      "definition": "hard food that makes a noise",
+      "example": "The little rabbit ate a crunchy carrot.",
+      "spokenForm": "crunchy",
+      "imageAlt": "A cheerful bunny happily munches on a bright orange carrot that makes crumbs fly."
+    },
+    {
+      "id": 192,
+      "unit": 12,
+      "slug": "cutlery",
+      "headword": "cutlery",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "刀叉餐具",
+        "餐具"
+      ],
+      "definition": "knives, forks, and spoons for eating",
+      "example": "Please put the shiny cutlery by the plate.",
+      "spokenForm": "cutlery",
+      "imageAlt": "A fork and spoon rest beside a plate, with a folded napkin and a small cup."
+    },
+    {
+      "id": 193,
+      "unit": 12,
+      "slug": "devise",
+      "headword": "devise",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "设计",
+        "发明"
+      ],
+      "definition": "to plan or invent a new thing",
+      "example": "They tried to devise a clever puzzle.",
+      "spokenForm": "devise",
+      "imageAlt": "Two bright blue creatures use building blocks and pencils to build a funny toy machine."
+    },
+    {
+      "id": 194,
+      "unit": 12,
+      "slug": "duplicate",
+      "headword": "duplicate",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "复制",
+        "重复做"
+      ],
+      "definition": "to do something again in the exact way",
+      "example": "He tried to duplicate the magic trick.",
+      "spokenForm": "duplicate",
+      "imageAlt": "A happy robot copies the exact same clay sculpture that another creature just made."
+    },
+    {
+      "id": 195,
+      "unit": 12,
+      "slug": "fall-asleep",
+      "headword": "fall asleep",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "入睡",
+        "睡着"
+      ],
+      "definition": "to start going to sleep",
+      "example": "The tired puppy will soon fall asleep.",
+      "spokenForm": "fall asleep",
+      "imageAlt": "A sleepy red panda rests its head on a soft green pillow and closes its eyes."
+    },
+    {
+      "id": 196,
+      "unit": 12,
+      "slug": "fall-ill",
+      "headword": "fall ill",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "生病",
+        "患病"
+      ],
+      "definition": "to become sick in your body",
+      "example": "Drink warm water so you do not fall ill.",
+      "spokenForm": "fall ill",
+      "imageAlt": "A sad little bear wears a warm blanket and rests in bed with a thermometer."
+    },
+    {
+      "id": 197,
+      "unit": 12,
+      "slug": "fall-in-love",
+      "headword": "fall in love",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "坠入爱河",
+        "深深喜欢上"
+      ],
+      "definition": "to begin loving someone very much",
+      "example": "The prince fell in love with the baker.",
+      "spokenForm": "fall in love",
+      "imageAlt": "Two shy adult creatures share an umbrella and smile warmly at each other in gentle rain."
+    },
+    {
+      "id": 198,
+      "unit": 12,
+      "slug": "fed-up",
+      "headword": "fed up",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "厌烦的",
+        "受够了的"
+      ],
+      "definition": "annoyed or bored by waiting too long",
+      "example": "She felt fed up with the long rain.",
+      "spokenForm": "fed up",
+      "imageAlt": "A little yellow monster sits by a window looking very bored while watching gray raindrops fall."
+    },
+    {
+      "id": 199,
+      "unit": 12,
+      "slug": "fulfil",
+      "headword": "fulfil",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "实现",
+        "完成"
+      ],
+      "definition": "to do what you promised to do",
+      "example": "He worked hard to fulfil his big dream.",
+      "spokenForm": "fulfil",
+      "imageAlt": "A cheerful puppy happily finishes building a tall tower of wooden blocks with a big smile."
+    },
+    {
+      "id": 200,
+      "unit": 12,
+      "slug": "groceries",
+      "headword": "groceries",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "食品杂货",
+        "买来的食物"
+      ],
+      "definition": "food and things bought for the home",
+      "example": "Mom carried bags of fresh groceries inside.",
+      "spokenForm": "groceries",
+      "imageAlt": "Paper bags filled with fresh fruit, milk, and bread sit on a warm wooden kitchen counter."
+    },
+    {
+      "id": 201,
+      "unit": 12,
+      "slug": "infection",
+      "headword": "infection",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "感染",
+        "传染病"
+      ],
+      "definition": "an illness caused by tiny germs",
+      "example": "Wash your hands to stop a bad infection.",
+      "spokenForm": "infection",
+      "imageAlt": "A friendly frog washes its webbed green hands carefully with bubbly soap under a warm tap."
+    },
+    {
+      "id": 202,
+      "unit": 12,
+      "slug": "make-fun-of",
+      "headword": "make fun of",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "取笑",
+        "开玩笑"
+      ],
+      "definition": "to say unkind jokes about someone",
+      "example": "It is not nice to make fun of others.",
+      "spokenForm": "make fun of",
+      "imageAlt": "One creature copies a friend's large ears and laughs, while another friend calmly stops the teasing."
+    },
+    {
+      "id": 203,
+      "unit": 12,
+      "slug": "ritual",
+      "headword": "ritual",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "仪式",
+        "常规活动"
+      ],
+      "definition": "action you always do in the same way",
+      "example": "Reading a bedtime story was their daily ritual.",
+      "spokenForm": "ritual",
+      "imageAlt": "A cozy owl reads a thick storybook to a tiny rabbit tucked snugly into a warm bed."
+    },
+    {
+      "id": 204,
+      "unit": 12,
+      "slug": "soggy",
+      "headword": "soggy",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "湿透的",
+        "软塌塌的"
+      ],
+      "definition": "very wet and soft to touch",
+      "example": "His homework became soggy in the rain.",
+      "spokenForm": "soggy",
+      "imageAlt": "A wet paper sailboat sits in a puddle looking soft and drooping on the ground."
+    },
+    {
+      "id": 205,
+      "unit": 12,
+      "slug": "stale",
+      "headword": "stale",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "不新鲜的",
+        "陈旧的"
+      ],
+      "definition": "old food that is no longer fresh",
+      "example": "The bread was stale and hard to bite.",
+      "spokenForm": "stale",
+      "imageAlt": "A dry piece of white bread sits on a plate, looking very hard and old."
+    },
+    {
+      "id": 206,
+      "unit": 12,
+      "slug": "substance",
+      "headword": "substance",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "物质",
+        "材料"
+      ],
+      "definition": "a solid, liquid, or gas material",
+      "example": "Water is a clear liquid substance.",
+      "spokenForm": "substance",
+      "imageAlt": "A glass cup holds clear sparkling water that bubbles gently in the bright sunlight."
+    },
+    {
+      "id": 207,
+      "unit": 12,
+      "slug": "suspicion",
+      "headword": "suspicion",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "怀疑",
+        "猜疑"
+      ],
+      "definition": "a feeling that someone did something wrong",
+      "example": "He had a suspicion that cookies were stolen.",
+      "spokenForm": "suspicion",
+      "imageAlt": "A cute cat looks sideways with curious eyes at an empty cookie jar on the counter."
+    },
+    {
+      "id": 208,
+      "unit": 12,
+      "slug": "talk-into-doing",
+      "headword": "talk sb into (doing) sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "劝说某人",
+        "说服某人做"
+      ],
+      "definition": "to persuade somebody to do something",
+      "example": "She tried to talk him into sharing apples.",
+      "spokenForm": "talk somebody into doing something",
+      "imageAlt": "A cheerful girl squirrel whispers happily to her friend to convince him to share fruit."
+    },
+    {
+      "id": 209,
+      "unit": 12,
+      "slug": "tell-apart",
+      "headword": "tell sb/sth apart",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "分清",
+        "辨别"
+      ],
+      "definition": "to see the difference between two similar things",
+      "example": "It is hard to tell the twin pups apart.",
+      "spokenForm": "tell somebody apart",
+      "imageAlt": "A smiling boy looks closely at two identical brown puppies sitting on a green rug."
+    },
+    {
+      "id": 210,
+      "unit": 12,
+      "slug": "tell-a-lie",
+      "headword": "tell a lie",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "说谎",
+        "撒谎"
+      ],
+      "definition": "to say something that is not true",
+      "example": "Always be honest and never tell a lie.",
+      "spokenForm": "tell a lie",
+      "imageAlt": "A fox hides a broken toy piece behind its back and points elsewhere when a friend asks."
+    },
+    {
+      "id": 211,
+      "unit": 12,
+      "slug": "tell-a-story",
+      "headword": "tell a story",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "讲故事",
+        "叙述"
+      ],
+      "definition": "to share a fun tale with people",
+      "example": "Grandpa will tell a story about dragons.",
+      "spokenForm": "tell a story",
+      "imageAlt": "An old bearded wizard creature sits by a glowing campfire telling tales to young animals."
+    },
+    {
+      "id": 212,
+      "unit": 12,
+      "slug": "transform",
+      "headword": "transform",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "改变",
+        "变形"
+      ],
+      "definition": "to change something completely to make it better",
+      "example": "Magic can transform a pumpkin into a coach.",
+      "spokenForm": "transform",
+      "imageAlt": "A bright sparkly wand turns a round orange pumpkin into a shiny golden carriage."
+    },
+    {
+      "id": 213,
+      "unit": 13,
+      "slug": "accuse",
+      "headword": "accuse",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "指责",
+        "说坏事"
+      ],
+      "definition": "to say somebody did something bad",
+      "example": "He tried to accuse me.",
+      "spokenForm": "accuse",
+      "imageAlt": "A fluffy blue creature pointing a tiny paw at another creature looking sad."
+    },
+    {
+      "id": 214,
+      "unit": 13,
+      "slug": "claim",
+      "headword": "claim",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "声称",
+        "说是真的"
+      ],
+      "definition": "to say something is true without proof",
+      "example": "They claim they saw a ghost.",
+      "spokenForm": "claim",
+      "imageAlt": "A green creature points at a floating sheet-like shadow while two friends look unsure."
+    },
+    {
+      "id": 215,
+      "unit": 13,
+      "slug": "deny",
+      "headword": "deny",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "否认",
+        "说不是"
+      ],
+      "definition": "to say something is not true",
+      "example": "She denied breaking the cup.",
+      "spokenForm": "deny",
+      "imageAlt": "A purple creature shakes its head firmly beside a broken cup and an unsure friend."
+    },
+    {
+      "id": 216,
+      "unit": 13,
+      "slug": "educate",
+      "headword": "educate",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "教育",
+        "教导"
+      ],
+      "definition": "to teach someone at a school",
+      "example": "Good teachers educate young children well.",
+      "spokenForm": "educate",
+      "imageAlt": "A friendly owl teacher helps young creatures sort colourful blocks into matching shapes."
+    },
+    {
+      "id": 217,
+      "unit": 13,
+      "slug": "educated",
+      "headword": "educated",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "有学问的",
+        "受过教育的"
+      ],
+      "definition": "having learned a lot at school",
+      "example": "An educated person reads many books.",
+      "spokenForm": "educated",
+      "imageAlt": "A wise old creature wearing round glasses and reading a large book."
+    },
+    {
+      "id": 218,
+      "unit": 13,
+      "slug": "educational",
+      "headword": "educational",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "教育的",
+        "有益的"
+      ],
+      "definition": "helping you learn new things",
+      "example": "This game is very educational.",
+      "spokenForm": "educational",
+      "imageAlt": "Two happy creatures building a puzzle together on a wooden table."
+    },
+    {
+      "id": 219,
+      "unit": 13,
+      "slug": "face-up-to",
+      "headword": "face up to",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "勇敢面对",
+        "接受现实"
+      ],
+      "definition": "to accept a hard situation exists",
+      "example": "You must face up to mistakes.",
+      "spokenForm": "face up to",
+      "imageAlt": "A brave little bear looking directly at a tall pile of blocks."
+    },
+    {
+      "id": 220,
+      "unit": 13,
+      "slug": "relevant",
+      "headword": "relevant",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "相关的",
+        "有用的"
+      ],
+      "definition": "connected to what is happening now",
+      "example": "His answer was relevant and helpful.",
+      "spokenForm": "relevant",
+      "imageAlt": "A cute monster matching correct puzzle pieces that fit together."
+    },
+    {
+      "id": 221,
+      "unit": 13,
+      "slug": "standard",
+      "headword": "standard",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "标准",
+        "水平"
+      ],
+      "definition": "a level used to judge quality",
+      "example": "Her drawing is of a high standard.",
+      "spokenForm": "standard",
+      "imageAlt": "An owl compares two chairs and proudly chooses the stronger, neater one."
+    },
+    {
+      "id": 222,
+      "unit": 13,
+      "slug": "urge",
+      "headword": "urge",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "力劝",
+        "极力主张"
+      ],
+      "definition": "to strongly advise someone to act",
+      "example": "Mum urged me to go to bed.",
+      "spokenForm": "urge",
+      "imageAlt": "A mother rabbit points urgently toward a cosy bed while her sleepy child still plays."
+    },
+    {
+      "id": 223,
+      "unit": 14,
+      "slug": "adventurous",
+      "headword": "adventurous",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "喜欢冒险的",
+        "爱尝新"
+      ],
+      "definition": "glad to try new and hard things",
+      "example": "The adventurous bear climbed the tall tree.",
+      "spokenForm": "adventurous",
+      "imageAlt": "A fluffy green monster with a tiny backpack climbs a giant glowing mushroom in a magical forest."
+    },
+    {
+      "id": 224,
+      "unit": 14,
+      "slug": "above-all",
+      "headword": "above all",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "最重要的是",
+        "尤其是"
+      ],
+      "definition": "more important than anything else",
+      "example": "Above all, be kind to your friends.",
+      "spokenForm": "above all",
+      "imageAlt": "A cheerful blue creature holds up a glowing star higher than all other floating toys."
+    },
+    {
+      "id": 225,
+      "unit": 14,
+      "slug": "all-along",
+      "headword": "all along",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "一直",
+        "始终"
+      ],
+      "definition": "from the very start of a time",
+      "example": "I knew the secret all along.",
+      "spokenForm": "all along",
+      "imageAlt": "A happy little turtle smiles while hiding a tiny hidden key under his shell all day."
+    },
+    {
+      "id": 226,
+      "unit": 14,
+      "slug": "all-in-all",
+      "headword": "all in all",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "总的说来",
+        "总之"
+      ],
+      "definition": "when you think about everything together",
+      "example": "All in all, the party was fun.",
+      "spokenForm": "all in all",
+      "imageAlt": "A round yellow creature sits happily surrounded by empty bowls and toy blocks after a great day."
+    },
+    {
+      "id": 227,
+      "unit": 14,
+      "slug": "all-of-a-sudden",
+      "headword": "all of a sudden",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "突然",
+        "忽然"
+      ],
+      "definition": "happening very quickly when not expected",
+      "example": "All of a sudden, it started to rain.",
+      "spokenForm": "all of a sudden",
+      "imageAlt": "A startled pink bunny jumps up as bouncy bubbles pop loudly around him in the garden."
+    },
+    {
+      "id": 228,
+      "unit": 14,
+      "slug": "commitment",
+      "headword": "commitment",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "承诺",
+        "投入"
+      ],
+      "definition": "a promise to keep giving your best",
+      "example": "His commitment to piano practice is strong.",
+      "spokenForm": "commitment",
+      "imageAlt": "A small purple mouse happily waters a tiny plant every single morning with great care."
+    },
+    {
+      "id": 229,
+      "unit": 14,
+      "slug": "concerned",
+      "headword": "concerned",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "担心的",
+        "关心的"
+      ],
+      "definition": "feeling worried about something",
+      "example": "She looked concerned about her lost puppy.",
+      "spokenForm": "concerned",
+      "imageAlt": "A worried little brown dog stares with wide eyes at an empty food bowl."
+    },
+    {
+      "id": 230,
+      "unit": 14,
+      "slug": "dishonest",
+      "headword": "dishonest",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "不诚实的",
+        "爱说谎的"
+      ],
+      "definition": "not honest and likely to tell lies",
+      "example": "It is bad to be dishonest about toys.",
+      "spokenForm": "dishonest",
+      "imageAlt": "A mischievous orange fox hides cookies behind his back while shaking his head sideways."
+    },
+    {
+      "id": 231,
+      "unit": 14,
+      "slug": "disorganised",
+      "headword": "disorganised",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "混乱的",
+        "无条理的"
+      ],
+      "definition": "not planned or arranged in a good way",
+      "example": "His desk was very disorganised today.",
+      "spokenForm": "disorganised",
+      "imageAlt": "A messy bedroom with colorful pillows, socks, and books piled up in every corner."
+    },
+    {
+      "id": 232,
+      "unit": 14,
+      "slug": "dissatisfied",
+      "headword": "dissatisfied",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "不满意的",
+        "不高兴的"
+      ],
+      "definition": "not pleased or happy with something",
+      "example": "She felt dissatisfied with the broken toy.",
+      "spokenForm": "dissatisfied",
+      "imageAlt": "A grumpy green frog glares at a tiny cold soup bowl with a pouty face."
+    },
+    {
+      "id": 233,
+      "unit": 14,
+      "slug": "enthusiasm",
+      "headword": "enthusiasm",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "热情",
+        "热忱"
+      ],
+      "definition": "when you feel very interested in something",
+      "example": "He painted the picture with great enthusiasm.",
+      "spokenForm": "enthusiasm",
+      "imageAlt": "A joyful blue kitten jumps high in the air with paintbrushes in both paws."
+    },
+    {
+      "id": 234,
+      "unit": 14,
+      "slug": "enthusiastic",
+      "headword": "enthusiastic",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "热情的",
+        "热心的"
+      ],
+      "definition": "showing a lot of interest and excitement",
+      "example": "The kids were enthusiastic about the game.",
+      "spokenForm": "enthusiastic",
+      "imageAlt": "Three smiling little bears cheer loudly with paws raised high in a sunny meadow."
+    },
+    {
+      "id": 235,
+      "unit": 14,
+      "slug": "flexible",
+      "headword": "flexible",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "灵活的",
+        "可弯曲的"
+      ],
+      "definition": "able to change easily to fit new needs",
+      "example": "We can be flexible with our playtime.",
+      "spokenForm": "flexible",
+      "imageAlt": "A bendy rubber toy animal twists its long neck around in a funny circle."
+    },
+    {
+      "id": 236,
+      "unit": 14,
+      "slug": "redundant",
+      "headword": "redundant",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "被裁员的",
+        "多余的"
+      ],
+      "definition": "not working because the job is gone",
+      "example": "He became redundant when the shop closed.",
+      "spokenForm": "redundant",
+      "imageAlt": "A sad little robot sits next to a closed door holding a packed cardboard box."
+    },
+    {
+      "id": 237,
+      "unit": 14,
+      "slug": "responsibility",
+      "headword": "responsibility",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "责任",
+        "职责"
+      ],
+      "definition": "something that is your job to care for",
+      "example": "Feeding the pet fish is my responsibility.",
+      "spokenForm": "responsibility",
+      "imageAlt": "A careful little boy feeds colorful fish in a glass bowl with a tiny spoon."
+    },
+    {
+      "id": 238,
+      "unit": 14,
+      "slug": "secure",
+      "headword": "secure",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "安全的",
+        "牢固的"
+      ],
+      "definition": "safe from any danger or harm",
+      "example": "Make sure the door is secure at night.",
+      "spokenForm": "secure",
+      "imageAlt": "A sturdy wooden treehouse with a locked wooden door and warm glowing windows at dusk."
+    },
+    {
+      "id": 239,
+      "unit": 14,
+      "slug": "self-confident",
+      "headword": "self-confident",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "自信的",
+        "有信心的"
+      ],
+      "definition": "feeling sure about yourself and your skills",
+      "example": "The self-confident girl sang on stage.",
+      "spokenForm": "self-confident",
+      "imageAlt": "A proud little duck stands tall with chest puffed out on a bright yellow stage."
+    },
+    {
+      "id": 240,
+      "unit": 14,
+      "slug": "uncertain",
+      "headword": "uncertain",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "不确定的",
+        "拿不准的"
+      ],
+      "definition": "not known or not completely sure yet",
+      "example": "The weather was uncertain this morning.",
+      "spokenForm": "uncertain",
+      "imageAlt": "A puzzled little owl tilts its head while looking at two different winding forest paths."
+    },
+    {
+      "id": 241,
+      "unit": 14,
+      "slug": "unemployment-benefit",
+      "headword": "unemployment benefit",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "失业救济金",
+        "失业补助"
+      ],
+      "definition": "money given to people who need a job",
+      "example": "He used unemployment benefit to buy food.",
+      "spokenForm": "unemployment benefit",
+      "imageAlt": "A friendly helper hands a small bag of coins to a smiling animal in town."
+    },
+    {
+      "id": 242,
+      "unit": 14,
+      "slug": "unsuccessful",
+      "headword": "unsuccessful",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "不成功的",
+        "失败的"
+      ],
+      "definition": "not getting what was wanted or planned",
+      "example": "His attempt to catch the ball was unsuccessful.",
+      "spokenForm": "unsuccessful",
+      "imageAlt": "A sleepy puppy watches a red bouncy ball roll past his paws into a bush."
+    },
+    {
+      "id": 243,
+      "unit": 15,
+      "slug": "consist-of",
+      "headword": "consist of sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "由…组成",
+        "包含"
+      ],
+      "definition": "To be made from different parts.",
+      "example": "The team will consist of five kids.",
+      "spokenForm": "consist of something",
+      "imageAlt": "A cute round blue creature putting together three colorful puzzle pieces on a wooden floor."
+    },
+    {
+      "id": 244,
+      "unit": 15,
+      "slug": "dam",
+      "headword": "dam",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "大坝",
+        "水坝"
+      ],
+      "definition": "A strong wall built across water.",
+      "example": "The big dam holds back the river.",
+      "spokenForm": "dam",
+      "imageAlt": "A friendly furry monster standing on a stone wall that stops a rushing blue river."
+    },
+    {
+      "id": 245,
+      "unit": 15,
+      "slug": "economical",
+      "headword": "economical",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "省钱的",
+        "节约的"
+      ],
+      "definition": "Not wasting money or power.",
+      "example": "This small car is very economical.",
+      "spokenForm": "economical",
+      "imageAlt": "A happy yellow creature carefully saving coins inside a shiny glass jar."
+    },
+    {
+      "id": 246,
+      "unit": 15,
+      "slug": "environmentally-friendly",
+      "headword": "environmentally friendly",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "环保的"
+      ],
+      "definition": "Not hurting nature or the planet.",
+      "example": "We use environmentally friendly paper bags.",
+      "spokenForm": "environmentally friendly",
+      "imageAlt": "A cheerful green creature planting tiny green sprouts in clean dark soil under a sunny sky."
+    },
+    {
+      "id": 247,
+      "unit": 15,
+      "slug": "flash",
+      "headword": "flash",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "闪光",
+        "闪烁"
+      ],
+      "definition": "A sudden bright flash of light.",
+      "example": "We saw a flash in the dark sky.",
+      "spokenForm": "flash",
+      "imageAlt": "A little round creature shielding its eyes from a sudden bright spark in the night."
+    },
+    {
+      "id": 248,
+      "unit": 15,
+      "slug": "fossil-fuel",
+      "headword": "fossil fuel",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "化石燃料",
+        "煤炭石油"
+      ],
+      "definition": "Fuel made from old plants underground.",
+      "example": "Cars run on fossil fuel energy.",
+      "spokenForm": "fossil fuel",
+      "imageAlt": "A cute orange creature looking at dark coal pieces sitting deeply in the ground."
+    },
+    {
+      "id": 249,
+      "unit": 15,
+      "slug": "household",
+      "headword": "household",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "家庭",
+        "一家人"
+      ],
+      "definition": "A family living together in a house.",
+      "example": "Every household in the street has pets.",
+      "spokenForm": "household",
+      "imageAlt": "A cozy group of friendly creatures smiling together inside a warm little wooden house."
+    },
+    {
+      "id": 250,
+      "unit": 15,
+      "slug": "pane",
+      "headword": "pane",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "窗玻璃"
+      ],
+      "definition": "A flat piece of window glass.",
+      "example": "A bird flew close to the pane.",
+      "spokenForm": "pane",
+      "imageAlt": "A little pink creature pointing at a clean glass window in a wooden frame."
+    },
+    {
+      "id": 251,
+      "unit": 15,
+      "slug": "pond",
+      "headword": "pond",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "池塘"
+      ],
+      "definition": "A small area of still water.",
+      "example": "Three ducks swam across the pond.",
+      "spokenForm": "pond",
+      "imageAlt": "A happy round creature watching yellow ducklings swim in a quiet garden pool."
+    },
+    {
+      "id": 252,
+      "unit": 15,
+      "slug": "rapids",
+      "headword": "rapids",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "急流",
+        "湍滩"
+      ],
+      "definition": "A fast and rough river part.",
+      "example": "The boat rushed through the rapids.",
+      "spokenForm": "rapids",
+      "imageAlt": "A brave furry creature watching white water rush quickly over smooth river rocks."
+    },
+    {
+      "id": 253,
+      "unit": 15,
+      "slug": "reservoir",
+      "headword": "reservoir",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "水库"
+      ],
+      "definition": "A large lake storing drinking water.",
+      "example": "Rain fills the big town reservoir.",
+      "spokenForm": "reservoir",
+      "imageAlt": "A gentle blue creature looking at a large calm lake surrounded by green grassy hills."
+    },
+    {
+      "id": 254,
+      "unit": 15,
+      "slug": "tackle",
+      "headword": "tackle",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "处理",
+        "应对"
+      ],
+      "definition": "To try to fix a problem.",
+      "example": "We must tackle this mess today.",
+      "spokenForm": "tackle",
+      "imageAlt": "A busy little creature rolling up its sleeves to clean a pile of wooden blocks."
+    },
+    {
+      "id": 255,
+      "unit": 15,
+      "slug": "vegetation",
+      "headword": "vegetation",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "植被",
+        "植物"
+      ],
+      "definition": "All the plants and trees growing.",
+      "example": "Green vegetation covered the whole hill.",
+      "spokenForm": "vegetation",
+      "imageAlt": "A friendly fluffy creature sitting happily among tall green grass and leafy bushes."
+    },
+    {
+      "id": 256,
+      "unit": 16,
+      "slug": "appealing",
+      "headword": "appealing",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "吸引人的",
+        "好看的"
+      ],
+      "definition": "nice and very fun to look at",
+      "example": "The little fluffy puppy looks very appealing.",
+      "spokenForm": "appealing",
+      "imageAlt": "A cute rounded purple creature smiling at a bright shiny toy on a green grass hill."
+    },
+    {
+      "id": 257,
+      "unit": 16,
+      "slug": "appetite",
+      "headword": "appetite",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "食欲",
+        "想吃东西"
+      ],
+      "definition": "the feeling that makes you want food",
+      "example": "Smelling fresh bread gives me a big appetite.",
+      "spokenForm": "appetite",
+      "imageAlt": "A chubby orange creature sniffing the warm air happily inside a cozy wooden kitchen."
+    },
+    {
+      "id": 258,
+      "unit": 16,
+      "slug": "canned",
+      "headword": "canned",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "罐装的"
+      ],
+      "definition": "food that is kept in metal tins",
+      "example": "We ate some canned peaches for a sweet snack.",
+      "spokenForm": "canned",
+      "imageAlt": "A cheerful blue creature holding up a shiny metal tin filled with bright fruit."
+    },
+    {
+      "id": 259,
+      "unit": 16,
+      "slug": "consume",
+      "headword": "consume",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "吃",
+        "喝"
+      ],
+      "definition": "to eat or drink something up",
+      "example": "The little bear likes to consume sweet honey.",
+      "spokenForm": "consume",
+      "imageAlt": "A happy yellow creature drinking a glass of cold milk with a straw."
+    },
+    {
+      "id": 260,
+      "unit": 16,
+      "slug": "consumer",
+      "headword": "consumer",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "吃东西的人"
+      ],
+      "definition": "someone who eats or drinks something",
+      "example": "The rabbit is a carrot consumer.",
+      "spokenForm": "consumer",
+      "imageAlt": "A hungry green rabbit eats carrots steadily from a large garden basket."
+    },
+    {
+      "id": 261,
+      "unit": 16,
+      "slug": "dairy",
+      "headword": "dairy",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "奶制的"
+      ],
+      "definition": "made from milk like cheese or butter",
+      "example": "Butter and cheese are tasty dairy foods.",
+      "spokenForm": "dairy",
+      "imageAlt": "A small white creature holding a wedge of yellow cheese and a glass of milk."
+    },
+    {
+      "id": 262,
+      "unit": 16,
+      "slug": "finding",
+      "headword": "finding",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "发现",
+        "结果"
+      ],
+      "definition": "a fact found by studying something",
+      "example": "Their new finding shows bees like yellow flowers.",
+      "spokenForm": "finding",
+      "imageAlt": "A little brown creature pointing happily at a drawing of buzzing bees on paper."
+    },
+    {
+      "id": 263,
+      "unit": 16,
+      "slug": "fizzy",
+      "headword": "fizzy",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "起泡的",
+        "有气泡的"
+      ],
+      "definition": "having lots of little bubbles inside",
+      "example": "The fizzy lemonade popped with tiny bubbles.",
+      "spokenForm": "fizzy",
+      "imageAlt": "A pink creature watching bright bubbly water sparkle inside a clear glass cup."
+    },
+    {
+      "id": 264,
+      "unit": 16,
+      "slug": "juicy",
+      "headword": "juicy",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "多汁的"
+      ],
+      "definition": "full of sweet natural juice",
+      "example": "The orange slice was very sweet and juicy.",
+      "spokenForm": "juicy",
+      "imageAlt": "A round orange creature biting into a very wet and shiny slice of melon."
+    },
+    {
+      "id": 265,
+      "unit": 16,
+      "slug": "melt",
+      "headword": "melt",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "融化",
+        "化开"
+      ],
+      "definition": "to turn from solid into liquid from heat",
+      "example": "The warm sun made the ice cream melt.",
+      "spokenForm": "melt",
+      "imageAlt": "A friendly red creature watching a scoop of pink ice cream slowly turn into liquid."
+    },
+    {
+      "id": 266,
+      "unit": 16,
+      "slug": "packaging",
+      "headword": "packaging",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "包装",
+        "包装盒"
+      ],
+      "definition": "the paper or box holding a product",
+      "example": "We opened the colorful packaging to see the toy.",
+      "spokenForm": "packaging",
+      "imageAlt": "A blue creature opening a pretty brown cardboard box tied with a yellow string."
+    },
+    {
+      "id": 267,
+      "unit": 16,
+      "slug": "reject",
+      "headword": "reject",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "拒绝",
+        "不要"
+      ],
+      "definition": "to say no to something offered",
+      "example": "The puppy will reject the bitter green leaf.",
+      "spokenForm": "reject",
+      "imageAlt": "A little green creature pushing away a bowl of green vegetables with a frown."
+    },
+    {
+      "id": 268,
+      "unit": 16,
+      "slug": "ripe",
+      "headword": "ripe",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "成熟的"
+      ],
+      "definition": "ready and good to be eaten",
+      "example": "This red strawberry is sweet and ripe.",
+      "spokenForm": "ripe",
+      "imageAlt": "A happy red creature looking proudly at a big red strawberry growing in the garden."
+    },
+    {
+      "id": 269,
+      "unit": 16,
+      "slug": "rotten",
+      "headword": "rotten",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "腐烂的",
+        "变质的"
+      ],
+      "definition": "old and spoiled food going bad",
+      "example": "Throw away the rotten banana in the bin.",
+      "spokenForm": "rotten",
+      "imageAlt": "A sad little creature looking at a dark brown spot on a mushy banana."
+    },
+    {
+      "id": 270,
+      "unit": 16,
+      "slug": "texture",
+      "headword": "texture",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "质地",
+        "触感"
+      ],
+      "definition": "the way something feels when touched",
+      "example": "The soft blanket has a fluffy texture.",
+      "spokenForm": "texture",
+      "imageAlt": "A gentle purple creature rubbing its paws on a warm fuzzy wool blanket."
+    },
+    {
+      "id": 271,
+      "unit": 17,
+      "slug": "collector",
+      "headword": "collector",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "收藏家",
+        "收集的人"
+      ],
+      "definition": "someone who gathers nice objects",
+      "example": "The happy collector keeps old stamps.",
+      "spokenForm": "collector",
+      "imageAlt": "A fluffy round blue creature smiling proudly while carefully placing a shiny gold coin into a large wooden box filled with sparkling gems."
+    },
+    {
+      "id": 272,
+      "unit": 17,
+      "slug": "delightful",
+      "headword": "delightful",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "可爱的",
+        "让人高兴的"
+      ],
+      "definition": "very nice and enjoyable",
+      "example": "We had a delightful picnic today.",
+      "spokenForm": "delightful",
+      "imageAlt": "A happy yellow creature sharing sweet strawberries with a small pink friend on a bright green meadow under a warm sunny sky."
+    },
+    {
+      "id": 273,
+      "unit": 17,
+      "slug": "elegant",
+      "headword": "elegant",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "优雅的",
+        "好看的"
+      ],
+      "definition": "beautiful in a neat, gentle way",
+      "example": "The cute bear wore an elegant hat.",
+      "spokenForm": "elegant",
+      "imageAlt": "A polite purple creature wearing a tiny shiny crown and walking smoothly across a clean stone path in a lovely garden."
+    },
+    {
+      "id": 274,
+      "unit": 17,
+      "slug": "exceptional",
+      "headword": "exceptional",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "杰出的",
+        "特别好的"
+      ],
+      "definition": "extremely good and special",
+      "example": "She did an exceptional drawing.",
+      "spokenForm": "exceptional",
+      "imageAlt": "A joyful green creature holding up a glowing blue painting that makes other little animals clap their hands in happy wonder."
+    },
+    {
+      "id": 275,
+      "unit": 17,
+      "slug": "the-former",
+      "headword": "the former",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "前者"
+      ],
+      "definition": "the first of two choices",
+      "example": "Of cat and dog, the former is quiet.",
+      "spokenForm": "the former",
+      "imageAlt": "Two gift boxes sit in a row, and a creature clearly chooses the first box."
+    },
+    {
+      "id": 276,
+      "unit": 17,
+      "slug": "the-latter",
+      "headword": "the latter",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "后者"
+      ],
+      "definition": "the second of two choices",
+      "example": "I chose the latter game.",
+      "spokenForm": "the latter",
+      "imageAlt": "Two toys sit in a row, and a friendly creature clearly chooses the second toy."
+    },
+    {
+      "id": 277,
+      "unit": 17,
+      "slug": "look-into",
+      "headword": "look into sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "调查",
+        "研究"
+      ],
+      "definition": "to find out about something",
+      "example": "We will look into the puzzle.",
+      "spokenForm": "look into something",
+      "imageAlt": "A curious orange creature holding a large magnifying glass and examining a mysterious wooden box resting on a green mossy rock."
+    },
+    {
+      "id": 278,
+      "unit": 17,
+      "slug": "the-look-of",
+      "headword": "the look of",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "……的外表",
+        "样子"
+      ],
+      "definition": "the appearance of someone or something",
+      "example": "I love the look of that cake.",
+      "spokenForm": "the look of",
+      "imageAlt": "A smiling purple creature staring wide-eyed at a tall rainbow ice cream cone covered in tiny colorful sugar stars."
+    },
+    {
+      "id": 279,
+      "unit": 17,
+      "slug": "massive",
+      "headword": "massive",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "巨大的",
+        "大块的"
+      ],
+      "definition": "very big and heavy",
+      "example": "A massive tree stands outside.",
+      "spokenForm": "massive",
+      "imageAlt": "A tiny friendly creature standing beside a huge brown tree trunk that stretches far up into the fluffy white clouds."
+    },
+    {
+      "id": 280,
+      "unit": 17,
+      "slug": "obsession",
+      "headword": "obsession",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "痴迷",
+        "总想着的事"
+      ],
+      "definition": "something you think about all day",
+      "example": "Trains are his new obsession.",
+      "spokenForm": "obsession",
+      "imageAlt": "A happy little creature sitting on a floor surrounded by dozens of toy train tracks and small wooden engines in every direction."
+    },
+    {
+      "id": 281,
+      "unit": 17,
+      "slug": "passion-for",
+      "headword": "passion (for sth)",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "酷爱",
+        "强烈兴趣"
+      ],
+      "definition": "a strong love for an activity",
+      "example": "She has a passion for painting.",
+      "spokenForm": "passion for something",
+      "imageAlt": "A cheerful blue creature happily splashing bright red and yellow paint onto a large canvas with a big smiling brush."
+    },
+    {
+      "id": 282,
+      "unit": 17,
+      "slug": "remarkable",
+      "headword": "remarkable",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "奇特的",
+        "非凡的"
+      ],
+      "definition": "very unusual and wonderful to see",
+      "example": "That bird made a remarkable nest.",
+      "spokenForm": "remarkable",
+      "imageAlt": "A cute yellow bird building a shiny nest out of colorful glowing ribbons high up in a friendly green tree."
+    },
+    {
+      "id": 283,
+      "unit": 17,
+      "slug": "scale",
+      "headword": "scale",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "规模",
+        "大小"
+      ],
+      "definition": "the size or level of something",
+      "example": "Our garden is small in scale.",
+      "spokenForm": "scale",
+      "imageAlt": "A tiny creature compares a small model village with a much larger real village beyond."
+    },
+    {
+      "id": 284,
+      "unit": 17,
+      "slug": "substantial",
+      "headword": "substantial",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "大量的",
+        "结实的"
+      ],
+      "definition": "large in amount or size",
+      "example": "We picked a substantial basket of apples.",
+      "spokenForm": "substantial",
+      "imageAlt": "A smiling brown bear carrying a very heavy wooden basket filled to the top with shiny red apples on a sunny day."
+    },
+    {
+      "id": 285,
+      "unit": 17,
+      "slug": "vast",
+      "headword": "vast",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "广阔的",
+        "巨大的"
+      ],
+      "definition": "extremely big and wide",
+      "example": "They crossed a vast green field.",
+      "spokenForm": "vast",
+      "imageAlt": "A tiny happy bunny standing at the edge of a huge green grassy meadow that stretches all the way to blue hills."
+    },
+    {
+      "id": 286,
+      "unit": 18,
+      "slug": "alternative",
+      "headword": "alternative",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "另一个选择",
+        "别的办法"
+      ],
+      "definition": "another choice you can pick",
+      "example": "We need an alternative plan today.",
+      "spokenForm": "alternative",
+      "imageAlt": "A friendly purple blob creature looking at two different paths in a bright green forest, trying to choose which way to walk."
+    },
+    {
+      "id": 287,
+      "unit": 18,
+      "slug": "come-across",
+      "headword": "come across sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "偶然发现",
+        "碰见"
+      ],
+      "definition": "to find something by accident",
+      "example": "I came across a shiny coin.",
+      "spokenForm": "come across something",
+      "imageAlt": "A little blue creature smiling happily while finding a hidden toy box under some soft green leaves."
+    },
+    {
+      "id": 288,
+      "unit": 18,
+      "slug": "come-out",
+      "headword": "come out",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "出版",
+        "上市"
+      ],
+      "definition": "to become ready for people to buy",
+      "example": "His new book will come out soon.",
+      "spokenForm": "come out",
+      "imageAlt": "A happy yellow creature holding a brand new storybook that just appeared on a wooden shelf in a cozy shop."
+    },
+    {
+      "id": 289,
+      "unit": 18,
+      "slug": "come-up-with",
+      "headword": "come up with sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "想出",
+        "提出"
+      ],
+      "definition": "to think of a new idea",
+      "example": "She came up with a great game.",
+      "spokenForm": "come up with something",
+      "imageAlt": "A clever orange creature with a glowing lightbulb floating above its head while thinking in a cozy room."
+    },
+    {
+      "id": 290,
+      "unit": 18,
+      "slug": "effective",
+      "headword": "effective",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "有效",
+        "管用"
+      ],
+      "definition": "working well to get results",
+      "example": "This cleaning spray is very effective.",
+      "spokenForm": "effective",
+      "imageAlt": "A neat green creature smiling proudly next to a totally clean and shiny kitchen counter."
+    },
+    {
+      "id": 291,
+      "unit": 18,
+      "slug": "extract",
+      "headword": "extract",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "摘录",
+        "片段"
+      ],
+      "definition": "a short piece taken from a book",
+      "example": "We read an extract from the story.",
+      "spokenForm": "extract",
+      "imageAlt": "A red creature lifts one small picture card from a thick stack of story cards."
+    },
+    {
+      "id": 292,
+      "unit": 18,
+      "slug": "go-by",
+      "headword": "go by",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "时间流逝",
+        "过去"
+      ],
+      "definition": "for time to pass along",
+      "example": "Years go by very quickly now.",
+      "spokenForm": "go by",
+      "imageAlt": "A sweet yellow creature watching the gentle sun move slowly across the sky during a calm afternoon."
+    },
+    {
+      "id": 293,
+      "unit": 18,
+      "slug": "go-through",
+      "headword": "go through",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "经历",
+        "遭受"
+      ],
+      "definition": "to live through a hard time",
+      "example": "They had to go through a storm.",
+      "spokenForm": "go through",
+      "imageAlt": "A brave green creature holding an umbrella while walking carefully through heavy wind and gentle rain."
+    },
+    {
+      "id": 294,
+      "unit": 18,
+      "slug": "rub",
+      "headword": "rub",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "摩擦",
+        "擦"
+      ],
+      "definition": "to move your hand back and forth",
+      "example": "Rub your hands to keep warm.",
+      "spokenForm": "rub",
+      "imageAlt": "A cozy brown creature gently rubbing a soft cloth on a wooden table to make it shine."
+    },
+    {
+      "id": 295,
+      "unit": 18,
+      "slug": "strength",
+      "headword": "strength",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "力量",
+        "体力"
+      ],
+      "definition": "how strong a person is",
+      "example": "He used all his strength to push.",
+      "spokenForm": "strength",
+      "imageAlt": "A happy furry creature lifting a soft plush block with a big joyful smile on its face."
+    },
+    {
+      "id": 296,
+      "unit": 18,
+      "slug": "surface",
+      "headword": "surface",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "表面",
+        "外表"
+      ],
+      "definition": "the top or outside of something",
+      "example": "Water is on the table surface.",
+      "spokenForm": "surface",
+      "imageAlt": "A little blue creature placing a round red apple right on the flat top of a wooden table."
+    },
+    {
+      "id": 297,
+      "unit": 18,
+      "slug": "technological",
+      "headword": "technological",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "科技的",
+        "技术的"
+      ],
+      "definition": "connected to modern machines or science",
+      "example": "We live in a technological age.",
+      "spokenForm": "technological",
+      "imageAlt": "A cute robot creature with blinking lights playing with friendly floating digital shapes in a futuristic room."
+    },
+    {
+      "id": 298,
+      "unit": 18,
+      "slug": "threat",
+      "headword": "threat",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "威胁",
+        "危险"
+      ],
+      "definition": "something that may cause harm",
+      "example": "The big fire was a threat.",
+      "spokenForm": "threat",
+      "imageAlt": "A cautious little creature looking nervously at a dark storm cloud approaching its cozy little garden house."
+    },
+    {
+      "id": 299,
+      "unit": 18,
+      "slug": "trace",
+      "headword": "trace",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "痕迹",
+        "踪迹"
+      ],
+      "definition": "a small sign left behind",
+      "example": "There was no trace of mud.",
+      "spokenForm": "trace",
+      "imageAlt": "A curious purple creature looking closely at tiny paw prints left in the soft garden dirt."
+    },
+    {
+      "id": 300,
+      "unit": 18,
+      "slug": "visual",
+      "headword": "visual",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "视觉的",
+        "视力的"
+      ],
+      "definition": "connected to seeing with eyes",
+      "example": "Pictures give us visual clues.",
+      "spokenForm": "visual",
+      "imageAlt": "A yellow creature uses its eyes to match colourful shapes spread across a table."
+    },
+    {
+      "id": 301,
+      "unit": 19,
+      "slug": "chest",
+      "headword": "chest",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "胸口"
+      ],
+      "definition": "the front of your body near your ribs",
+      "example": "He patted his chest with joy.",
+      "spokenForm": "chest",
+      "imageAlt": "A cheerful blue monster with a wide smile proudly pats its chest in a bright green sunny meadow."
+    },
+    {
+      "id": 302,
+      "unit": 19,
+      "slug": "cough-medicine",
+      "headword": "cough medicine",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "止咳药水"
+      ],
+      "definition": "liquid medicine that helps stop coughs",
+      "example": "She took cough medicine from a spoon.",
+      "spokenForm": "cough medicine",
+      "imageAlt": "A friendly purple creature drinks sweet syrup from a shiny silver spoon in a cozy wooden kitchen."
+    },
+    {
+      "id": 303,
+      "unit": 19,
+      "slug": "elastoplasttm",
+      "headword": "Elastoplast™",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "创可贴"
+      ],
+      "definition": "a sticky strip to cover small cuts",
+      "example": "He put an Elastoplast on his finger.",
+      "spokenForm": "Elastoplast",
+      "imageAlt": "A cute orange bear places a small sticky bandage carefully on its fuzzy little paw."
+    },
+    {
+      "id": 304,
+      "unit": 19,
+      "slug": "eyebrow",
+      "headword": "eyebrow",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "眉毛"
+      ],
+      "definition": "the hair line above your eye",
+      "example": "She raised one eyebrow in pure surprise.",
+      "spokenForm": "eyebrow",
+      "imageAlt": "A furry yellow creature raises one eyebrow curiously while looking at a funny red ball."
+    },
+    {
+      "id": 305,
+      "unit": 19,
+      "slug": "faint",
+      "headword": "faint",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "晕倒"
+      ],
+      "definition": "to fall down and not wake at once",
+      "example": "The tired rabbit started to faint.",
+      "spokenForm": "faint",
+      "imageAlt": "A sleepy white bunny gently wobbles and falls softly onto a fluffy green grass bed."
+    },
+    {
+      "id": 306,
+      "unit": 19,
+      "slug": "graze",
+      "headword": "graze",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "擦伤"
+      ],
+      "definition": "to scrape your skin on something rough",
+      "example": "He fell and grazed his knee.",
+      "spokenForm": "graze",
+      "imageAlt": "A little green monster looks at a tiny red scrape on its knee in a sunny park."
+    },
+    {
+      "id": 307,
+      "unit": 19,
+      "slug": "jaw",
+      "headword": "jaw",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "下巴"
+      ],
+      "definition": "the bone holding your teeth in place",
+      "example": "He opened his jaw wide to yawn.",
+      "spokenForm": "jaw",
+      "imageAlt": "A friendly pink dinosaur opens its mouth wide and stretches its jaw during a sunny morning."
+    },
+    {
+      "id": 308,
+      "unit": 19,
+      "slug": "needle",
+      "headword": "needle",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "注射针"
+      ],
+      "definition": "a thin sharp tool used by doctors",
+      "example": "The nurse held the shiny small needle.",
+      "spokenForm": "needle",
+      "imageAlt": "A gentle care bear holds a tiny medical tool carefully inside a bright cheerful clinic room."
+    },
+    {
+      "id": 309,
+      "unit": 19,
+      "slug": "on-average",
+      "headword": "on average",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "平均"
+      ],
+      "definition": "the usual amount for a group",
+      "example": "On average, cats sleep many hours daily.",
+      "spokenForm": "on average",
+      "imageAlt": "Several colorful sleepy cats rest peacefully on soft pillows in a warm cozy bedroom."
+    },
+    {
+      "id": 310,
+      "unit": 19,
+      "slug": "on-balance",
+      "headword": "on balance",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "总的来说"
+      ],
+      "definition": "after thinking about every good and bad point",
+      "example": "On balance, this game is very fun.",
+      "spokenForm": "on balance",
+      "imageAlt": "A wise little owl weighs two colorful toy blocks carefully with its paws on a wooden table."
+    },
+    {
+      "id": 311,
+      "unit": 19,
+      "slug": "on-behalf-of",
+      "headword": "on behalf of",
+      "partOfSpeechItem": "phrase",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "代表"
+      ],
+      "definition": "speaking or acting for someone else",
+      "example": "She spoke on behalf of her friends.",
+      "spokenForm": "on behalf of",
+      "imageAlt": "A friendly rabbit hands a gift to a smiling bear while other cute animals watch happily."
+    },
+    {
+      "id": 312,
+      "unit": 19,
+      "slug": "on-condition-that",
+      "headword": "on condition that",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "前提是"
+      ],
+      "definition": "allowed only if something else happens",
+      "example": "You can play on condition that you share.",
+      "spokenForm": "on condition that",
+      "imageAlt": "Two happy little creatures shake hands near a pile of shiny colorful building blocks."
+    },
+    {
+      "id": 313,
+      "unit": 19,
+      "slug": "on-duty",
+      "headword": "on duty",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "值班"
+      ],
+      "definition": "working at your job right now",
+      "example": "The helpful nurse was on duty today.",
+      "spokenForm": "on duty",
+      "imageAlt": "A friendly dog in a nurse hat helps a patient in a bright hospital room."
+    },
+    {
+      "id": 314,
+      "unit": 19,
+      "slug": "on-offer",
+      "headword": "on offer",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "促销"
+      ],
+      "definition": "available to buy at a lower price",
+      "example": "Fresh red apples are on offer today.",
+      "spokenForm": "on offer",
+      "imageAlt": "A happy monkey gets a large basket of red apples for only one small coin."
+    },
+    {
+      "id": 315,
+      "unit": 19,
+      "slug": "plaster",
+      "headword": "plaster",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "创可贴"
+      ],
+      "definition": "a sticky strip to cover minor cuts",
+      "example": "He wore a blue plaster on his knee.",
+      "spokenForm": "plaster",
+      "imageAlt": "A cute green frog shows off a bright blue sticky bandage on its knee by a pond."
+    },
+    {
+      "id": 316,
+      "unit": 19,
+      "slug": "scar",
+      "headword": "scar",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "伤疤"
+      ],
+      "definition": "a permanent mark left after healing",
+      "example": "The brave tiger had a small scar.",
+      "spokenForm": "scar",
+      "imageAlt": "A gentle friendly lion smiles and shows a tiny faded mark on its furry cheek."
+    },
+    {
+      "id": 317,
+      "unit": 19,
+      "slug": "sprain",
+      "headword": "sprain",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "扭伤"
+      ],
+      "definition": "to hurt a joint by twisting it",
+      "example": "She sprained her wrist while playing.",
+      "spokenForm": "sprain",
+      "imageAlt": "A sad little bear holds its furry wrist with a soft white bandage in the garden."
+    },
+    {
+      "id": 318,
+      "unit": 19,
+      "slug": "sting",
+      "headword": "sting",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "刺痛"
+      ],
+      "definition": "to cause sharp pain with poison",
+      "example": "A busy bee might sting your arm.",
+      "spokenForm": "sting",
+      "imageAlt": "A tiny buzzing bee flies near a surprised little bear in a field of yellow flowers."
+    },
+    {
+      "id": 319,
+      "unit": 19,
+      "slug": "surgery",
+      "headword": "surgery",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "外科手术"
+      ],
+      "definition": "a doctor's work to fix your body",
+      "example": "The doctor performed a safe surgery.",
+      "spokenForm": "surgery",
+      "imageAlt": "Two friendly animal doctors wear blue masks and smile warmly inside a clean clinic."
+    },
+    {
+      "id": 320,
+      "unit": 19,
+      "slug": "sweat",
+      "headword": "sweat",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "汗水"
+      ],
+      "definition": "salty liquid coming through your skin",
+      "example": "He had sweat on his forehead outside.",
+      "spokenForm": "sweat",
+      "imageAlt": "A tired green frog wipes shiny drops of water from its forehead after running outside."
+    },
+    {
+      "id": 321,
+      "unit": 19,
+      "slug": "symptom",
+      "headword": "symptom",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "症状"
+      ],
+      "definition": "a sign of being sick",
+      "example": "A cough is a common symptom.",
+      "spokenForm": "symptom",
+      "imageAlt": "A little red monster wraps a cozy scarf around its neck and looks slightly sick."
+    },
+    {
+      "id": 322,
+      "unit": 19,
+      "slug": "thigh",
+      "headword": "thigh",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "大腿"
+      ],
+      "definition": "the upper part of your leg",
+      "example": "He rested his hands on each thigh.",
+      "spokenForm": "thigh",
+      "imageAlt": "A happy blue teddy bear sits down comfortably and rests its paws on its legs."
+    },
+    {
+      "id": 323,
+      "unit": 19,
+      "slug": "waist",
+      "headword": "waist",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "腰部"
+      ],
+      "definition": "the middle part of your body",
+      "example": "She tied a belt around her waist.",
+      "spokenForm": "waist",
+      "imageAlt": "A cheerful yellow creature puts a bright red belt happily around its middle part."
+    },
+    {
+      "id": 324,
+      "unit": 19,
+      "slug": "ward",
+      "headword": "ward",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "病房"
+      ],
+      "definition": "a hospital room with several beds",
+      "example": "The children stayed in a sunny ward.",
+      "spokenForm": "ward",
+      "imageAlt": "A bright hospital room has several small beds with friendly stuffed animals resting quietly."
+    },
+    {
+      "id": 325,
+      "unit": 19,
+      "slug": "wrist",
+      "headword": "wrist",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "手腕"
+      ],
+      "definition": "the joint between hand and arm",
+      "example": "She wore a shiny watch on her wrist.",
+      "spokenForm": "wrist",
+      "imageAlt": "A cute pink cat proudly shows a colorful toy watch on its furry arm joint."
+    },
+    {
+      "id": 326,
+      "unit": 20,
+      "slug": "burglar",
+      "headword": "burglar",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "小偷",
+        "贼"
+      ],
+      "definition": "A person who breaks into houses to steal.",
+      "example": "The burglar took my shiny gold watch.",
+      "spokenForm": "burglar",
+      "imageAlt": "A fluffy green monster wearing a dark mask sneaking through an open window at night to take a toy."
+    },
+    {
+      "id": 327,
+      "unit": 20,
+      "slug": "cell",
+      "headword": "cell",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "牢房"
+      ],
+      "definition": "A tiny locked room in a prison.",
+      "example": "The tired panda sat inside the dark stone cell.",
+      "spokenForm": "cell",
+      "imageAlt": "A sad brown bear sitting behind iron bars inside a tiny stone room looking outside."
+    },
+    {
+      "id": 328,
+      "unit": 20,
+      "slug": "commit-a-crime",
+      "headword": "commit a crime",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "犯罪",
+        "做坏事"
+      ],
+      "definition": "To do something that is against the law.",
+      "example": "Bad monsters should never commit a crime.",
+      "spokenForm": "commit a crime",
+      "imageAlt": "A sneaky little fox hiding behind a bush while taking a shiny toy that does not belong to it."
+    },
+    {
+      "id": 329,
+      "unit": 20,
+      "slug": "dna",
+      "headword": "DNA",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "基因",
+        "密码"
+      ],
+      "definition": "Tiny code makes every living thing different.",
+      "example": "Scientists look at DNA to solve tricky mysteries.",
+      "spokenForm": "D N A",
+      "imageAlt": "A friendly orange alien looking through a shiny magnifying glass at a glowing colorful spiral pattern."
+    },
+    {
+      "id": 330,
+      "unit": 20,
+      "slug": "fingerprint",
+      "headword": "fingerprint",
+      "partOfSpeechOfficial": "n",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "指纹"
+      ],
+      "definition": "The special line pattern left by a finger.",
+      "example": "The clever detective found a tiny fingerprint.",
+      "spokenForm": "fingerprint",
+      "imageAlt": "A cute blue creature pressing its thumb onto a clean glass sheet to leave a glowing swirl mark."
+    },
+    {
+      "id": 331,
+      "unit": 20,
+      "slug": "forensic",
+      "headword": "forensic",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "法医的",
+        "科学鉴定的"
+      ],
+      "definition": "Using science to solve crimes and puzzles.",
+      "example": "The forensic team tested the mud on the shoe.",
+      "spokenForm": "forensic",
+      "imageAlt": "Three cheerful animal scientists in white coats testing bright blue liquids in glass tubes."
+    },
+    {
+      "id": 332,
+      "unit": 20,
+      "slug": "innocent",
+      "headword": "innocent",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "无辜的",
+        "清白的"
+      ],
+      "definition": "Not guilty of doing anything wrong.",
+      "example": "The happy bunny was completely innocent of the mess.",
+      "spokenForm": "innocent",
+      "imageAlt": "A little white rabbit smiling cheerfully with empty paws while standing outside a friendly yellow cottage."
+    },
+    {
+      "id": 333,
+      "unit": 20,
+      "slug": "jury",
+      "headword": "jury",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "陪审团"
+      ],
+      "definition": "people who decide if someone broke the law",
+      "example": "The jury listened carefully to the long story.",
+      "spokenForm": "jury",
+      "imageAlt": "Twelve different colourful animal friends sitting on wooden benches listening quietly in a sunny courtroom."
+    },
+    {
+      "id": 334,
+      "unit": 20,
+      "slug": "kidnap",
+      "headword": "kidnap",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "绑架",
+        "劫持"
+      ],
+      "definition": "To take someone away by using force.",
+      "example": "The mean wizard tried to kidnap the royal puppy.",
+      "spokenForm": "kidnap",
+      "imageAlt": "On a bright puppet stage, a silly villain wheels the royal teddy away as heroes notice."
+    },
+    {
+      "id": 335,
+      "unit": 20,
+      "slug": "offence",
+      "headword": "offence",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "犯罪",
+        "违法行为"
+      ],
+      "definition": "An action that breaks the law.",
+      "example": "Stealing candy from a shop is a serious offence.",
+      "spokenForm": "offence",
+      "imageAlt": "A naughty little raccoon taking a red apple from a fruit cart while looking around nervously."
+    },
+    {
+      "id": 336,
+      "unit": 20,
+      "slug": "pickpocket",
+      "headword": "pickpocket",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "扒手"
+      ],
+      "definition": "Someone who steals from people's pockets.",
+      "example": "The clever pickpocket took coins from the coat.",
+      "spokenForm": "pickpocket",
+      "imageAlt": "A sneaky monkey slowly sliding a shiny coin out of a sleeping bear coat pocket."
+    },
+    {
+      "id": 337,
+      "unit": 20,
+      "slug": "proof",
+      "headword": "proof",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "证据",
+        "证明"
+      ],
+      "definition": "Facts that show something is really true.",
+      "example": "We need clear proof to solve this mystery.",
+      "spokenForm": "proof",
+      "imageAlt": "A happy yellow duck holding up a glowing puzzle piece that makes a big picture complete."
+    },
+    {
+      "id": 338,
+      "unit": 20,
+      "slug": "punishment",
+      "headword": "punishment",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "惩罚",
+        "处罚"
+      ],
+      "definition": "A bad result given for breaking a rule.",
+      "example": "Doing extra chores was his punishment for lying.",
+      "spokenForm": "punishment",
+      "imageAlt": "A sad green dragon watering tall flowers in the garden because it broke a house rule."
+    },
+    {
+      "id": 339,
+      "unit": 20,
+      "slug": "robbery",
+      "headword": "robbery",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "抢劫",
+        "盗窃"
+      ],
+      "definition": "a crime of stealing from someone",
+      "example": "The police stopped a daring robbery at noon.",
+      "spokenForm": "robbery",
+      "imageAlt": "Two bumbling raccoons tiptoe from a toy bank with coin bags while a detective spots them."
+    },
+    {
+      "id": 340,
+      "unit": 20,
+      "slug": "shoplift",
+      "headword": "shoplift",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "入店偷窃"
+      ],
+      "definition": "To steal goods from a store without paying.",
+      "example": "Do not shoplift toys from the local market.",
+      "spokenForm": "shoplift",
+      "imageAlt": "A naughty little kitten hiding a shiny toy car inside its jacket while standing in a toy store."
+    },
+    {
+      "id": 341,
+      "unit": 20,
+      "slug": "suspect",
+      "headword": "suspect",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "嫌疑人"
+      ],
+      "definition": "A person who might have committed a crime.",
+      "example": "The police questioned every suspect in the room.",
+      "spokenForm": "suspect",
+      "imageAlt": "Three different animal characters stand in a line while a thoughtful detective looks for clues."
+    },
+    {
+      "id": 342,
+      "unit": 20,
+      "slug": "suspicious",
+      "headword": "suspicious",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "可疑的"
+      ],
+      "definition": "Making you feel that something wrong is happening.",
+      "example": "We heard a suspicious noise near the door.",
+      "spokenForm": "suspicious",
+      "imageAlt": "A curious orange cat peeking behind a house corner and watching a mysterious shadow move past."
+    },
+    {
+      "id": 343,
+      "unit": 20,
+      "slug": "take-to-court",
+      "headword": "take sb to court",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "起诉",
+        "告发"
+      ],
+      "definition": "To start a legal case against somebody.",
+      "example": "They decided to take him to court for cheating.",
+      "spokenForm": "take somebody to court",
+      "imageAlt": "A serious owl judge listens as two creatures face each other in a bright friendly courtroom."
+    },
+    {
+      "id": 344,
+      "unit": 20,
+      "slug": "trial",
+      "headword": "trial",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "审判",
+        "庭审"
+      ],
+      "definition": "legal meeting to decide if someone is guilty.",
+      "example": "The long trial ended with a fair decision.",
+      "spokenForm": "trial",
+      "imageAlt": "A friendly animal judge listening to a penguin speaking at a wooden desk in a bright courtroom."
+    },
+    {
+      "id": 345,
+      "unit": 21,
+      "slug": "community",
+      "headword": "community",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "社区",
+        "街坊"
+      ],
+      "definition": "people living together in one area",
+      "example": "Our community loves planting green trees.",
+      "spokenForm": "community",
+      "imageAlt": "Several fluffy blue monsters planting colorful flowers together in a sunny green neighborhood park."
+    },
+    {
+      "id": 346,
+      "unit": 21,
+      "slug": "lifestyle",
+      "headword": "lifestyle",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "生活方式"
+      ],
+      "definition": "the way that you live daily",
+      "example": "She has a very healthy lifestyle.",
+      "spokenForm": "lifestyle",
+      "imageAlt": "A happy yellow creature eating fresh fruit and jogging along a winding garden path."
+    },
+    {
+      "id": 347,
+      "unit": 21,
+      "slug": "lighting",
+      "headword": "lighting",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "灯光",
+        "照明"
+      ],
+      "definition": "light given by lamps or bulbs",
+      "example": "The room has bright yellow lighting.",
+      "spokenForm": "lighting",
+      "imageAlt": "A friendly purple beast turning on a cheerful glowing lamp inside a cozy wooden treehouse."
+    },
+    {
+      "id": 348,
+      "unit": 21,
+      "slug": "maintenance",
+      "headword": "maintenance",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "保养",
+        "维修"
+      ],
+      "definition": "work done to keep things good",
+      "example": "The old bridge needs careful maintenance.",
+      "spokenForm": "maintenance",
+      "imageAlt": "A tiny orange creature wearing a yellow hard hat while gently fixing a wooden toy wagon."
+    },
+    {
+      "id": 349,
+      "unit": 21,
+      "slug": "regulation",
+      "headword": "regulation",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "规定",
+        "规则"
+      ],
+      "definition": "an official rule for doing things",
+      "example": "The school regulation says no running inside.",
+      "spokenForm": "regulation",
+      "imageAlt": "A wise turtle gently guides running young creatures to walk calmly inside their school."
+    },
+    {
+      "id": 350,
+      "unit": 21,
+      "slug": "renew",
+      "headword": "renew",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "更新",
+        "换新"
+      ],
+      "definition": "to make something old like new",
+      "example": "We will renew our old library card.",
+      "spokenForm": "renew",
+      "imageAlt": "A joyful pink monster painting an old wooden chair with bright shiny blue paint."
+    },
+    {
+      "id": 351,
+      "unit": 21,
+      "slug": "renewal",
+      "headword": "renewal",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "翻新",
+        "更新"
+      ],
+      "definition": "the act of making something new",
+      "example": "The park renewal brought fresh green grass.",
+      "spokenForm": "renewal",
+      "imageAlt": "Several furry forest creatures smiling happily at a brand new wooden playground in their yard."
+    },
+    {
+      "id": 352,
+      "unit": 21,
+      "slug": "requirement",
+      "headword": "requirement",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "要求",
+        "必要条件"
+      ],
+      "definition": "something that is needed very much",
+      "example": "Water is a requirement for plants.",
+      "spokenForm": "requirement",
+      "imageAlt": "A little green dragon carefully carrying a bucket of water toward a thirsty flower pot."
+    },
+    {
+      "id": 353,
+      "unit": 21,
+      "slug": "resident",
+      "headword": "resident",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "居民"
+      ],
+      "definition": "someone who lives somewhere",
+      "example": "Every resident helps clean the street.",
+      "spokenForm": "resident",
+      "imageAlt": "A friendly red creature waving hello from the porch of a charming little cottage."
+    },
+    {
+      "id": 354,
+      "unit": 21,
+      "slug": "shortage",
+      "headword": "shortage",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "短缺",
+        "不足"
+      ],
+      "definition": "when there is not enough left",
+      "example": "There is a water shortage today.",
+      "spokenForm": "shortage",
+      "imageAlt": "A sad little brown bear looking down at an empty honey jar with only one drop left."
+    },
+    {
+      "id": 355,
+      "unit": 21,
+      "slug": "suburb",
+      "headword": "suburb",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "郊区"
+      ],
+      "definition": "an area outside the city center",
+      "example": "They live in a quiet green suburb.",
+      "spokenForm": "suburb",
+      "imageAlt": "Several cozy little houses with green yards sitting peacefully away from tall city towers."
+    },
+    {
+      "id": 356,
+      "unit": 21,
+      "slug": "suburban",
+      "headword": "suburban",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "郊区的"
+      ],
+      "definition": "connected with a quiet area outside",
+      "example": "We love our suburban neighborhood park.",
+      "spokenForm": "suburban",
+      "imageAlt": "A cheerful fluffy rabbit hopping along a quiet sidewalk lined with small houses and trees."
+    },
+    {
+      "id": 357,
+      "unit": 21,
+      "slug": "urban",
+      "headword": "urban",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "城市的"
+      ],
+      "definition": "belonging to a big town or city",
+      "example": "Busy urban streets have very tall buildings.",
+      "spokenForm": "urban",
+      "imageAlt": "A lively city street scene with tall friendly buildings, cute buses, and busy little monsters walking."
+    },
+    {
+      "id": 358,
+      "unit": 22,
+      "slug": "choir",
+      "headword": "choir",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "合唱团",
+        "唱歌队伍"
+      ],
+      "definition": "a group of people singing together",
+      "example": "The happy choir sings sweet songs.",
+      "spokenForm": "choir",
+      "imageAlt": "A friendly group of fluffy rounded animals standing together and singing happily in a sunny green garden."
+    },
+    {
+      "id": 359,
+      "unit": 22,
+      "slug": "composer",
+      "headword": "composer",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "作曲家",
+        "写歌的人"
+      ],
+      "definition": "someone who writes new music",
+      "example": "The smart composer writes a happy song.",
+      "spokenForm": "composer",
+      "imageAlt": "A cheerful little bear wearing glasses sitting at a wooden desk and writing musical notes on paper."
+    },
+    {
+      "id": 360,
+      "unit": 22,
+      "slug": "conductor",
+      "headword": "conductor",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "指挥",
+        "乐队指挥"
+      ],
+      "definition": "someone who leads musicians or singers",
+      "example": "The helpful conductor waves his little stick.",
+      "spokenForm": "conductor",
+      "imageAlt": "A cute rabbit standing on a small wooden stage waving a tiny stick to guide other playing animals."
+    },
+    {
+      "id": 361,
+      "unit": 22,
+      "slug": "gig",
+      "headword": "gig",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "演唱会",
+        "音乐演出"
+      ],
+      "definition": "a live music show or performance",
+      "example": "We love going to this fun gig.",
+      "spokenForm": "gig",
+      "imageAlt": "Several joyful cartoon creatures playing guitars and drums on a brightly lit outdoor stage."
+    },
+    {
+      "id": 362,
+      "unit": 22,
+      "slug": "impression",
+      "headword": "impression",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "印象",
+        "感觉"
+      ],
+      "definition": "the way something seems or feels",
+      "example": "The fun show leaves a good impression.",
+      "spokenForm": "impression",
+      "imageAlt": "A cute smiling star creature looking surprised and happy while watching a colorful magic show."
+    },
+    {
+      "id": 363,
+      "unit": 22,
+      "slug": "memorable",
+      "headword": "memorable",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "难忘的",
+        "记忆深刻"
+      ],
+      "definition": "very good and easy to remember",
+      "example": "We had a truly memorable school day.",
+      "spokenForm": "memorable",
+      "imageAlt": "Two happy little pandas smiling and looking at a photo album filled with bright colorful pictures."
+    },
+    {
+      "id": 364,
+      "unit": 22,
+      "slug": "orchestral",
+      "headword": "orchestral",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "管弦乐的",
+        "乐队的"
+      ],
+      "definition": "made for a large group of musicians",
+      "example": "The grand orchestral music fills the room.",
+      "spokenForm": "orchestral",
+      "imageAlt": "A large group of cute animal friends playing many different instruments together in a lovely room."
+    },
+    {
+      "id": 365,
+      "unit": 22,
+      "slug": "organiser-uk-organizer",
+      "headword": "organiser (UK)/ organizer",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "组织者",
+        "筹办人"
+      ],
+      "definition": "someone who plans an event",
+      "example": "The smart organiser plans the school party.",
+      "spokenForm": "organiser",
+      "imageAlt": "A helpful fox arranges chairs, lights and tables before friends arrive for game day."
+    },
+    {
+      "id": 366,
+      "unit": 22,
+      "slug": "participate",
+      "headword": "participate",
+      "partOfSpeech": "v",
+      "chineseGlosses": [
+        "参与",
+        "参加"
+      ],
+      "definition": "to join in an activity with others",
+      "example": "All the children participate in the game.",
+      "spokenForm": "participate",
+      "imageAlt": "Several happy little animals running together in a friendly race on a soft green lawn."
+    },
+    {
+      "id": 367,
+      "unit": 22,
+      "slug": "partnership",
+      "headword": "partnership",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "合作",
+        "伙伴关系"
+      ],
+      "definition": "when two friends work together",
+      "example": "Their strong partnership helps build the fort.",
+      "spokenForm": "partnership",
+      "imageAlt": "Two cheerful little kittens working together to lift a big wooden block for their playhouse."
+    },
+    {
+      "id": 368,
+      "unit": 22,
+      "slug": "rehearsal",
+      "headword": "rehearsal",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "排练",
+        "练习"
+      ],
+      "definition": "practice before a big public show",
+      "example": "The actors have a fun dance rehearsal.",
+      "spokenForm": "rehearsal",
+      "imageAlt": "A group of cute animals practicing their dance moves on a wooden stage before the big show."
+    },
+    {
+      "id": 369,
+      "unit": 22,
+      "slug": "respectable",
+      "headword": "respectable",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "体面的",
+        "值得尊敬"
+      ],
+      "definition": "good and polite for everyone to see",
+      "example": "He is a kind and respectable person.",
+      "spokenForm": "respectable",
+      "imageAlt": "A polite little bear bowing nicely and wearing a neat little bow tie in a sunny garden."
+    },
+    {
+      "id": 370,
+      "unit": 22,
+      "slug": "solo",
+      "headword": "solo",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "独唱",
+        "独奏"
+      ],
+      "definition": "music played by just one person",
+      "example": "She plays a lovely piano solo.",
+      "spokenForm": "solo",
+      "imageAlt": "A cute little duck sitting alone at a shiny piano and playing lovely music with a big smile."
+    },
+    {
+      "id": 371,
+      "unit": 22,
+      "slug": "specialise-uk-specialize",
+      "headword": "specialise (UK)/ specialize",
+      "partOfSpeech": "v",
+      "chineseGlosses": [
+        "专注",
+        "专门研究"
+      ],
+      "definition": "to study or do mostly one thing",
+      "example": "She specialises in painting trees.",
+      "spokenForm": "specialise",
+      "imageAlt": "A clever puppy paints many different trees while every other canvas remains blank."
+    },
+    {
+      "id": 372,
+      "unit": 22,
+      "slug": "venue",
+      "headword": "venue",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "场馆",
+        "活动地点"
+      ],
+      "definition": "a place where an event happens",
+      "example": "This large hall is a great venue.",
+      "spokenForm": "venue",
+      "imageAlt": "A bright and cheerful indoor hall decorated with colorful paper banners and soft lights."
+    },
+    {
+      "id": 373,
+      "unit": 22,
+      "slug": "unique",
+      "headword": "unique",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "独特的",
+        "独一无二"
+      ],
+      "definition": "very special because nothing else is alike",
+      "example": "Every little shell on the beach is unique.",
+      "spokenForm": "unique",
+      "imageAlt": "A happy little turtle showing off a sparkly shell with bright rainbow patterns to its friends."
+    },
+    {
+      "id": 374,
+      "unit": 23,
+      "slug": "ash",
+      "headword": "ash",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "灰烬",
+        "烟灰"
+      ],
+      "definition": "soft grey powder left after burning",
+      "example": "The fire left grey ash behind.",
+      "spokenForm": "ash",
+      "imageAlt": "A friendly round purple creature watches a tiny pile of grey ash sitting safely on a small stone in a sunny garden."
+    },
+    {
+      "id": 375,
+      "unit": 23,
+      "slug": "break-off-or-break-off",
+      "headword": "break off (sth) or break (sth) off",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "折断",
+        "突然停止"
+      ],
+      "definition": "to end something suddenly",
+      "example": "He had to break off the talk.",
+      "spokenForm": "break off something",
+      "imageAlt": "Two creatures are chatting when one suddenly walks away, leaving the other surprised."
+    },
+    {
+      "id": 376,
+      "unit": 23,
+      "slug": "call-off-or-call-off",
+      "headword": "call off sth or call sth off",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "取消",
+        "叫停"
+      ],
+      "definition": "to decide a planned event will stop",
+      "example": "They had to call off the game.",
+      "spokenForm": "call off something",
+      "imageAlt": "An orange creature packs away an untouched picnic as gentle rain begins before the event."
+    },
+    {
+      "id": 377,
+      "unit": 23,
+      "slug": "crack",
+      "headword": "crack",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "裂缝",
+        "裂纹"
+      ],
+      "definition": "a thin line on a damaged surface",
+      "example": "There is a crack in the cup.",
+      "spokenForm": "crack",
+      "imageAlt": "A cute green creature looks closely at a fine thin line across a bright yellow ceramic bowl resting on a wooden table."
+    },
+    {
+      "id": 378,
+      "unit": 23,
+      "slug": "cut-off-or-cut-off",
+      "headword": "cut sb/sth off or cut off sb/sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "隔绝",
+        "切断"
+      ],
+      "definition": "to cause someone to be completely alone",
+      "example": "The big storm cut them off.",
+      "spokenForm": "cut somebody off",
+      "imageAlt": "A lonely little pink creature looks out from a tiny island surrounded by blue water while holding a small toy boat."
+    },
+    {
+      "id": 379,
+      "unit": 23,
+      "slug": "damp",
+      "headword": "damp",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "潮湿",
+        "微湿"
+      ],
+      "definition": "slightly wet in an unpleasant way",
+      "example": "My coat feels damp today.",
+      "spokenForm": "damp",
+      "imageAlt": "A friendly yellow creature feels a wet leaf with its soft paw on a cloudy morning near a friendly garden."
+    },
+    {
+      "id": 380,
+      "unit": 23,
+      "slug": "drought",
+      "headword": "drought",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "干旱",
+        "旱灾"
+      ],
+      "definition": "a long time with no rain",
+      "example": "The long drought dried the grass.",
+      "spokenForm": "drought",
+      "imageAlt": "A brown little creature looks sadly at dry yellow grass under a very bright yellow sun with no clouds in sight."
+    },
+    {
+      "id": 381,
+      "unit": 23,
+      "slug": "earthquake",
+      "headword": "earthquake",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "地震"
+      ],
+      "definition": "a sudden shaking of the ground",
+      "example": "The earthquake shook the tall trees.",
+      "spokenForm": "earthquake",
+      "imageAlt": "A round green creature holds onto a sturdy little desk while the wooden floor gently wobbles in a cozy cartoon room."
+    },
+    {
+      "id": 382,
+      "unit": 23,
+      "slug": "eruption",
+      "headword": "eruption",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "爆发",
+        "喷发"
+      ],
+      "definition": "when a volcano explodes with fire",
+      "example": "The loud eruption scared the birds.",
+      "spokenForm": "eruption",
+      "imageAlt": "A tall cartoon mountain shoots bright red and orange sparks high into the soft blue sky while tiny creatures watch safely."
+    },
+    {
+      "id": 383,
+      "unit": 23,
+      "slug": "hurricane",
+      "headword": "hurricane",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "飓风",
+        "暴风"
+      ],
+      "definition": "a storm with very strong winds",
+      "example": "The strong hurricane bent the trees.",
+      "spokenForm": "hurricane",
+      "imageAlt": "A round purple creature holds tightly onto a sturdy wooden post while fast swirling wind blows colorful leaves past."
+    },
+    {
+      "id": 384,
+      "unit": 23,
+      "slug": "invaluable",
+      "headword": "invaluable",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "极有用的",
+        "宝贵"
+      ],
+      "definition": "extremely useful for your work",
+      "example": "Your kind help was invaluable.",
+      "spokenForm": "invaluable",
+      "imageAlt": "A happy yellow creature smiles brightly while handing a shiny golden book to a little pink friend in a cozy library."
+    },
+    {
+      "id": 385,
+      "unit": 23,
+      "slug": "let-off-or-let-off",
+      "headword": "let off sb or let sb off",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "宽恕",
+        "从轻发落"
+      ],
+      "definition": "to not punish someone who did wrong",
+      "example": "The teacher let him off with a warning.",
+      "spokenForm": "let somebody off",
+      "imageAlt": "A kind blue creature teacher smiles and gently pats a little yellow student on the head instead of being angry."
+    },
+    {
+      "id": 386,
+      "unit": 23,
+      "slug": "log-off",
+      "headword": "log off",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "注销",
+        "登出"
+      ],
+      "definition": "to stop using a computer system",
+      "example": "Please log off before you leave.",
+      "spokenForm": "log off",
+      "imageAlt": "A purple creature closes a toy computer as its glowing lights gently fade away."
+    },
+    {
+      "id": 387,
+      "unit": 23,
+      "slug": "preserve",
+      "headword": "preserve",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "保护",
+        "维护"
+      ],
+      "definition": "to keep something safe from harm",
+      "example": "We must preserve the old forest.",
+      "spokenForm": "preserve",
+      "imageAlt": "Two green creatures carefully build a tiny wooden fence around a fragile little flower to keep it safe and sound."
+    },
+    {
+      "id": 388,
+      "unit": 23,
+      "slug": "priceless",
+      "headword": "priceless",
+      "partOfSpeech": "adj",
+      "chineseGlosses": [
+        "极珍贵的",
+        "无价"
+      ],
+      "definition": "very important or extremely useful",
+      "example": "Her advice was priceless today.",
+      "spokenForm": "priceless",
+      "imageAlt": "A small blue creature carefully holds a glowing yellow star inside a safe glass jar in a cozy bright room."
+    },
+    {
+      "id": 389,
+      "unit": 23,
+      "slug": "send-off-or-send-off",
+      "headword": "send off sth or send sth off",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "寄出",
+        "发送"
+      ],
+      "definition": "to send a letter by post",
+      "example": "I will send off the card.",
+      "spokenForm": "send off something",
+      "imageAlt": "A smiling pink creature drops a white paper envelope into a bright red mailbox standing on a sunny street."
+    },
+    {
+      "id": 390,
+      "unit": 23,
+      "slug": "sensitive",
+      "headword": "sensitive",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "敏感的",
+        "易受伤"
+      ],
+      "definition": "easily upset by words or actions",
+      "example": "She is sensitive to mean words.",
+      "spokenForm": "sensitive",
+      "imageAlt": "A cute orange creature looks slightly sad while sitting on a soft rug because another creature spoke too loudly."
+    },
+    {
+      "id": 391,
+      "unit": 23,
+      "slug": "tell-off-or-tell-off",
+      "headword": "tell off sb or tell sb off",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "责备",
+        "训斥"
+      ],
+      "definition": "to speak angrily about someone's bad action",
+      "example": "Mom had to tell him off.",
+      "spokenForm": "tell somebody off",
+      "imageAlt": "A tall purple creature talks firmly with a frown to a small green creature who made a mess with paint."
+    },
+    {
+      "id": 392,
+      "unit": 23,
+      "slug": "tremble",
+      "headword": "tremble",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "发抖",
+        "颤抖"
+      ],
+      "definition": "to shake slightly from feeling cold",
+      "example": "The small dog began to tremble.",
+      "spokenForm": "tremble",
+      "imageAlt": "A small yellow creature wraps a warm red scarf around itself and shivers slightly on a chilly autumn day."
+    },
+    {
+      "id": 393,
+      "unit": 23,
+      "slug": "undo",
+      "headword": "undo",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "解开",
+        "打开"
+      ],
+      "definition": "to open something that is tied",
+      "example": "Please undo your coat buttons.",
+      "spokenForm": "undo",
+      "imageAlt": "A friendly green creature uses its paws to open a neat bow tied with a blue ribbon on a cardboard box."
+    },
+    {
+      "id": 394,
+      "unit": 23,
+      "slug": "unfasten",
+      "headword": "unfasten",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "解开",
+        "松开"
+      ],
+      "definition": "to open something closed together",
+      "example": "He tried to unfasten the strap.",
+      "spokenForm": "unfasten",
+      "imageAlt": "A cute blue creature unhooks a metal clasp on a small brown leather bag sitting on a bright green lawn."
+    },
+    {
+      "id": 395,
+      "unit": 23,
+      "slug": "untie",
+      "headword": "untie",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "解开",
+        "松绑"
+      ],
+      "definition": "to open a knot in string",
+      "example": "She will untie the rope now.",
+      "spokenForm": "untie",
+      "imageAlt": "A happy pink creature pulls gently on the end of a yellow string to loosen a knot on a cloth bag."
+    },
+    {
+      "id": 396,
+      "unit": 23,
+      "slug": "unwrap",
+      "headword": "unwrap",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "打开",
+        "拆开"
+      ],
+      "definition": "to remove paper covering something",
+      "example": "Time to unwrap your present.",
+      "spokenForm": "unwrap",
+      "imageAlt": "A smiling purple creature eagerly pulls colorful shiny wrapping paper off a square box in a cozy playroom."
+    },
+    {
+      "id": 397,
+      "unit": 23,
+      "slug": "volcano",
+      "headword": "volcano",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "火山"
+      ],
+      "definition": "a mountain that sometimes explodes fire",
+      "example": "The big volcano puffed grey smoke.",
+      "spokenForm": "volcano",
+      "imageAlt": "A large grey mountain with a glowing crater at the top stands quietly under a soft blue sky with fluffy clouds."
+    },
+    {
+      "id": 398,
+      "unit": 23,
+      "slug": "wear-off",
+      "headword": "wear off",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "消退",
+        "消失"
+      ],
+      "definition": "to slowly disappear over time",
+      "example": "The tired feeling will wear off.",
+      "spokenForm": "wear off",
+      "imageAlt": "A cute yellow creature watches bright glowing sparkles slowly fade away into the air in a sunny garden."
+    },
+    {
+      "id": 399,
+      "unit": 24,
+      "slug": "apparently",
+      "headword": "apparently",
+      "partOfSpeech": "adverb",
+      "chineseGlosses": [
+        "好像",
+        "听说"
+      ],
+      "definition": "known by what you heard or read",
+      "example": "Apparently, it will rain tomorrow afternoon.",
+      "spokenForm": "apparently",
+      "imageAlt": "A fluffy blue creature listening to a friendly green monster whispering a fun secret outdoors."
+    },
+    {
+      "id": 400,
+      "unit": 24,
+      "slug": "catch-up-on",
+      "headword": "catch up on sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "补做",
+        "赶上"
+      ],
+      "definition": "to finish work you missed before",
+      "example": "I need to catch up on my homework.",
+      "spokenForm": "catch up on something",
+      "imageAlt": "A little yellow creature sitting at a tiny wooden desk quickly finishing drawing pictures."
+    },
+    {
+      "id": 401,
+      "unit": 24,
+      "slug": "comedian",
+      "headword": "comedian",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "喜剧演员",
+        "笑星"
+      ],
+      "definition": "someone who makes people laugh with jokes",
+      "example": "The funny comedian made everyone laugh hard.",
+      "spokenForm": "comedian",
+      "imageAlt": "A happy pink creature wearing a funny hat telling jokes to cheerful animal friends."
+    },
+    {
+      "id": 402,
+      "unit": 24,
+      "slug": "disguise",
+      "headword": "disguise",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "伪装",
+        "变装"
+      ],
+      "definition": "clothes that change how you look",
+      "example": "He wore a silly disguise with glasses.",
+      "spokenForm": "disguise",
+      "imageAlt": "A round orange creature wearing a fake bushy mustache and big paper glasses to hide."
+    },
+    {
+      "id": 403,
+      "unit": 24,
+      "slug": "earnings",
+      "headword": "earnings",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "收入",
+        "工钱"
+      ],
+      "definition": "money you get from working",
+      "example": "She saved her earnings in a jar.",
+      "spokenForm": "earnings",
+      "imageAlt": "A small purple creature putting shiny golden coins carefully into a glass jar."
+    },
+    {
+      "id": 404,
+      "unit": 24,
+      "slug": "estimate",
+      "headword": "estimate",
+      "partOfSpeech": "verb",
+      "chineseGlosses": [
+        "估计",
+        "估算"
+      ],
+      "definition": "to guess the size or cost",
+      "example": "I estimate there are fifty marbles here.",
+      "spokenForm": "estimate",
+      "imageAlt": "A fluffy green creature looking closely at a big jar filled with colorful glass beads."
+    },
+    {
+      "id": 405,
+      "unit": 24,
+      "slug": "get-over-with",
+      "headword": "get sth over with",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "尽快做完",
+        "了结"
+      ],
+      "definition": "to finish a hard job quickly",
+      "example": "Let us clean our room and get it over with.",
+      "spokenForm": "get something over with",
+      "imageAlt": "Two eager creatures fast tidying up colorful blocks on a cozy bedroom floor."
+    },
+    {
+      "id": 406,
+      "unit": 24,
+      "slug": "hang-around-with",
+      "headword": "hang around (with sb)",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "一起玩",
+        "厮混"
+      ],
+      "definition": "to spend time with a friend",
+      "example": "I like to hang around with my best friend.",
+      "spokenForm": "hang around with somebody",
+      "imageAlt": "Two happy little creatures sharing sweet snacks together under a shady green tree."
+    },
+    {
+      "id": 407,
+      "unit": 24,
+      "slug": "have-a-bad-good-influence-on",
+      "headword": "have a bad/ good influence on",
+      "partOfSpeech": "phrase",
+      "chineseGlosses": [
+        "影响",
+        "好坏影响"
+      ],
+      "definition": "to change how someone acts or thinks",
+      "example": "Kind friends have a good influence on us.",
+      "spokenForm": "have a good influence on",
+      "imageAlt": "A kind creature gently helping a younger friend plant a small green sprout."
+    },
+    {
+      "id": 408,
+      "unit": 24,
+      "slug": "key-in-or-key-in",
+      "headword": "key in sth or key sth in",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "键入",
+        "输入"
+      ],
+      "definition": "to type numbers into a machine",
+      "example": "Key in your secret password to start.",
+      "spokenForm": "key in something",
+      "imageAlt": "A small blue creature pressing bright buttons on a friendly glowing toy keyboard."
+    },
+    {
+      "id": 409,
+      "unit": 24,
+      "slug": "landlord-landlady",
+      "headword": "landlord/ landlady",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "房东",
+        "房东太太"
+      ],
+      "definition": "someone who owns a house you rent",
+      "example": "The friendly landlord fixed our front door.",
+      "spokenForm": "landlord",
+      "imageAlt": "A smiling tall creature holding keys and welcoming a new neighbor to a cottage."
+    },
+    {
+      "id": 410,
+      "unit": 24,
+      "slug": "make-for",
+      "headword": "make for",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "走向",
+        "前往"
+      ],
+      "definition": "to walk towards a certain place",
+      "example": "Let us make for the sunny park now.",
+      "spokenForm": "make for",
+      "imageAlt": "A group of cheerful creatures walking happily along a sunny path toward a playground."
+    },
+    {
+      "id": 411,
+      "unit": 24,
+      "slug": "make-out",
+      "headword": "make sth/sb out",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "看出",
+        "听清"
+      ],
+      "definition": "to see or hear with great difficulty",
+      "example": "I can barely make out the distant bird.",
+      "spokenForm": "make something out",
+      "imageAlt": "A curious little creature squinting through binoculars at a tiny bird in the sky."
+    },
+    {
+      "id": 412,
+      "unit": 24,
+      "slug": "make-up-for",
+      "headword": "make up for sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "弥补",
+        "补救"
+      ],
+      "definition": "to make a bad thing feel better",
+      "example": "The indoor picnic made up for the rain.",
+      "spokenForm": "make up for something",
+      "imageAlt": "A friendly creature sharing warm cookies indoors while looking out at rainy windows."
+    },
+    {
+      "id": 413,
+      "unit": 24,
+      "slug": "put-up-a-fight",
+      "headword": "put up a fight",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "抵抗",
+        "抗争"
+      ],
+      "definition": "to strongly resist something",
+      "example": "The little team put up a good fight.",
+      "spokenForm": "put up a fight",
+      "imageAlt": "A brave small creature holds its ground against strong wind and protects an apple basket."
+    },
+    {
+      "id": 414,
+      "unit": 24,
+      "slug": "put-up-with",
+      "headword": "put up with sb/ sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "忍受",
+        "容忍"
+      ],
+      "definition": "to accept something annoying without getting angry",
+      "example": "I must put up with this loud noise.",
+      "spokenForm": "put up with something",
+      "imageAlt": "A patient green creature smiling calmly while a tiny noisy bird chirps nearby."
+    },
+    {
+      "id": 415,
+      "unit": 24,
+      "slug": "start-out",
+      "headword": "start out",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "起步",
+        "开始"
+      ],
+      "definition": "to begin your life or career",
+      "example": "She started out as a young painter.",
+      "spokenForm": "start out",
+      "imageAlt": "A tiny furry artist holding a paintbrush in front of a blank canvas with a smile."
+    },
+    {
+      "id": 416,
+      "unit": 24,
+      "slug": "treatment",
+      "headword": "treatment",
+      "partOfSpeech": "noun",
+      "chineseGlosses": [
+        "治疗",
+        "疗法"
+      ],
+      "definition": "care to help fix a hurt body",
+      "example": "The doctor gave a special knee treatment.",
+      "spokenForm": "treatment",
+      "imageAlt": "A friendly doctor creature putting a star bandage on a soft toy bear's paw."
+    },
+    {
+      "id": 417,
+      "unit": 24,
+      "slug": "weird",
+      "headword": "weird",
+      "partOfSpeech": "adjective",
+      "chineseGlosses": [
+        "怪异",
+        "古怪"
+      ],
+      "definition": "very strange and unusual to see",
+      "example": "We saw a weird purple flying bug.",
+      "spokenForm": "weird",
+      "imageAlt": "A surprised little creature staring at a glowing polka-dot flower floating in midair."
+    },
+    {
+      "id": 418,
+      "unit": 24,
+      "slug": "work-on",
+      "headword": "work on sth",
+      "partOfSpeech": "phrasal verb",
+      "chineseGlosses": [
+        "修复",
+        "致力"
+      ],
+      "definition": "to spend time fixing an object",
+      "example": "Dad likes to work on old toy cars.",
+      "spokenForm": "work on something",
+      "imageAlt": "An adult creature using a tiny screwdriver to fix a wooden toy train on a table."
+    }
+  ]
+}
